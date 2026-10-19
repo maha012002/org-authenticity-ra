@@ -1,0 +1,792 @@
+Get answers to all your support, sales, and partner questions.
+Main Menu
+- Products
+- Hardware
+- Software
+Gaming and Entertainment
+Laptops and Workstations
+Cloud and Data Center
+Networking
+GPUs
+Embedded Systems
+Application Frameworks
+Apps and Tools
+Gaming and Entertainment
+Infrastructure
+- Solutions
+AI and Data Science
+Data Center and Cloud Computing
+Design and Visualization
+Edge Computing
+High-Performance Computing
+Self-Driving Vehicles
+- Industries
+Industries
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_11966187646e073acb_70b7_4795_9804_f861552b0098",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-d-410x205.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-d-410x205@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/industries/industries-general-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'https://www.nvidia.com/gtc/?nvid=nv-int-billweb-296589#cid=gtcs22_nv-int-billweb_en-us',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+- For You
+- Creatives/Designers
+- Data Scientists
+- Developers
+- Gamers
+- IT Professionals
+- Researchers
+- Roboticists
+- Startups
+NVIDIA Studio
+Industries
+Solutions
+NVIDIAGDC.funcQueue.addToQueue({
+id : "imageddc5a5f4_8e96_4eb7_b96c_92487f245e12",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-d-410x205.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-d-410x205@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/creatives-designers/creatives-designers-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'https://events.rainfocus.com/widget/nvidia/gtcspring2022/1644387045891001JbUL?nvid=nv-int-billweb-314486#cid=gtcs22_nv-int-billweb_en-us',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+Industries
+Solutions
+Software
+Products
+Resources
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_78467200906b41886_9e16_49f3_889e_f65e62b02502",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-d-190x320.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-d-190x320@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-l-134x320@2x.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-l-134x320.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-l-134x320@2x.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-l-134x320.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-l-134x320@2x.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/data-scientists/data-scientists-mega-menu-promo-area-2-column-l-134x320.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'https://events.rainfocus.com/widget/nvidia/gtcspring2022/1644384617165001zO1O?nvid=nv-int-billweb-297853#cid=gtcs22_nv-int-billweb_en-us',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+Developer Resources
+Application Frameworks
+Top SDKs and Libraries
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_789736562fd4065f1_a075_4b4d_a291_bc2953af563f",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-d-190x320.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-d-190x320@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-l-134x320.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-l-134x320@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-l-134x320.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-l-134x320@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-l-134x320.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/Developer/developer-mega-menu-promo-area-2-column-l-134x320@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'https://events.rainfocus.com/widget/nvidia/gtcspring2022/1644382431780001YRmX?nvid=nv-int-billweb-123370#cid=gtcs22_nv-int-billweb_en-us',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+Solutions
+Software
+Apps and Tools
+Resources
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_148101941498f09e49_1d3f_466b_b633_0879223f0d02",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-d-410x205.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-d-410x205@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/it-professionals/it-professionals-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'https://events.rainfocus.com/widget/nvidia/gtcspring2022/1644386784214001JUN6?nvid=nv-int-billweb-316781#cid=gtcs22_nv-int-billweb_en-us',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_19829722034bed63b_b64c_491e_88a5_851a2acad67e",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-d-410x205@2x.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-d-410x205@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/researchers/researchers-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'https://events.rainfocus.com/widget/nvidia/gtcspring2022/1644387295704001ycH9?nvid=nv-int-billweb-795602#cid=gtcs22_nv-int-billweb_en-us',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+Products
+Software
+Use Cases
+Resources
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_2939261825bc87293_77d4_4127_a2cd_ad82146be29e",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-d-410x205.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-d-410x205@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-l-298x205.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/megamenubanners/roboticists/robotics-mega-menu-promo-area-4-column-l-298x205@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'https://events.rainfocus.com/widget/nvidia/gtcspring2022/1644386289107001sodq?nvid=nv-int-billweb-848694#cid=gtcs22_nv-int-billweb_en-us',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+{{#if products.length}}
+<ul class="cart__items" style="max-height:{{height}}px">
+{{#products}}
+<li class="cart-item cart-item--{{id}}">
+<div class="cart-item__quantity-selector quantity-selector">
+{{#ifProductQuantityIsOne id}}
+<a class="quantity-selector__dec disabled"></a>
+{{else}}
+{{#ifProductOutOfStock id}}
+<a class="quantity-selector__dec disabled"></a>
+{{else}}
+<a class="quantity-selector__dec js-cart-item-dec" data-digital-river-id="{{id}}"></a>
+{{/ifProductOutOfStock}}
+{{/ifProductQuantityIsOne}}
+<span class="quantity-selector__value">{{quantity}}</span>
+{{#ifProductLimitReached id}}
+<a class="quantity-selector__inc disabled"></a>
+{{else}}
+{{#ifProductOutOfStock id}}
+<a class="quantity-selector__inc disabled"></a>
+{{else}}
+{{#ifAvailableStock id}}
+<a class="quantity-selector__inc disabled"></a>
+{{else}}
+<a class="quantity-selector__inc js-cart-item-inc" data-digital-river-id="{{id}}"></a>
+{{/ifAvailableStock}}
+{{/ifProductOutOfStock}}
+{{/ifProductLimitReached}}
+</div>
+<div class="cart-item__name">
+{{name}}
+<div class="cart_remove"><a class="cart-item__remove js-cart-item-remove" data-digital-river-id="{{id}}">{{#remove}}{{/remove}}</a></div>
+</div>
+<div class="cart-item__price">
+{{{totalPrice}}}
+</div>
+{{#ifProductLimitReached id}}
+<div class="cart-item__product-info-message">
+{{#getProductStockMessage id}}{{/getProductStockMessage}}
+</div>
+{{/ifProductLimitReached}}
+{{#ifProductOutOfStock id}}
+<div class="cart-item__product-info-message">
+{{#getProductOutOfStockMessage id}}{{/getProductOutOfStockMessage}}
+</div>
+{{/ifProductOutOfStock}}
+{{#ifAvailableStock id}}
+<div class="cart-item__product-info-message">
+{{#getAvailableStockMessage id}}{{/getAvailableStockMessage}}
+</div>
+{{/ifAvailableStock}}
+</li>
+{{#if promo.length}}
+{{#promo}}
+<div class="cart__promotions">
+<img class="cart_image" src="{{image}}" />
+<span class="cart_desc">{{name}}</span>
+<span class="cart_bundle_link">{{#included}}{{/included}}</span>
+</div>
+{{/promo}}
+{{/if}}
+{{/products}}
+</ul>
+<div class="cart__total">
+{{{total}}}
+</div>
+<div class="nv-button js-checkout cart__checkout-button">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 401.998 401.998" xml:space="preserve" class="padlock"><path d="M357.45,190.721c-5.331-5.33-11.8-7.993-19.417-7.993h-9.131v-54.821c0-35.022-12.559-65.093-37.685-90.218C266.093,12.563,236.025,0,200.998,0c-35.026,0-65.1,12.563-90.222,37.688C85.65,62.814,73.091,92.884,73.091,127.907v54.821h-9.135c-7.611,0-14.084,2.663-19.414,7.993c-5.33,5.326-7.994,11.799-7.994,19.417V374.59c0,7.611,2.665,14.086,7.994,19.417c5.33,5.325,11.803,7.991,19.414,7.991H338.04c7.617,0,14.085-2.663,19.417-7.991c5.325-5.331,7.994-11.806,7.994-19.417V210.135C365.455,202.523,362.782,196.051,357.45,190.721z M274.087,182.728H127.909v-54.821c0-20.175,7.139-37.402,21.414-51.675c14.277-14.275,31.501-21.411,51.678-21.411c20.179,0,37.399,7.135,51.677,21.411c14.271,14.272,21.409,31.5,21.409,51.675V182.728z"/></svg>{{checkout}}
+</div>
+{{/if}}
+{{^products}}
+<div class="cart__empty">
+{{cartIsEmpty}}
+</div>
+{{/products}}
+<div class="modalContent parbase section" >
+<div class="hide-modal-content">
+<div id="dr-notify-me-{{id}}" class="general-container dr-notify-me">
+<div class="modal-content parsys">
+<iframe class="dr-notify-me-frame" src="https://buy.nvidia.com/store?Action=DisplayNotifyMeFormPage&Env=BASE&Locale={{region}}&SiteID=nvidia&productID={{id}}"></iframe>
+</div>
+Login
+LogOut
+NVIDIA
+NVIDIA logo
+Main Menu
+Products
+Solutions
+AI and Data Science
+Data Center and Cloud Computing
+Design and Visualization
+Edge Computing
+High-Performance Computing
+Self-Driving Vehicles
+Industries
+For You
+Creatives/Designers
+NVIDIA Studio
+Industries
+Solutions
+Data Scientists
+Industries
+Solutions
+Software
+Products
+Resources
+Developers
+Developer Resources
+Application Frameworks
+Top SDKs and Libraries
+Gamers
+IT Professionals
+Solutions
+Software
+Apps and Tools
+Resources
+Researchers
+Roboticists
+Products
+Software
+Use Cases
+Resources
+Startups
+var searchPath = document.getElementById("search-path");
+searchPath.value = window.location.pathname;
+Company
+Careers
+News
+Events
+var searchPath = document.getElementById("search-path");
+searchPath.value = window.location.pathname;
+NVIDIAGDC.funcQueue.addToQueue({
+id : "navigation80975719_36be_494d_9f51_207190607136",
+method : "navigation-megamenu",
+params : [{
+globalSite:false,
+breadCrumbAdded: false,
+enableSearchLibrary: false,
+searchOptions: {
+destination: "https://www.nvidia.com/en-us/search/",
+apiUrl: "https://api-prod.nvidia.com/search/graphql",
+triggerId: 'nvidia-search-box-link',
+referenceId: 'nvidia-search-box-link'
+}]
+});
+NVIDIAGDC.isBrandPage = true;
+NVIDIAGDC.isMegaMenu = true;
+This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the instructions how to enable JavaScript in your web browser.
+Taking on the world's greatest challenges
+NVIDIAGDC.funcQueue.addToQueue({
+id : "herobanner8ffe8b6a_f11f_4f0b_b0e7_61e8b234fdf5",
+method : "herobanner",
+params : [{
+lastSlide:"slide1-herobanner8ffe8b6a_f11f_4f0b_b0e7_61e8b234fdf5",
+slidecount:1,
+period:7,
+autoslidedisable:false,
+pageoldbreakpointvalue: 'true',
+id:"herobanner8ffe8b6a_f11f_4f0b_b0e7_61e8b234fdf5",
+articleID:"herobanner8ffe8b6a_f11f_4f0b_b0e7_61e8b234fdf5",
+lazyloded: true
+}]
+});
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Today, our work in AI is transforming 100 trillion dollars of industries—from gaming to healthcare to transportation—and profoundly impacting society.
+NVIDIAGDC.funcQueue.addToQueue({
+id : "sectionenhanced34678fed_0214_46d5_b2f2_5bc30693fa83",
+method : "sectionEnhancedComponent",
+params : [{
+imageDesktopUrl:' ',
+imageLaptopUrl:' ',
+imageTabletUrl:' ',
+imageMobileUrl:' ',
+secpageobpvalue: 'true',
+sectionurl: '',
+sectionurltarget: '_self',
+secCustBgColor:''
+}]
+});
+30 Years of Fun and Games. And Some Serious Innovation.
+NVIDIAGDC.funcQueue.addToQueue({
+id : "sectionenhanced_130242486436e70064_cb69_4baf_8b62_d5f241d300e4",
+method : "sectionEnhancedComponent",
+params : [{
+imageDesktopUrl:' ',
+imageLaptopUrl:' ',
+imageTabletUrl:' ',
+imageMobileUrl:' ',
+secpageobpvalue: 'true',
+sectionurl: '',
+sectionurltarget: '_self',
+secCustBgColor:''
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image3ef535bb_f467_4fe3_999f_6c6af79812b9",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-d.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-d@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-l.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-l@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-t.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-t@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-p.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-meet-leaders-3c33-p@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_copy4e469912_214e_4f14_90c9_cf0eb50592f9",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-d.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-d@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-l.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-l@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-t.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-t@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-p.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-learn-our-history-3c33-p@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_copy1f011079_bd8f_486d_9019_b4a6070328ca",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-d.jpg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-d@2x.jpg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-l.jpg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-l@2x.jpg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-t.jpg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-t@2x.jpg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-p.jpg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/about-us/about-us-join-our-team-3c33-p@2x.jpg',
+imageTarget:'_self',
+imageDesktopCustWidth:'',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "columnlayoutenhanced0a039e86_f1fc_4a83_8397_ed719d1aa09f",
+method : "columnlayoutenhanced",
+params : [{
+columnsNumber: 3,
+imageBigDesktopUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageDesktopUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" ,
+imageTabletUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageMobileUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageBigDesktopUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageDesktopUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" ,
+imageTabletUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageMobileUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+mobNoResponsive:"",
+tabNoResponsive:"true",
+tabSingleCol:"",
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "imageb7128ae6_f24e_4d07_8b5e_7ac9f878b9cd",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-news-128x128.svg',
+imageTarget:'_self',
+imageDesktopCustWidth:'192',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_copye220dde2_d8f0_4404_9503_1fe958ac32af",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-csr-128x128.svg',
+imageTarget:'_self',
+imageDesktopCustWidth:'192',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "image_copy_copy7adaa766_d2e2_4863_af29_500c5f1687e2",
+method : "imageComponent",
+params : [{
+imageDesktopUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageDesktopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageLaptopUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageLaptopRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageTabletUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageTabletRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageMobileUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageMobileRetinaUrl:'/content/dam/en-zz/Solutions/about-us/corporate-web-nv-story-about-us-refresh-icon-investor-128x128.svg',
+imageTarget:'_self',
+imageDesktopCustWidth:'192',
+imageLaptopCustWidth:'',
+imageTabletCustWidth:'',
+imagePhoneCustWidth:'',
+imageTargetURL:'',
+oldBreakPointValue: 'true',
+lazyloded: true
+}]
+});
+NVIDIAGDC.funcQueue.addToQueue({
+id : "columnlayoutenhanced_1441530703582886d0_fe34_4627_8b11_a4dd521277f5",
+method : "columnlayoutenhanced",
+params : [{
+columnsNumber: 3,
+imageBigDesktopUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageDesktopUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" ,
+imageTabletUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageMobileUrl1: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageBigDesktopUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageDesktopUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" ,
+imageTabletUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+imageMobileUrl2: "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+mobNoResponsive:"",
+tabNoResponsive:"true",
+tabSingleCol:"",
+}]
+});
+Corporate Information
+News & Events
+NVIDIA
+Copyright © 2022 NVIDIA Corporation
+NVIDIA websites use cookies to deliver and improve the website experience. See our cookie policy for further details on how we use cookies and how to change your cookie settings.
+NVIDIAGDC.funcQueue.addToQueue({
+id : "globalFooter",
+method : "cookiemsg",
+params : [{
+cookiemsg:''
+}]
+});
+NVIDIAGDC.funcQueue.executeQueue();
+//DTM code Execution
+if(typeof _satellite !== "undefined"){
+_satellite.pageBottom();
+/*Logic to handle window resize , All window resize should be handled here at global Level*/
+var windowResizeID,
+screenWidth,
+pixelSize = window.devicePixelRatio;
+var preResizeViewPort=NVIDIAGDC.Browser.getViewport();
+$(window).resize(function() {
+clearTimeout(windowResizeID);
+windowResizeID = setTimeout(handleWindowResizing, 500);
+});
+function handleWindowResizing(){
+var viewPort = NVIDIAGDC.Browser.getViewport();
+if(viewPort!==preResizeViewPort) {
+preResizeViewPort=viewPort;
+var heroBannerarticles=$(".heroBanner").find("article.lazyloaded");
+var articleLength=heroBannerarticles.length;
+/* if (index === (length - 1)) {
+} */
+heroBannerarticles.each(function(index,element) {
+//var viewPort = NVIDIAGDC.Browser.getViewport();
+var bcgImagePath = '';
+var bg = $(this).css('background-image');
+var currentBGimage=bg.replace('url(','').replace(')','');
+if(viewPort === "mobile"){
+bcgImagePath = $(this).attr('data-bcgimagemobile');
+} else if(viewPort === "tablet"){
+bcgImagePath = $(this).attr('data-bcgimagetablet');
+} else if(viewPort === "desktop"){
+bcgImagePath = $(this).attr('data-bcgimagepc');
+}else if(viewPort === "laptop"){
+bcgImagePath = $(this).attr('data-bcgimagelaptop');
+if(bcgImagePath !== "undefined" && bcgImagePath !== "" && currentBGimage!==bcgImagePath){
+$(this).css("background-image" , "url('" + bcgImagePath +"')");
+});
+var lazylodedimages=$(".image").find("img.lazyloaded");
+var loadedimages=lazylodedimages.length;
+lazylodedimages.each(function(index,element) {
+var imagescr=""
+var currentscr=$(this).attr("src");
+if(pixelSize >= 1.5) {
+if(viewPort === "mobile"){
+imagescr = $(this).attr('data-src-mobile-retina');
+} else if(viewPort === "tablet"){
+imagescr = $(this).attr('data-src-tablet-retina');
+} else if(viewPort === "laptop"){
+imagescr = $(this).attr('data-src-laptop-retina');
+} else {
+imagescr = $(this).attr('data-src-desktop-retina');
+}else {
+if(viewPort === "mobile"){
+imagescr = $(this).attr('data-bcgimagemobile');
+} else if(viewPort === "tablet"){
+imagescr = $(this).attr('data-src-tablet');
+} else if(viewPort === "laptop"){
+imagescr = $(this).attr('data-src-laptop');
+} else {
+imagescr = $(this).attr('data-src-desktop');
+if(imagescr !== "undefined" && imagescr !== "" && currentscr!==imagescr){
+$(this).attr("src" , imagescr);
+});
+/*load model images post page load*/
+$(window).load(function() {
+if(typeof(lazySizes) != "undefined"){
+$(".modalContent").find(".lazyload").each(function(){
+lazySizes.loader.unveil(this);
+});
+/*move this out*/
+$('.sub-brand-nav-container a div.title, .mobile-menu-container a.brand-nav-link').each(function(){if($(this).html()&&$(this).html().indexOf('*')>-1){$(this).html($(this).html().replace('*',''));$(this).parent().attr('target','_blank');$(this).parent().attr('rel','noopener noreferrer');}});
+.unibrow-subnav{
+position: relative;
+top: auto !important;
+$(function(){
+$(window).bind('load', function(){
+var ubContainer="";
+if(typeof t_ubContainer !== 'undefined' && t_ubContainer.length>0){
+ubContainer = t_ubContainer;
+var cookieKey = "";
+if(typeof t_cookieKey !== 'undefined' && t_cookieKey.length>0){
+cookieKey = t_cookieKey
+var ubcookie = "";
+if(cookieKey.length>0){
+ubcookie = Cookies.get(cookieKey)!=='undefined'?Cookies.get(cookieKey):"";
+} else {
+ubcookie = "";
+// var ubcookie = Cookies.get(cookieKey);
+var isCookie = typeof ubcookie !== 'undefined'?ubcookie:"";
+if(!isCookie){
+if(isCookie.length<1){
+if ($('#unibrow-container').length >0){
+$('#unibrow-container').removeClass('hide-unibrow');
+$('#unibrow-container').append(ubContainer);
+if ($(".sub-brand-nav").length >0){
+$(".sub-brand-nav").addClass('unibrow-top');
+var ubsc = $(window).width();
+if(ubsc < NVIDIAGDC.tabletBreakpoint){
+var ml = $('#unibrow-container'),
+mcurHeight = ml.height(),
+mautoHeight = ml.css('height', 'auto').height();
+ml.height(mcurHeight).css('height', mautoHeight+10+'px');
+// $("#unibrow-container").css('height', mautoHeight+10+'px');
+if(NVIDIAGDC.isMegaMenu){
+$("#unibrow-container").css('marginTop', '44px');
+$(".subnav").css('marginTop', mautoHeight+10+'px');
+} else {
+$("#unibrow-container").css('marginTop', '0px');
+$(".subnav").css('marginTop', mautoHeight+10+'px');
+$(".unibrow-top").css('marginTop', mautoHeight+10+'px');
+/* if($(".subnav").length>0){
+$(".subnav").addClass('unibrow-subnav');
+} */
+let pageMargin = $("#page-content").css("marginTop");
+$("#page-content").css("marginTop",parseInt(pageMargin)+mautoHeight+10+"px");
+} else if(ubsc==NVIDIAGDC.desktopBreakpoint){
+var el = $('#unibrow-container'),
+tbcurHeight = el.height(),
+tbautoHeight = el.css('height', 'auto').height();
+el.height(tbcurHeight).css('height', tbautoHeight+11+'px');
+if($(".subnav").length>0){
+$(".subnav").addClass('unibrow-subnav');
+} else {
+$("#unibrow-container").css('marginTop', '0px');
+if(NVIDIAGDC.isMegaMenu){
+} else {
+$(".unibrow-top").css('marginTop', tbautoHeight+10+'px');
+$("#unibrow-container").css('marginTop', '0px');
+let pageMargin = $("#page-content").css("marginTop");
+$("#page-content").css("marginTop",parseInt(pageMargin)+tbautoHeight+11+"px");
+} else if(ubsc > NVIDIAGDC.tabletBreakpoint && ubsc < NVIDIAGDC.desktopBreakpoint){
+var ml = $('#unibrow-container'),
+tcurHeight = ml.height(),
+tautoHeight = ml.css('height', 'auto').height();
+ml.height(tcurHeight).css('height', tautoHeight+10+'px');
+if(NVIDIAGDC.isMegaMenu){
+$("#unibrow-container").css('marginTop', '44px');
+$(".subnav").css('marginTop', tautoHeight+10+'px');
+} else {
+$("#unibrow-container").css('marginTop', '0px');
+$(".subnav").css('marginTop', tautoHeight+10+'px');
+$(".unibrow-top").css('marginTop', tautoHeight+10+'px');
+let pageMargin = $("#page-content").css("marginTop");
+$("#page-content").css("marginTop",parseInt(pageMargin)+tautoHeight+10+"px");
+} else {
+var el = $('#unibrow-container'),
+curHeight = el.height(),
+autoHeight = el.css('height', 'auto').height();
+el.height(curHeight).css('height', autoHeight+11+'px');
+if($(".subnav").length>0){
+$(".subnav").addClass('unibrow-subnav');
+if(!NVIDIAGDC.isMegaMenu){
+$(".unibrow-top").css('marginTop', autoHeight+10+'px');
+let pageMargin = $("#page-content").css("marginTop");
+$("#page-content").css("marginTop",parseInt(pageMargin)+autoHeight+11+"px");
+if($(".unibrow-close").length >0){
+$( ".unibrow-close" ).click(function(e) {
+e.preventDefault();
+//$(".unibrow-top").animate({'marginTop': '0px'}, { duration: animationCloseTime, queue: false });
+$(".unibrow-top").css('marginTop', '0px');
+//$("#unibrow-container").animate({'height': '0px'}, { duration: animationCloseTime, queue: false });
+$("#unibrow-container").css('height', '0px');
+$("#unibrow-style-outer").remove();
+$('.sub-brand-nav').removeClass('unibrow-top');
+if(ubsc < NVIDIAGDC.tabletBreakpoint){
+$(".subnav").css('marginTop', '');
+} else if(ubsc > NVIDIAGDC.tabletBreakpoint && ubsc < NVIDIAGDC.desktopBreakpoint){
+$(".subnav").css('marginTop', '');
+if(typeof t_cookieKey !== 'undefined' && t_cookieKey.length>0){
+var cookieVal = "";
+var cookieExpires = 0;
+if(typeof t_cookieVal !== 'undefined' && t_cookieVal.length>0){
+cookieVal = t_cookieVal;
+if(typeof t_cookieExpires !== 'undefined'){ cookieExpires = t_cookieExpires; }
+var expires = (new Date(Date.now()+ 86400*1000)).toUTCString();
+document.cookie = cookieKey + "=" + cookieVal + "; expires=" + cookieExpires + ";path=/;";
+$("#unibrow-container").addClass('hide-unibrow');
+if($(".subnav").length>0){
+$(".subnav").removeClass('unibrow-subnav');
+$("#page-content").css("marginTop","");
+if($(".stbrdcrmbblock").length>0){
+$(".stbrdcrmbblock").css("top","");
+$(".stbrdcrmbblock").css("position", "");
+$(".stbrdcrmbblock").addClass("stbrdcrmbshadow");
+});
+var position = $(window).scrollTop();
+$(window).scroll(function() {
+if($(".hide-unibrow").length<1 && $(".stbrdcrmbblock.stbrdcrmbstick").length>0) {
+var scroll = $(window).scrollTop();
+if (scroll > position) {
+if($(window).width() < NVIDIAGDC.tabletBreakpoint){
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))+56+"px");
+} else if($(window).width() > NVIDIAGDC.tabletBreakpoint && $(window).width() < NVIDIAGDC.desktopBreakpoint){
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))+46+"px");
+} else if($(window).width() == NVIDIAGDC.desktopBreakpoint) {
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))-46+"px");
+} else {
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))+"px");
+$(".stbrdcrmbblock").addClass("stbrdcrmbstick");
+//console.log('scrollDown');
+} else {
+if($(window).width() < NVIDIAGDC.tabletBreakpoint){
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))+46+56+"px");
+} else if($(window).width() > NVIDIAGDC.tabletBreakpoint && $(window).width() < NVIDIAGDC.desktopBreakpoint){
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))+46+46+"px");
+} else if($(window).width() == NVIDIAGDC.desktopBreakpoint) {
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))+"px");
+} else {
+$(".stbrdcrmbblock").css("top", parseInt($(".global-nav").css("height"))+46+"px");
+$(".stbrdcrmbblock").addClass("stbrdcrmbstickwthhead");
+//console.log('scrollUp');
+position = scroll;
+});

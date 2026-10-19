@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "innovative",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "OUR MISSION Giving",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.9746",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

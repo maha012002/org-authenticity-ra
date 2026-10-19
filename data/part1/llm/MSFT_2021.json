@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "innovative,",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "projects Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Social Responsibility We",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "others Our mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.8437",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

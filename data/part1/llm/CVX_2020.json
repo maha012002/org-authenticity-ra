@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "creativity",
+      "salience": 1
+    },
+    {
+      "code": "collaboration",
+      "evidence": "collaboration",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "quality",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.1651",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

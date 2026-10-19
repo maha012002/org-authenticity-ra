@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Oracle 420,000+ Customers",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "worldwide 130,000+ Employees",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.7758",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

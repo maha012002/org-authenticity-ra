@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "partnership.",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Employees Approximately",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

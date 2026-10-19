@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "ethical,",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "clients\u2019",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environmental",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "philanthropy As",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

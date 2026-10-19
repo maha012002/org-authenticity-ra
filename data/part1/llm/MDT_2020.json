@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity,",
+      "salience": 1
+    },
+    {
+      "code": "customer",
+      "evidence": "patient",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "invented",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "quality",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environment. Let's",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our Mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.2017",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

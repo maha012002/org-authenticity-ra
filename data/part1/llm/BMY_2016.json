@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers\u2019",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "U.S. Innovation",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "partnerships",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "inclusive",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Equality",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainability-driven",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "shareholders,",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our Mission",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

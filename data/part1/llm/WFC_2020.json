@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "performance. -",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.7638",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

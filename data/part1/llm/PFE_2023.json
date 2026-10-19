@@ -1,0 +1,69 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "customers,",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Innovation -",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Collaboration",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respecting",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "excellence",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community\u2019s",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Safety -",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Shareholder",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our mission -",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.967",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

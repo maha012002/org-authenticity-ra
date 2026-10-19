@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "clients",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respect",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "diversity",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Equality",
+      "salience": 3
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

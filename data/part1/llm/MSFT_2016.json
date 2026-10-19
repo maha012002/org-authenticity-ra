@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "researchers",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environmental",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "\u00ef\u00bb\u00bf Our mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

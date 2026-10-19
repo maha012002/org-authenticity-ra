@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "today Ethics",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "patients\u2019",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Virology. Working Together",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respected",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "accountability,",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainable",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "patients. Strategy Our Mission",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

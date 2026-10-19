@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers,",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovations",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "climate",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose We",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.2437",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

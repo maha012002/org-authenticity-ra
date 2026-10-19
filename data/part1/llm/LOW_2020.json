@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Canada ~18m Customers",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "excellence,",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainable",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our mission",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

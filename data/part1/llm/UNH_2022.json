@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity,",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "collaboration",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "well-being",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "diversity",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "high-quality",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "system. Our Mission Helping",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.4673",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

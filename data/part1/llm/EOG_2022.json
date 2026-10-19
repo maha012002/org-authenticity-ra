@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Events Sustainability Investors Events",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Text similarity to prior year = 1.0",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

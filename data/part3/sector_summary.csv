@@ -1,0 +1,6 @@
+sector,n_firms,mean_authenticity,mean_cheap_talk,mean_pct_esg_in_comp
+Consumer Discretionary,10,0.5468,0.0429,0.7813
+Energy,10,0.5849,0.011,0.9288
+Financials,10,0.483,0.0461,0.8444
+Healthcare,10,0.5957,0.0373,0.8214
+Technology,9,0.4705,0.0322,0.9228

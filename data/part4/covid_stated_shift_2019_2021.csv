@@ -1,0 +1,47 @@
+ticker,company_name,sector,net_theme_delta,d_integrity,d_customer,d_innovation,d_collaboration,d_respect_people,d_diversity_inclusion,d_performance_execution,d_environment_sustainability,d_community_social_impact,d_safety,d_shareholder_value,d_purpose_mission
+MSFT,Microsoft,Technology,2,0,0,0,0,0,-1,0,1,2,0,0,0
+AAPL,Apple,Technology,7,0,0,0,0,1,3,0,2,1,0,0,0
+NVDA,NVIDIA,Technology,0,0,0,0,0,0,0,0,0,0,0,0,0
+GOOGL,Alphabet,Technology,2,0,0,0,0,0,3,0,0,0,0,-1,0
+META,Meta Platforms,Technology,-1,0,0,0,0,-1,0,0,0,0,0,0,0
+AVGO,Broadcom,Technology,0,0,0,0,0,0,0,0,0,0,0,0,0
+CRM,Salesforce,Technology,0,0,0,0,0,0,0,0,0,0,0,0,0
+ORCL,Oracle,Technology,4,0,-1,0,0,0,1,3,0,1,0,0,0
+IBM,IBM,Technology,-12,0,-2,0,-1,-2,0,-2,-3,-1,-1,0,0
+INTC,Intel,Technology,12,1,3,1,0,0,0,2,3,-1,0,0,3
+BRK.B,Berkshire Hathaway,Financials,0,0,0,0,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase,Financials,9,3,2,0,0,2,1,1,0,0,0,0,0
+WFC,Wells Fargo,Financials,-2,0,0,0,0,0,0,0,0,-2,0,0,0
+GS,Goldman Sachs,Financials,0,0,0,0,0,0,0,0,0,0,0,0,0
+MS,Morgan Stanley,Financials,0,0,1,-1,-1,1,1,0,0,-1,0,0,0
+BLK,BlackRock,Financials,9,1,1,-2,-1,3,3,-1,3,0,0,0,2
+SCHW,Charles Schwab,Financials,0,0,0,0,0,0,0,0,0,0,0,0,0
+AXP,American Express,Financials,4,0,0,2,1,1,2,0,0,-2,0,0,0
+C,Citigroup,Financials,0,0,0,0,0,0,0,0,0,0,0,0,0
+LLY,Eli Lilly,Healthcare,-16,-2,-2,-1,0,-3,0,-3,-1,-1,0,-2,-1
+UNH,UnitedHealth Group,Healthcare,0,1,-1,-2,0,-1,2,0,-1,1,0,0,1
+JNJ,Johnson & Johnson,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0
+ABBV,AbbVie,Healthcare,4,0,1,2,0,1,0,0,0,0,0,0,0
+MRK,Merck,Healthcare,2,-2,2,0,2,-2,0,-1,-1,1,0,0,3
+TMO,Thermo Fisher Scientific,Healthcare,-1,0,0,0,0,-1,0,0,0,0,0,0,0
+ABT,Abbott Laboratories,Healthcare,0,0,0,0,0,0,0,0,0,0,0,0,0
+PFE,Pfizer,Healthcare,4,0,0,0,0,0,2,1,0,1,0,0,0
+MDT,Medtronic,Healthcare,13,0,2,1,0,0,3,2,3,0,0,1,1
+BMY,Bristol-Myers Squibb,Healthcare,4,1,0,0,0,1,-1,2,-2,2,0,0,1
+AMZN,Amazon,Consumer Discretionary,-4,-1,0,-1,0,-1,0,-2,1,0,0,0,0
+TSLA,Tesla,Consumer Discretionary,1,0,0,0,0,0,0,1,0,0,0,0,0
+HD,Home Depot,Consumer Discretionary,0,0,0,0,0,0,0,0,0,0,0,0,0
+MCD,McDonald's,Consumer Discretionary,6,2,2,-1,0,1,-1,2,-1,-1,0,0,3
+NKE,Nike,Consumer Discretionary,0,0,0,0,0,0,0,0,0,0,0,0,0
+SBUX,Starbucks,Consumer Discretionary,0,0,0,0,0,0,0,0,0,0,0,0,0
+TGT,Target,Consumer Discretionary,0,0,0,-1,0,0,0,0,0,0,0,0,1
+TJX,TJX Companies,Consumer Discretionary,4,0,0,1,0,0,-1,2,1,0,2,-1,0
+F,Ford Motor,Consumer Discretionary,1,0,-1,0,0,1,1,-1,0,0,0,0,1
+CVX,Chevron,Energy,2,2,0,0,1,0,0,-1,0,0,0,0,0
+COP,ConocoPhillips,Energy,1,0,0,1,0,0,0,0,0,0,0,0,0
+EOG,EOG Resources,Energy,0,0,0,0,0,0,0,0,0,0,0,0,0
+SLB,SLB (Schlumberger),Energy,2,0,0,0,0,0,0,1,1,0,0,0,0
+MPC,Marathon Petroleum,Energy,-3,-1,-1,0,1,-1,-1,0,0,0,-1,1,0
+PSX,Phillips 66,Energy,1,0,0,-1,1,0,0,0,1,0,0,0,0
+VLO,Valero Energy,Energy,10,1,1,1,0,0,0,2,2,1,1,1,0
+HAL,Halliburton,Energy,18,2,2,3,1,2,2,3,0,0,2,1,0

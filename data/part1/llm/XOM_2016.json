@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "innovation",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

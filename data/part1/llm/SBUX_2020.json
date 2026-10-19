@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "transparency,",
+      "salience": 1
+    },
+    {
+      "code": "customer",
+      "evidence": "customers",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respect. -",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "belonging,",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "results. With",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "OUR MISSION To",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Text similarity to prior year = 1.0",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

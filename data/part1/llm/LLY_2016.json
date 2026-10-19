@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "values Integrity,",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respect",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "excellence",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "world. Our mission We",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

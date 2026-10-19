@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity,",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "client's",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "results",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.1197",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

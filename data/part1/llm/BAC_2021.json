@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers,",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "excellence,",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainable,",
+      "salience": 1
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "shareholders.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our purpose",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

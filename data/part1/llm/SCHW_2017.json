@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customer",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation,",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respect",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Results",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Social Responsibility",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "permission is",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.4929",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

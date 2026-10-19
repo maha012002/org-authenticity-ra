@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "ethical",
+      "salience": 1
+    },
+    {
+      "code": "customer",
+      "evidence": "customers,",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees,",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "equity,",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "equality",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "climate",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "philanthropy,",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.3346",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

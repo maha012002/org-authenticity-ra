@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "losses. Innovative,",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "tomorrow Employees",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "high-quality",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainable",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Community",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.338",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

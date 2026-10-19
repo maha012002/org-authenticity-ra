@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity. Looking",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "clients",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "teamwork. -",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Respecting",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "quality",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "stockholder",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our purpose. We",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Text similarity to prior year = 0.9931",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

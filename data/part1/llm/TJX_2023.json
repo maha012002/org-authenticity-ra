@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "TJX. RESEARCH",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "quality,",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainable",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "shareholders.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "President Our mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.9392",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

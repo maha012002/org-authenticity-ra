@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "patient's",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation With",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "equity",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "societal",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "serve. OUR MISSION Six",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.1438",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Ethical",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "Innovation We",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Performance",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Community Product",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.4816",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "patients",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our purpose",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.7078",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

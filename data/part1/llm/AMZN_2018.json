@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "trust.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "peculiar. Customer",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respectfully.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "quality",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "long-term value",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.972",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

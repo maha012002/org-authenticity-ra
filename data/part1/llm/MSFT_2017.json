@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "researchers",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainable",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "possible Our mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.8516",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "communities. Ethics",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "Patient",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Compliance Diversity",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "agility",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Inclusion Sustainability Responsibility Achievements Bristol-Myers",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.9151",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

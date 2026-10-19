@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "customers,",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees,",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "diversity",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "performance",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environmental",
+      "salience": 1
+    },
+    {
+      "code": "safety",
+      "evidence": "safety,",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "shareholders",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

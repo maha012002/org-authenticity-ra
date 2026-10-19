@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "patients",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation. We",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity Our",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "accountability,",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "accountable. Sustainability",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community-based",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our mission,",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Text similarity to prior year = 0.999",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

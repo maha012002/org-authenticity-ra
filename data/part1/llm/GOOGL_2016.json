@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "pioneers",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "mission is",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

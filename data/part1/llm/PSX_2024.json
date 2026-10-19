@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "communities. Innovation",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees,",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "excellence",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Fuels Batteries Carbon",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "forward. Community We",
+      "salience": 1
+    },
+    {
+      "code": "safety",
+      "evidence": "safety,",
+      "salience": 3
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Text similarity to prior year = 1.0",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

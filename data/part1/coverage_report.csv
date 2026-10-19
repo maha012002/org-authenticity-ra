@@ -1,0 +1,51 @@
+ticker,sector,years_ok,years_redirect,years_missing,years_error,seeds_used
+MSFT,Technology,9,0,0,0,microsoft.com/en-us/about
+AAPL,Technology,6,3,0,0,apple.com/about;apple.com/careers/us/
+NVDA,Technology,8,1,0,0,nvidia.com/en-us/about-nvidia/;nvidia.com/page/companyinfo.html
+GOOGL,Technology,9,0,0,0,abc.xyz/;about.google/;google.com/about/
+META,Technology,9,0,0,0,about.fb.com/company-info/;about.meta.com/company-info/;newsroom.fb.com/company-info/
+AVGO,Technology,8,0,1,0,broadcom.com/company/about-us
+CRM,Technology,7,1,1,0,salesforce.com/company/about-us/;salesforce.com/company/our-story/
+ORCL,Technology,9,0,0,0,oracle.com/corporate/;oracle.com/corporate/index.html
+IBM,Technology,9,0,0,0,ibm.com/about;ibm.com/ibm/us/en/
+INTC,Technology,9,0,0,0,intel.com/content/www/us/en/company-overview/company-overview.html
+BRK.B,Financials,8,1,0,0,berkshirehathaway.com/
+JPM,Financials,9,0,0,0,jpmorganchase.com/about;jpmorganchase.com/corporate/About-JPMC/about-us.htm
+BAC,Financials,4,0,5,0,about.bankofamerica.com/en/our-company
+WFC,Financials,9,0,0,0,wellsfargo.com/about/
+GS,Financials,8,0,0,1,goldmansachs.com/our-firm/;goldmansachs.com/who-we-are/
+MS,Financials,9,0,0,0,morganstanley.com/about-us
+BLK,Financials,7,2,0,0,blackrock.com/corporate/about-us;blackrock.com/corporate/about-us/mission-and-principles
+SCHW,Financials,9,0,0,0,aboutschwab.com/;aboutschwab.com/who-we-are
+AXP,Financials,5,4,0,0,about.americanexpress.com/
+C,Financials,8,0,1,0,citigroup.com/citi/about/;citigroup.com/global/about-us
+LLY,Healthcare,8,1,0,0,lilly.com/who-we-are;lilly.com/who-we-are/about-lilly
+UNH,Healthcare,5,2,2,0,unitedhealthgroup.com/about.html;unitedhealthgroup.com/who-we-are.html
+JNJ,Healthcare,9,0,0,0,jnj.com/about-jnj;jnj.com/credo;jnj.com/our-credo
+ABBV,Healthcare,8,0,1,0,abbvie.com/our-company.html;abbvie.com/who-we-are.html
+MRK,Healthcare,8,1,0,0,merck.com/about/;merck.com/company-overview/
+TMO,Healthcare,9,0,0,0,corporate.thermofisher.com/en/about-us.html;corporate.thermofisher.com/us/en/index/about.html
+ABT,Healthcare,9,0,0,0,abbott.com/about-abbott.html
+PFE,Healthcare,8,1,0,0,pfizer.com/about;pfizer.com/purpose
+MDT,Healthcare,6,3,0,0,medtronic.com/us-en/about.html
+BMY,Healthcare,9,0,0,0,bms.com/about-us.html;bms.com/ourcompany/Pages/home.aspx
+AMZN,Consumer Discretionary,9,0,0,0,aboutamazon.com/about-us;amazon.jobs/en/principles
+TSLA,Consumer Discretionary,9,0,0,0,tesla.com/about
+HD,Consumer Discretionary,7,2,0,0,corporate.homedepot.com/about/values
+MCD,Consumer Discretionary,5,2,2,0,corporate.mcdonalds.com/corpmcd/about-us.html;corporate.mcdonalds.com/corpmcd/our-company/who-we-are.html
+NKE,Consumer Discretionary,9,0,0,0,about.nike.com/;about.nike.com/en
+SBUX,Consumer Discretionary,9,0,0,0,starbucks.com/about-us/;starbucks.com/about-us/company-information/mission-statement
+TGT,Consumer Discretionary,9,0,0,0,corporate.target.com/about
+LOW,Consumer Discretionary,5,0,4,0,corporate.lowes.com/who-we-are
+TJX,Consumer Discretionary,7,2,0,0,tjx.com/about;tjx.com/company
+F,Consumer Discretionary,9,0,0,0,corporate.ford.com/about.html;corporate.ford.com/company.html
+XOM,Energy,7,0,0,2,corporate.exxonmobil.com/about-us;corporate.exxonmobil.com/en/company/about-us;corporate.exxonmobil.com/en/company/who-we-are;corporate.exxonmobil.com/who-we-are
+CVX,Energy,9,0,0,0,chevron.com/about;chevron.com/who-we-are
+COP,Energy,7,2,0,0,conocophillips.com/about-us/;conocophillips.com/who-we-are/
+EOG,Energy,6,2,1,0,eogresources.com/about;eogresources.com/company
+SLB,Energy,6,3,0,0,slb.com/about;slb.com/about/who-we-are;slb.com/who-we-are
+MPC,Energy,6,0,3,0,marathonpetroleum.com/About/
+PSX,Energy,6,2,1,0,phillips66.com/about
+VLO,Energy,9,0,0,0,valero.com/about;valero.com/en-us/AboutValero
+OXY,Energy,4,0,5,0,oxy.com/about
+HAL,Energy,5,1,3,0,halliburton.com/en-US/about-us/default.html;halliburton.com/en/about-us

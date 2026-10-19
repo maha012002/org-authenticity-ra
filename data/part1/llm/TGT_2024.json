@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Target Sustainability",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.0",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

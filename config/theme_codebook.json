@@ -1,0 +1,22 @@
+{
+  "_status": "Final for this POC. All 12 categories kept and justified in part1/README.md (Guiso / Culture 500 + ESG-era codes for Part 2/3).",
+  "_anchors": [
+    "Guiso, Sapienza & Zingales (2015), 'The value of corporate culture', JFE: coded values advertised on S&P 500 websites (e.g. integrity, teamwork, innovation, respect, quality).",
+    "Sull, Turconi & Sull (MIT Sloan Management Review, Culture 500): nine most-cited corporate values -- agility, collaboration, customer, diversity, execution, innovation, integrity, performance, respect.",
+    "Added ESG-era categories (environment, community, safety, shareholder) because Part 2 compares stated values against ESG/proxy disclosures; these let Parts 1 and 2 share a vocabulary."
+  ],
+  "categories": {
+    "integrity": "Ethics, honesty, trust, transparency, compliance, doing the right thing.",
+    "customer": "Customer focus, serving clients/patients, customer obsession, satisfaction.",
+    "innovation": "Innovation, technology leadership, creativity, R&D, pioneering, invention.",
+    "collaboration": "Teamwork, partnership, working together, one-team language.",
+    "respect_people": "Respect, dignity, caring for employees, wellbeing, development, talent.",
+    "diversity_inclusion": "Diversity, equity, inclusion, belonging, representation.",
+    "performance_execution": "Excellence, results, accountability, quality, operational execution, agility.",
+    "environment_sustainability": "Climate, emissions, sustainability, environmental stewardship, energy transition.",
+    "community_social_impact": "Community investment, philanthropy, social responsibility, societal purpose.",
+    "safety": "Workplace/product/patient safety, health and safety culture.",
+    "shareholder_value": "Shareholder returns, long-term value creation for owners, financial discipline.",
+    "purpose_mission": "Explicit purpose/mission statements that frame why the company exists beyond profit."
+  }
+}

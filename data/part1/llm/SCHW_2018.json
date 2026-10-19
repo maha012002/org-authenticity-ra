@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customer",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation,",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respect",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "performance",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "social responsibility",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.7417",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "clients Put",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation,",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "collaboration",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "performance We",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.2045",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

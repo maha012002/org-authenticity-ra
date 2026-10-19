@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "results",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "low-carbon",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "worldwide. Our Mission,",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Text similarity to prior year = 0.9947",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

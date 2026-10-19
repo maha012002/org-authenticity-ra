@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovations",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "working together",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "talented",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environments",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.2189",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

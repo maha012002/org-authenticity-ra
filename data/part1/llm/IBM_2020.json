@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "businesses. Trust",
+      "salience": 1
+    },
+    {
+      "code": "customer",
+      "evidence": "clients",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "R&D",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "performance",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community",
+      "salience": 1
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "stockholders,",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.4533",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "94025 Employees 27,742",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environment",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.9059",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

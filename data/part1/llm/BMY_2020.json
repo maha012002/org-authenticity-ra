@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Patients All",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation. We",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Compliance Diversity",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "accountability,",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Inclusion Sustainability Responsibility Achievements Bristol",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community-based",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.1013",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

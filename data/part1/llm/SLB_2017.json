@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "integrity",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "customers",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovations",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Accountability",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainability",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.8609",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

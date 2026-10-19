@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovative",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.9138",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

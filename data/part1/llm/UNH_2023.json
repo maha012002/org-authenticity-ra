@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "professionals 50K Customer",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovative",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "diversity",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "pay-for-performance",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "our mission. Our",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.2304",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

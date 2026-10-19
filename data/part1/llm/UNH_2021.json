@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity. The",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Equity We",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "excellence",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "care. Our Mission",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.8204",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

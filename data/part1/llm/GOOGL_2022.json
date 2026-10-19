@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "quality",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "carbon",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "charitable",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "content About Our mission,",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.2076",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

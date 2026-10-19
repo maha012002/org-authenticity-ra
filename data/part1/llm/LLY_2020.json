@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "company. Integrity We",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "customers,",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation,",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "results. Respect",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "community. Excellence We",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environment",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community. Excellence We",
+      "salience": 1
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "shareholders,",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.8171",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

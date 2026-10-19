@@ -1,0 +1,1 @@
+Brand Config Page Only to be Used to Config Brand related (Shield , Geforce ETC) Items like Brand-Navigation , Brand-Footer ETC.

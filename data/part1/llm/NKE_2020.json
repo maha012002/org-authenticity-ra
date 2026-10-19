@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Innovation We",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "partnerships. .media-container__list-item",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Inclusive A",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "communities. Sustainable",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Community",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "brightness(80%);} Our mission",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Text similarity to prior year = 0.9969",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

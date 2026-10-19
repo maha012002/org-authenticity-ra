@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "research",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "employees,",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Inclusive Resources",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "results",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "community",
+      "salience": 1
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Text similarity to prior year = 0.9714",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}

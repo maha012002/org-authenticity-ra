@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "transparency",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation\u00e2continuing",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "talented",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "results,",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Text similarity to prior year = 0.0747",
+  "analyst_notes": "Dictionary (keyword) coded against theme_codebook.json; evidence is a cue snippet.",
+  "_model": "lexicon-v1"
+}
