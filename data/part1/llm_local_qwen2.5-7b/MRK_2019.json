@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Curiosity, inventiveness and a passion for excellence are what drive our people to discover what's possible.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our values are our core. They guide everything we do, and they serve as the foundation of trust.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "gallons of water saved over the past 6 years",
+      "salience": 1
+    },
+    {
+      "code": "integrity",
+      "evidence": "Ethics and transparency at Merck are cornerstones of our corporate reputation.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "To make a difference in the lives of people globally through our innovative medicines, vaccines, and animal health products.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes innovation and sustainability more than in prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.0
+}

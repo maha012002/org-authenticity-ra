@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We Dare To Design The Future Of Sport",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is what drives us to do everything possible to expand human potential.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "We believe in a fair, sustainable future\u2014one where everyone thrives on a healthy planet and level playing field.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We believe in a fair, sustainable future\u2014one where everyone thrives on a healthy planet and level playing field.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "A Team That's Empowered, Diverse And Inclusive",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "A Team That's Empowered, Diverse And Inclusive",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes sustainability and community impact more than in prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.8
+}

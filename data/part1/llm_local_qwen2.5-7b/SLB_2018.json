@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "For 90 years, Schlumberger technological innovations have provided value for oil and gas operators by helping them increase production and recovery from nonrenewable resources\u2014efficiently and with lower environmental impact.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "At a glance $30.44 billion revenue from continuing operations (FY17) More than 100,000 employees representing over 140 nationalities Operating in more than 85 countries",
+      "salience": 1
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Working in more than 85 countries and employing approximately 100,000 people who represent over 140 nationalities",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "At a glance $30.44 billion revenue from continuing operations (FY17) More than 100,000 employees representing over 140 nationalities Operating in more than 85 countries",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.3
+}

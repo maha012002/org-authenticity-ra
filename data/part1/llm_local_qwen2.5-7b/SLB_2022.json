@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose:Together, we create amazing technology that unlocks access to energy for the benefit of all.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "To achieve this goal and deliver the best results, we must combine our unique talents and our collective expertise\u2014not just within Schlumberger but by working closely with our suppliers, contractors, and business partners.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "With expertise in more than 120 countries, we partner with customers in close collaboration to create industry-changing technologies that unlock cleaner, safer access to energy for every community\u2014including those we live and work in.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "They are the core that drives our purpose and integrity, which fuel our belief that everyone should have the opportunity to reach their greatest potential.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "representing more than 160 nationalities, we provide leading digital solutions and deploy ground-breaking technologies to enable performance and sustainability that are crucial for the global energy industry.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes collaboration and the importance of working with external partners more than in the previous version.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 17.6
+}

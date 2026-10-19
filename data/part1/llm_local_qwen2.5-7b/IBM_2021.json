@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "At IBM Research, we invent things that matter. We are a community of thinkers. We make a lasting impact on our industry and the world.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Every year, an elite contingent of IBMers earns the title of IBM Fellow.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "IBM is your trusted partner for your journey to cloud, integrating leading technology and IBM\u2019s advanced R&D labs to transform your business into a digital enterprise",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "The Summit supercomputer, with a new computing architecture purpose-built for AI, reaches speeds of 200 petaflops, becoming the most powerful processor on the planet.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes innovation and technology leadership more prominently than before, with a focus on IBM's research and development efforts.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.3
+}

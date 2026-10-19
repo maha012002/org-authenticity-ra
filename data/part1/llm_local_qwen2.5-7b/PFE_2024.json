@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity and Transparency Building Trust",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Because everyone has something to offer. Diversity is just as crucial to building a successful business as it is to building a vibrant culture.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We recognize that environmental issues can result in profound societal and public health impacts. Our company purpose\u2014Breakthroughs that change patients\u2019 lives\u2014guides our environmental sustainability priorities, with a focus on climate impact mitigation, conservation of resources, and the reduction of waste arising from our operations.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the company's purpose and values, particularly in the areas of integrity, diversity, and environmental sustainability.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 22.6
+}

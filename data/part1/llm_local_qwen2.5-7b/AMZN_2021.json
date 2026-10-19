@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Amazon strives to be Earth\u2019s most customer-centric company, Earth\u2019s best employer, and Earth\u2019s safest place to work.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "passion for invention",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "commitment to operational excellence",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "Amazon strives to be Earth\u2019s most customer-centric company, Earth\u2019s best employer, and Earth\u2019s safest place to work.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes customer-centricity more explicitly and includes a broader list of innovations and services.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.8
+}

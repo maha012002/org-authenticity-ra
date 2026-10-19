@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.2
+}

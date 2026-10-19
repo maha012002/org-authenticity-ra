@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Our innovative, collaborative efforts yield products that improve quality of life globally while producing economic benefits with far-reaching influence.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Across our 17 countries of operations, 11,200 people work in a truly integrated way to find and produce oil and natural gas.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The number of employees was reduced from over 11,600 to 11,200.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.7
+}

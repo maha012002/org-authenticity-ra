@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are investing $300 million in our Diversity in Technology Initiative to achieve full representation of women and under-represented minorities at Intel by 2020, through funding, training, hiring, and retention.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We believe technology must constantly evolve to make more things possible and all things easier, smarter, and more connected than ever before.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "World\u00e2s Most Ethical Companies\u00e2 and \u00e2Ethisphere\u00e2 names and marks are registered trademarks of Ethisphere* LLC.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.3
+}

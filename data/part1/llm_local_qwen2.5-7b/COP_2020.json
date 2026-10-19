@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Our innovative, collaborative efforts yield products that improve quality of life globally while producing economic benefits with far-reaching influence.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "ConocoPhillips is committed to the efficient and effective exploration and production of oil and natural gas.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We are challenged with an important job to safely find and deliver energy to the world.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "ConocoPhillips is committed to the efficient and effective exploration and production of oil and natural gas.",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes safety and efficiency in energy production more than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.2
+}

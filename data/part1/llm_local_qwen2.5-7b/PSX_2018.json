@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "We do this while living out our values of safety, honor and commitment, to improve lives by providing access to energy which is essential to a high standard of living and health throughout the world.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our employees are committed to building capability, pursuing excellence and doing the right thing. We strive to attract, train, develop and retain individuals with the knowledge and skills to implement our business strategy and the character to live our values.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our vision is to provide energy and improve lives, and we back that up with core company values of safety, honor and commitment.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes safety, honor, and commitment as core values, replacing the previous vision and values statement.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 25.2
+}

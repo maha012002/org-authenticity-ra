@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Since our founding in 1949 by Earl Bakken, Medtronic has put people first. We strive to alleviate pain, restore health, and extend life.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Collaborative partnerships . . . are key to driving value-based healthcare.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "A deep sense of moral purpose and responsibility drive Medtronic programs and policies.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.3
+}

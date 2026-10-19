@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "At UnitedHealth Group, we celebrate our people, ideas and experiences \u2014 creating a culture where all team members are appreciated, valued and able to contribute to their full potential.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Together, UnitedHealthcare and Optum are applying distinctive competencies in insights, technology and clinical excellence to reimagine health care on behalf of those we serve.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sound Corporate Governance Principles Help Ensure We Perform With Integrity.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We Are On A Journey to Deliver Equitable Health Care For All.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "Sound Corporate Governance Principles Help Ensure We Perform With Integrity.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The addition of specific initiatives like 'delivering equitable health care' and 'further health equity' highlights a stronger focus on social impact and health equity.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.7
+}

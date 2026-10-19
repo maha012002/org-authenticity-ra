@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to empower every person and organization on the planet to achieve more.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We believe technology is a powerful tool for social and economic inclusion, and we\u2019re working to ensure that everyone has access to the opportunities it creates.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "See how we utilize technology to build platforms and resources to help make a lasting positive impact.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes empowerment, social impact, and sustainability more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.3
+}

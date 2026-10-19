@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "passion for invention, commitment to operational excellence, and long-term thinking.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "commitment to operational excellence, and long-term thinking.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Working to earn and keep our customers\u2019 trust is the single biggest driver of Amazon\u2019s Day 1 approach.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Dive deep into Amazon's support of employees and small businesses, and learn more about our efforts to build stronger communities and protect the planet.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Dive deep into Amazon's support of employees and small businesses, and learn more about our efforts to build stronger communities and protect the planet.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The addition of a section on Amazon's support of employees and small businesses, and efforts to build stronger communities and protect the planet, reflects a broader focus on social and environmental impact.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.9
+}

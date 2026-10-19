@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "Our products empower more than 3 billion people around the world to share ideas, offer support and make a difference.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "At the Facebook company, we are constantly iterating, solving problems and working together to connect people all over the world.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Hiring people with different backgrounds and points of view helps us make better decisions, build better products and create better experiences for everyone.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "At the Facebook company, we are constantly iterating, solving problems and working together to connect people all over the world. That\u2019s why it\u2019s important that our workforce reflects the diversity of the people we serve.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes the company's mission to connect people and empower them, with a focus on the workforce's diversity and inclusion.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 19.3
+}

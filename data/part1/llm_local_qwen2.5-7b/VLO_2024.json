@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Developing large-scale Sustainable Aviation Fuel (SAF) project, expected fourth quarter 2024.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Achieved 2025 GHG emissions target by reducing and displacing more than 63% of global refinery Scope 1 and Scope 2 emissions in 2022, three years early. On track to achieve 100% global refinery Scope 1 and Scope 2 GHG emissions reduction/displacement target by 2035.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Industry safety leader with 9 OSHA VPP sites, the most of any refiner.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Over $77 million generated for charities in 2023",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes environmental sustainability and safety more prominently than before, highlighting specific achievements and future goals.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.0
+}

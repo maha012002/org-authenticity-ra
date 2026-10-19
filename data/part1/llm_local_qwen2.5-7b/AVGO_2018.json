@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "Broadcom Inc. combines global scale, engineering depth, broad product portfolio diversity and superior execution and operational focus to deliver category-leading connectivity products so its customers can build and grow successful businesses today and in the future.",
+      "salience": 3
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The added sentences emphasize Broadcom's focus on execution and operational excellence.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.0
+}

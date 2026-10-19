@@ -12,6 +12,7 @@ recorded so the summaries stay auditable.
 | 2026-10-15 | 2 | Proxy statements (DEF 14A) from EDGAR | ESG/DEI reports from IR sites | Mandatory, standard coverage; pay language reveals priorities |
 | 2026-10-19 | 1–2 | Dictionary (keyword) coding on a shared 12-theme codebook | Hand-code only; open-ended tagging | Scalable, auditable, same vocabulary for stated vs lived |
 | 2026-10-19 | 1 | Local LLM (Qwen 2.5 3B / Ollama) + keyword baseline; κ agreement report | Commercial API only; LLM only | Free/local; baseline keeps Part 2/3 comparable; κ + hand-check for validity |
+| 2026-10-19 | 1 | Upgrade primary LLM to Qwen 2.5 7B; keep 3B cache for robustness κ | Stick with 3B; commercial API | 7B κ vs lexicon 0.42 (vs 0.23 for 3B); RTX 4050 fits; hand-check precision 0.85 |
 | 2026-10-19 | 3 | Report placebo (0.54 true vs 0.51 shuffled) and say sectors mostly reflect websites | Treat sector table as strong authenticity ranking | Proxies hit ≥10 themes in ~95% of cases; lived side barely discriminates |
 | 2026-10-19 | 2 | Structural flags (ESG-near-comp, climate, DEI/HC, proposals) on top of themes | Theme scores alone | Proxies are long; flags are sharper “revealed priority” signals |
 | 2026-10-19 | 2 | CIK overrides: BLK→1364742, XOM→34088 | Trust `company_tickers.json` alone | Map pointed at post-reorg shells without historical DEF 14As |

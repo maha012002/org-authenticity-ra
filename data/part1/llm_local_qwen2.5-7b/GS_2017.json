@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Our people are our greatest asset \u00e2 we say it often and with good reason.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity is at the very core of our ability to serve our clients well and to maximize return for our shareholders.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our Business Principles, the foundation of our culture of client service, teamwork, excellence, personal initiative and accountability, are fundamental to our long-term sustainability and success.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our Business Principles, the foundation of our culture of client service, teamwork, excellence, personal initiative and accountability, are fundamental to our long-term sustainability and success.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.8
+}

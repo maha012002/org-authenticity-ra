@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our therapies help 72 million people a year and support our Mission to alleviate pain, restore health, and extend life.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Read about the efforts to create an inclusive and diverse workplace at Medtronic, one that mirrors the world in which we live and work, and to further our corporate Mission.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Download Medtronic Environmental, Social, and Governance (ESG) Reports and learn how Medtronic adds value to society, promotes environmental stewardship, supports a global workforce, and works responsibly.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our people make it possible. We value diverse perspectives and encourage our 90,000+ employees to be themselves. We hold each other accountable, act with integrity, and make quality our highest priority.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes the company's mission, values, and social responsibility more than in prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.4
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to empower every person and every organization on the planet to achieve more.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Innovating from the ocean floor to Mars",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We\u00e2re dedicated to creating opportunities for everyone and making a difference in our communities around the world.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our goals are to minimize the impact of our operations and products, and to foster responsible environmental leadership.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the company's mission, values, and social impact, compared to a general description.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.2
+}

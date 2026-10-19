@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "shareholder_value",
+      "evidence": "American Express Plans to Increase Quarterly Dividend by 11 Percent and Buy Back up to $3.4 Billion of Common Shares Through Q2 2019",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.3
+}

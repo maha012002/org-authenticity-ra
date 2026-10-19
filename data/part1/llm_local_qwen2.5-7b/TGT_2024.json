@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "* Since 1946, we have given 5% of our profits to communities in cash, products, and through the Target Foundation, which today equals millions of dollars a week.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes community impact through the 5% profit contribution, which was not explicitly stated in the prior year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.3
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "As an innovative, responsible and sustainable business, we strive to foster economic, environmental and social well-being everywhere in everything we do.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "WHO WE ARE\nFULFILLING THE PROMISE OF HUMAN POTENTIAL\nOur promise to you\u2014and ourselves\u2014is to nurture human health so you can achieve your full potential and live a healthier, happier and better life.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.7
+}

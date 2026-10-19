@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Charles Schwab was awarded \"Highest in Investor Satisfaction with Full Service Brokerage Firms, Two Years in a Row\" by J.D. Power.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Selected as one of the FORTUNE \u201cWorld\u2019s Most Admired Companies\u00ae\u201d, Schwab ranked #1 for Innovation and #2 for Social Responsibility in Key Attributes of Reputation and #2 in the Securities and Asset Management category.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Schwab was named #1 in Customer Service and Trade Reliability in the 2017 Investor\u2019s Business Daily \u201cBest Online Brokers\u201d Survey for the fifth year in a row. Schwab also received the highest rating for website performance for the second consecutive year.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes customer satisfaction and innovation more than prior years, with a focus on specific awards and rankings.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 34.9
+}

@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "OUR ANTHEM\nEvery day and around the world, we\u2019re discovering new ways to make life better \u2013 creating more possibilities for more people through the power of health.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The addition of 'Join us as we explore what it means to live fully \u2013 both as individuals and as communities.' suggests a stronger emphasis on community and individual well-being.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.8
+}

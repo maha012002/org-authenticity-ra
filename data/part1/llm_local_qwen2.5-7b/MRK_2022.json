@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose: We use the power of leading-edge science to save and improve lives around the world",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We foster a diverse and inclusive global workforce and operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are pushing the boundaries in research where we can make the greatest difference, now and in the future.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We work to deliver innovations that extend and improve the lives of people with cancer.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language emphasizes the company's purpose and mission more explicitly, with a stronger focus on the global impact of their work.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.2
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Learn more about how the company continues to powerfully back its customers, colleagues and communities.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "Through our enterprise ESG strategy and Community Giving from the American Express Foundation, we bring the powerful backing of American Express to our customers, colleagues and communities.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Through our enterprise ESG strategy and Community Giving from the American Express Foundation, we bring the powerful backing of American Express to our customers, colleagues and communities.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Through our enterprise ESG strategy and Community Giving from the American Express Foundation, we bring the powerful backing of American Express to our customers, colleagues and communities.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes the company's commitment to backing customers, colleagues, and communities through its ESG strategy and community giving.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.2
+}

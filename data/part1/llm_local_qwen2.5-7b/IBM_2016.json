@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "A constant state of innovation",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Developing new offerings is easier and faster for Kuma Games.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "2014 performance",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "From tracking epidemics to helping to prevent derailments, IBM is innovating and changing the world everyday",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.9
+}

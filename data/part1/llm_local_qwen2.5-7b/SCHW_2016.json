@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "creates a powerful bond between us and the investors, employers, and advisors we serve.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Schwab's commitment to challenging the industry status quo, delivering excellent client service supported by strong corporate governance practices, is due to our strong leadership team and Board of Directors.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "The Charles Schwab Corporation provides a full range of securities, brokerage, banking, money management, and financial advisory services through its operating subsidiaries.",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Schwab receives 100% rating on Human Rights Campaign\u2019s Corporate Equality Index, which recognizes companies based on LGBT Equality",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Walt Bettinger\u2019s perspective on factors driving financial services in the coming decade.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.7
+}

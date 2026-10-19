@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our customers\u00e2 success is our obsession.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We believe that data is dramatically shaping the future of all humankind.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Purpose We create world-changing technology that enriches the lives of every person on earth.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are united by our purpose and driven by our values to achieve our ambitions and help our customers succeed.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Push ourselves and our industry peers to be more responsible, inclusive, and sustainable.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our values \u00e2 customer obsessed, One Intel, fearless, truth and transparency, inclusion and quality \u00e2 guide how we make decisions, treat each other and serve our customers to achieve their goals.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "More emphasis on global impact and innovation.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.7
+}

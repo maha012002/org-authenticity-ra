@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity and Transparency Building Trust",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity is just as crucial to building a successful business as it is to building a vibrant culture.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our company purpose\u2014Breakthroughs that change patients\u2019 lives\u2014guides our environmental sustainability priorities, with a focus on climate impact mitigation, conservation of resources, and the reduction of waste arising from our operations.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Purpose\nOur Responsibility",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on patient stories and colleagues, and includes new sections on privacy principles and fighting misinformation.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 14.8
+}

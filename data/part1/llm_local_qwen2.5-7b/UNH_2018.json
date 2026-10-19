@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "UnitedHealth Group serves clients and consumers through two distinct platforms.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "UnitedHealth Group invests more than $3.3 billion in technology and innovation, and processes approximately 1 trillion transactions annually.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Through UnitedHealthcare and Optum, UnitedHealth Group offers health benefits and services to people residing in all 50 states in the United States and more than 130 other countries.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "UnitedHealth Group is a distinctively diversified health and well-being company headquartered in the United States, and a leader worldwide in helping people live healthier lives and helping make the health system work better for everyone.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.8
+}

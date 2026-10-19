@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "\"Put the client first.\" \"Listen for need, envision the future.\" \"Share expertise.\"",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "\"Restlessly reinvent \u00e2 our company and ourselves.\" \"Dare to create original ideas.\"",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "\"Unite to get it done now.\" \"Show personal interest.\"",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Every year, an elite contingent of IBMers earns the title of IBM Fellow. This year\u2019s class continues the tradition, pursuing excellence across several continents and contributing 257 patents.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "At IBM, work is more than a job \u2014 it\u2019s a calling\nIBM\u2019s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "At IBM, work is more than a job \u2014 it\u2019s a calling highlights a shift towards emphasizing the personal and intrinsic value of work.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 26.3
+}

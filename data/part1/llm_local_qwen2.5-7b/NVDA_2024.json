@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "NVIDIA pioneered accelerated computing to tackle challenges no one else can solve.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "NVIDIA engineers the most advanced chips, systems, and software for the AI factories of the future. We build new AI services that help companies create their own AI factories.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Accelerated Computing Is Sustainable Computing\nData centers are already about 1-2% of global electricity consumption and growing. This is not sustainable for operating budgets and our planet. Acceleration is the best way to reclaim power and achieve sustainability and net zero.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "NVIDIA is reshaping the future of computing. We\u2019ve built a culture where people can do their life's work. We are a learning machine. The mission is boss. Everyone has a voice.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes sustainability and the mission more than before, with a focus on the future of computing and AI.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.5
+}

@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "This unwavering dedication to quality drives our company culture and will keep us ahead for years to come.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "This unwavering dedication to quality drives our company culture and will keep us ahead for years to come.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Access to energy helps improve lives by driving human progress and enabling the benefits of modern society.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.9
+}

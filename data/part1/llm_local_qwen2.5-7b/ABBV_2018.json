@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "solve serious health issues and have a remarkable impact on people\u2019s lives",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "focus on discovering, developing and delivering drugs in therapeutic areas where we have proven expertise\u2014and can make an impact",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "That\u2019s why we collaborate with peers, universities, clinical experts, governments and advocacy groups",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission Hasn\u2019t Wavered We\u2019re focused on sustainable growth and addressing the world\u2019s pressing health challenges",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page reiterates many of the same themes from the prior year with slight rewording.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.4
+}

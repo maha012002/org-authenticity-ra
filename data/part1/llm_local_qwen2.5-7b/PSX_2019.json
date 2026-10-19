@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "By maintaining strong operating excellence, we are committed to safety, reliability and environmental stewardship while protecting shareholder value.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our employees are committed to building capability, pursuing excellence and doing the right thing.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "By maintaining strong operating excellence, we are committed to safety, reliability and environmental stewardship while protecting shareholder value.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented people making responsible choices to adapt and explore the opportunities the changing market brings.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our vision is to provide energy and improve lives, and we back that up with core company values of safety, honor and commitment.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "Our employees are committed to building capability, pursuing excellence and doing the right thing.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes safety, reliability, and environmental stewardship more prominently, aligning with the company's commitment to shareholder value.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 20.4
+}

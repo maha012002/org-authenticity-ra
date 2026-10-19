@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "This unwavering dedication to quality drives our company culture and will keep us ahead for years to come.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "We value responsibility, trust and integrity.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes human progress and the role of energy in achieving it, highlighting human ingenuity and responsibility.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.1
+}

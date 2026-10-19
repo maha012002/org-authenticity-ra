@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "In everything we do, we are always dedicated to Our Mission: With every cup, with every conversation, with every community - we nurture the limitless possibilities of human connection.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are committed to the highest standards of quality and service, embracing our heritage while innovating to create new experiences to savor.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our employees \u2013 who we call partners \u2013 are at the heart of the Starbucks experience.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "As it has been from the beginning, our purpose goes far beyond profit. We believe Starbucks can, and should, have a positive impact on the communities we serve.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The mission statement has been updated to emphasize human connection and community impact more explicitly.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.6
+}

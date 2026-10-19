@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Put the Client First",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "Earning our clients' trust by treating them in an ethical, empathetic, and proactive way.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Constantly improving the client experience through innovation that benefits clients.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Respecting fellow employees and reinforcing the power of teamwork.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our purpose drives our every action.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to champion every client's goals with passion and integrity.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Today's consumers expect great value, a great experience, and a refund if they aren't satisfied. We believe a modern investing experience should deliver on these expectations\u2014period.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 17.7
+}

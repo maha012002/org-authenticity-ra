@@ -16,28 +16,39 @@ priority list of About/values URL seeds. Missing years stay missing.
 2. Extract main text (trafilatura / BeautifulSoup fallback).
 3. **Keyword baseline** (`code_themes.py`): digest + similarity change classes, plus
    dictionary theme coding on the shared 12-code codebook.
-4. **Local LLM** (`analyze_llm.py`, Qwen 2.5 3B via Ollama): schema-constrained JSON for
+4. **Local LLM** (`analyze_llm.py`, **Qwen 2.5 7B** via Ollama): schema-constrained JSON for
    values change, themes with evidence, linguistic shift. Identical digests reuse the
-   prior year’s coding. Unverified evidence quotes are dropped.
+   prior year’s coding. Unverified evidence quotes are dropped. Cache folder is
+   per-model (`data/part1/llm_local_qwen2.5-7b/`; the earlier 3B run is kept for
+   robustness comparison).
 
 I used both on purpose: the LLM handles paraphrase; the keyword pass is transparent,
 feeds Part 2/3 with the same instrument, and gives a Cohen’s κ agreement report.
 
 ## Agreement and hand-check
-From `data/part1/llm_vs_lexicon_agreement.json` (416 coded pages):
-- **Mean κ across themes = 0.23** (best: purpose_mission 0.45; weakest: shareholder_value 0.07).
-- Lexicon marks more pages with themes than the LLM (29 vs 90 zero-theme pages).
-- On a random hand-check of **20 pages** (`handcheck_20.json`), **87%** of kept theme
-  evidence strings appeared in the page text (68/78).
+From `data/part1/llm_vs_lexicon_agreement.json` (417 coded pages; 10 identical digests
+reused):
+- **Mean κ across themes = 0.42** (best: integrity 0.62, environment 0.58, purpose 0.53;
+  weakest: shareholder_value 0.23, collaboration 0.26).
+- Unverified theme quotes dropped: **86** (much lower than the 3B run).
+- Zero-theme pages: LLM 23 / lexicon 30.
+- Page-type mix: mostly `values_or_mission` (365), plus `general_about` (42),
+  `homepage` (5), `other` (5).
+- **3B vs 7B robustness** (same pages): mean κ ≈ **0.26** — the larger model is not a
+  carbon copy of the small one; 7B agrees better with the keyword baseline.
+
+On a **20-page theme hand-check** (`handcheck_sheet.py` → `handcheck_results.json`):
+- LLM precision **0.85**, recall **0.74**; lexicon precision **0.70**, recall **0.85**.
+- LLM `page_type` accuracy **0.80** (4/20 wrong: empty/shell pages or homepage mislabeled).
 
 ## Operational findings
 - Multi-seed URLs matter (e.g. J&J Credo path changes).
-- Some seeds are weak (Apple careers) — treat those rows cautiously.
+- Some seeds are weak (Apple careers / thin archive shells) — treat those rows cautiously.
 - Large text shifts often coincide with `url_changed` (redesigns); Part 4 quantifies this.
 
 ## Deliverable
 `data/part1/part1_stated_values.csv` (LLM + lexicon columns), plus
-`llm_vs_lexicon_agreement.json` and `llm_local/` caches.
+`llm_vs_lexicon_agreement.json`, `handcheck_results.json`, and per-model LLM caches.
 
 ## Limitations
 Archive shells, single July snapshot, and imperfect LLM–lexicon agreement. Part 3’s

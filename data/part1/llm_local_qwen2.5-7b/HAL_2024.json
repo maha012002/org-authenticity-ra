@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are leveraging our world-class technical expertise, resources, and versatile capabilities to lead the transition to a sustainable energy future.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Charting a new course for a brighter tomorrow",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Strengthening the economic and social well-being of the communities where we operate is among our most valued principles.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes sustainability and community well-being more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.8
+}

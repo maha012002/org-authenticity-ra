@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "The Fourth Industrial Revolution is changing the way people work, using robotics, AI, the Internet of Things, and more.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Every day, more than 150,000 companies are increasing employee productivity, team collaboration, customer loyalty, and, most importantly, sales revenues using the world\u00e2s #1 CRM platform.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our Ohana, a Hawaiian word for intentional family, is guided by four core values that serve as the foundation for our decisions, actions, and communication.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Now, we\u00e2re creating an economy that will help millions of people find career satisfaction and enjoy better lives as well.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Emphasis on innovation and customer success is more explicit.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.0
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "pioneered the revolutionary idea of replacing traditional desktop CRM software with CRM in the cloud",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "Create deeper relationships with your customers",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our Ohana is built on four core values that inspire us to work together every day",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.5
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "There\u2019s lots to celebrate with the release of game-changer Oracle7 database and the company\u2019s 15th anniversary.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Safra Catz and Mark Hurd named Oracle CEOs. Founder Larry Ellison becomes chairman of the board and chief technology officer.",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diverse and Inclusive",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now includes a direct mention of diversity and inclusion, which was not present before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.6
+}

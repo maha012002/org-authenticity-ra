@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "spearheading initiatives in philanthropy, racial equality and justice, climate action and advocacy, and the ethical and humane use of technology.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u2014 our customers, employees, partners, communities, the planet, and society as a whole.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "A win-win-win approach.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.8
+}

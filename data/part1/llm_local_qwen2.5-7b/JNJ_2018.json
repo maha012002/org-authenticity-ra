@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We believe our first responsibility is to the doctors, nurses and patients, to mothers and fathers and all others who use our products and services.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "We must provide competent management, and their actions must be just and ethical.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We must constantly strive to reduce our costs in order to maintain reasonable prices. Customers' orders must be serviced promptly and accurately.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Everyone must be considered as an individual. We must respect their dignity and recognize their merit.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Compensation must be fair and adequate, and working conditions clean, orderly and safe.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We must be good citizens \u2013 support good works and charities and bear our fair share of taxes. We must encourage civic improvements and better health and education.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Our final responsibility is to our stockholders. Business must make a sound profit.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.4
+}

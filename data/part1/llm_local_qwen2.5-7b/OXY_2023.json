@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing greenhouse gas emissions and making the world a better place to live",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "taking bold steps to innovate new technologies for a low-carbon future",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We dare to do what others won't. We will lead the industry by reaching for the impossible, then achieving it.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language emphasizes environmental sustainability and innovation more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.0
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "Guided by Exceptional Leaders\nOur executive team and board of directors are committed to operations excellence, disciplined management of capital and long-term value.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Valero is leading through innovation, ingenuity and unmatched execution to responsibly meet the world's growing demand for reliable and sustainable energy.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.6
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our success depends upon our customers' success.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "The Fourth Industrial Revolution is changing the way people work, using robotics, AI, the Internet of Things, and more.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Together, we're creating a future of new opportunities.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We believe everyone can be a Trailblazer, and we're building the technology to make it happen.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The addition of 'We believe everyone can be a Trailblazer, and we're building the technology to make it happen.' and 'Together, we're creating a future of new opportunities.' shifts the emphasis towards empowering individuals and collective progress.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.2
+}

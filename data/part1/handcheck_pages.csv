@@ -1,0 +1,21 @@
+stem,sector,page_text_file,llm_page_type,llm_themes,lexicon_themes,human_page_type_ok,human_missed_themes,notes
+NKE_2023,Consumer Discretionary,data/part1/text/NKE_2023.txt,values_or_mission,,,n,,empty text; not_usable
+HD_2017,Consumer Discretionary,data/part1/text/HD_2017.txt,values_or_mission,shareholder_value;innovation;collaboration;respect_people;integrity,integrity;customer;innovation;respect_people;performance_execution;environment_sustainability;community_social_impact;shareholder_value,y,,
+SBUX_2023,Consumer Discretionary,data/part1/text/SBUX_2023.txt,values_or_mission,purpose_mission;customer;collaboration;community_social_impact,customer;respect_people;diversity_inclusion;performance_execution;community_social_impact;purpose_mission,y,innovation,innovating to create new experiences
+F_2024,Consumer Discretionary,data/part1/text/F_2024.txt,values_or_mission,integrity;customer;purpose_mission,integrity;customer;purpose_mission,y,,
+XOM_2024,Energy,data/part1/text/XOM_2024.txt,values_or_mission,environment_sustainability;integrity,integrity;innovation;respect_people;performance_execution;environment_sustainability,y,,
+CVX_2018,Energy,data/part1/text/CVX_2018.txt,values_or_mission,performance_execution;innovation;collaboration,innovation;performance_execution,y,community_social_impact,give back to communities
+OXY_2024,Energy,data/part1/text/OXY_2024.txt,values_or_mission,environment_sustainability;innovation;performance_execution;purpose_mission,performance_execution;environment_sustainability;purpose_mission,y,,
+CVX_2021,Energy,data/part1/text/CVX_2021.txt,values_or_mission,innovation;performance_execution;integrity,integrity;innovation;collaboration;performance_execution,y,,
+MS_2023,Financials,data/part1/text/MS_2023.txt,values_or_mission,community_social_impact;environment_sustainability;performance_execution;respect_people;diversity_inclusion,customer;respect_people;diversity_inclusion;environment_sustainability;community_social_impact,y,,
+AXP_2024,Financials,data/part1/text/AXP_2024.txt,values_or_mission,,,n,,empty text; not_usable
+BRK-B_2023,Financials,data/part1/text/BRK-B_2023.txt,general_about,shareholder_value,collaboration;shareholder_value,n,,Official Home Page; better as homepage
+SCHW_2023,Financials,data/part1/text/SCHW_2023.txt,values_or_mission,customer;innovation;respect_people;performance_execution;purpose_mission,integrity;customer;innovation;collaboration;respect_people;performance_execution;shareholder_value;purpose_mission,y,,
+ABBV_2019,Healthcare,data/part1/text/ABBV_2019.txt,values_or_mission,purpose_mission;innovation,customer;respect_people,y,,
+LLY_2020,Healthcare,data/part1/text/LLY_2020.txt,values_or_mission,integrity;performance_execution;respect_people,integrity;customer;innovation;respect_people;performance_execution;environment_sustainability;community_social_impact;shareholder_value,y,purpose_mission,Lilly's Purpose / caring with discovery
+UNH_2020,Healthcare,data/part1/text/UNH_2020.txt,values_or_mission,respect_people;integrity,integrity;purpose_mission,y,,
+ABT_2020,Healthcare,data/part1/text/ABT_2020.txt,values_or_mission,purpose_mission;customer;innovation,customer;diversity_inclusion;purpose_mission,y,,
+CRM_2017,Technology,data/part1/text/CRM_2017.txt,values_or_mission,innovation;customer;collaboration,customer;innovation;collaboration;respect_people,y,,
+MSFT_2024,Technology,data/part1/text/MSFT_2024.txt,values_or_mission,environment_sustainability;community_social_impact,innovation;environment_sustainability;community_social_impact;purpose_mission,y,,
+GOOGL_2019,Technology,data/part1/text/GOOGL_2019.txt,values_or_mission,purpose_mission,shareholder_value;purpose_mission,y,,
+AAPL_2018,Technology,data/part1/text/AAPL_2018.txt,values_or_mission,environment_sustainability;diversity_inclusion,innovation;diversity_inclusion;environment_sustainability,n,,sitemap/menu links only; not_usable

@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Alleviate pain. Restore health. Extend life.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Committed to compassion, we make technologies that transform two lives per second \u2014 and that\u2019s just the start.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "With a passion to solve unmet needs, we redefine what\u2019s possible in healthcare technology.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "By bringing together data, artificial intelligence, and our deep knowledge of the human body, we create something even more extraordinary.",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Empathy inspires our technologies that smartly adapt to a patient\u2019s lifestyle and don\u2019t get in the way of the things they love to do.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes patient stories and the company's mission more than prior years, focusing on the impact of their technologies on individual lives.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.4
+}

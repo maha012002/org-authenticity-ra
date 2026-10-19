@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "In addition to handling some of the largest tech IPOs, security offerings and acquisitions in the world, Morgan Stanley stands firm behind its commitments to community\u2014from a joint effort by the firm and its employees to raise $60 million to build Morgan Stanley Children\u2019s Hospital at New York-Presbyterian Hospital, to employee-led relief efforts following the September 11 terrorist attacks.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.3
+}

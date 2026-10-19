@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "giving help to those most in need via RMHC.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We welcome customers of every culture, age and background, and we proudly invest in all the people our success rests on \u2013 our crew, our suppliers and our community.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are a restless company: always innovating, always moving forward.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are committed to using our scale for good: good for people, for our industry, and for the planet.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We are committed to using our scale for good: good for people, for our industry, and for the planet.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Identical archive capture to prior year; prior-year coding reused.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "reused_identical",
+  "_seconds": 12.7
+}

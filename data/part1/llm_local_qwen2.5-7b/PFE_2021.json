@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is grounded in our commitment to fund programs that provide public benefit, advance medical care and improve patient outcomes.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We advance breakthroughs that change patients\u2019 lives by ensuring they have access to quality healthcare services and Pfizer\u2019s medicines and vaccines.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Learn How Scientists are Fighting for Cures",
+      "salience": 1
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Partnering to Improve Health for All",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Advancing Health Equity & Social Justice Through Community Investment",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "At Pfizer, we are committed to advancing health equity by working with partners who share our vision in creating access to quality care for all.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes health equity and social justice more prominently than before, with added commitments to community investment and partnerships.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.9
+}

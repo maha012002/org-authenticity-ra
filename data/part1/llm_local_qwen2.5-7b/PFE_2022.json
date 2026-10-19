@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity and Transparency Building Trust",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity Equity and Representation",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Environmental Sustainability Our company purpose\u2014Breakthroughs that change patients\u2019 lives\u2014guides our environmental sustainability priorities, with a focus on climate impact mitigation, conservation of resources, and the reduction of waste arising from our operations.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on specific areas of focus and innovation, such as gene therapy and mRNA technology, compared to the prior year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 24.2
+}

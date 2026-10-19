@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We bring together all the necessary technology and services to help our clients solve their business problems.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "IBM is always on the hunt for what\u2019s next. Learn more about the group of more than 3,000 scientists and researchers around the globe who deeply believe in the power of the scientific method to invent at IBM Research.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "In 2021, we furthered our tradition of leadership in sustainability, announcing a goal of net-zero greenhouse gas emissions by 2030 across all the countries in which we operate.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Learn how IBM aspires to be the catalyst that makes the world work better.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "Learn how IBM protects our clients and business with security and privacy practices.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "The IBM Sustainability Accelerator brings IBM technology, resources and experts to projects supporting vulnerable communities around the world.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "IBM SkillsBuild is a free education program that provides valuable skills and career opportunities to traditionally underrepresented communities in technology.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the company's mission and values, particularly in sustainability and diversity.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 25.4
+}

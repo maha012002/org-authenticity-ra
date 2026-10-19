@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "Give people the power to build community and bring the world closer together.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "At the Facebook company, we are constantly iterating, solving problems and working together to connect people all over the world.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Hiring people with different backgrounds and points of view helps us make better decisions, build better products and create better experiences for everyone.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "That\u2019s why it\u2019s important that our workforce reflects the diversity of the people we serve.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes community, collaboration, and diversity more prominently than before, with a focus on the company's mission and values.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.4
+}

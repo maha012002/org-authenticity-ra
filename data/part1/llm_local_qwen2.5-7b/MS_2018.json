@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "In addition to handling some of the largest tech IPOs, security offerings and acquisitions in the world, Morgan Stanley stands firm behind its commitments to community\u00e2from a joint effort by the firm and its employees to raise $60 million to build Morgan Stanley Children\u00e2s Hospital at New York-Presbyterian Hospital, to employee-led relief efforts following the September 11 terrorist attacks.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "employee-led relief efforts following the September 11 terrorist attacks.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "The firm looks to the future by launching the Investing with Impact platform and the Morgan Stanley Institute for Sustainable Investing-a pair of initiatives dedicated to inspiring positive social impact and fostering large-scale global sustainability.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes community impact and sustainability more prominently than in prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.6
+}

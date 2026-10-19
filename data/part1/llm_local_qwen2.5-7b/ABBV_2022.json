@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "It takes unwavering commitment and confidence to bring solutions from the petri dish to patients. And it requires a continued investment in innovation to address the known and unknown challenges of tomorrow.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We care deeply for patients and customers, their families, our employees, and our communities.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We strive to always do the right thing, pursuing the highest standards in quality, compliance, safety, and performance.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our commitment to health doesn\u2019t stop with our medicines. Each day, we work to deliver sustainable solutions that improve the health of our business and the health of humankind.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Each day, we work to deliver sustainable solutions that improve the health of our business and the health of humankind.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We embrace diverse backgrounds and perspectives and treat everyone equally, with dignity and respect, allowing us all to achieve our best.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes innovation, customer care, and sustainability more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.3
+}

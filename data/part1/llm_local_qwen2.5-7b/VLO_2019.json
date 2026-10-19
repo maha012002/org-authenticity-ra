@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "Valero is a Fortune 50 company based in San Antonio, Texas, and it operates 15 petroleum refineries with a combined throughput capacity of approximately 3.1 million barrels per day and 14 ethanol plants with a combined production capacity of 1.73 billion gallons per year.",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.5
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "This is where individual imaginations gather together, committing to the values that lead to great work.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Join our community and help define it.\nExplore a collaborative culture of inclusion, growth, and originality, supported by resources that make a difference in your life.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We\u2019re committed to making Apple more inclusive and the world more just.\nLearn more about inclusion and diversity at Apple",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our goal is to leave the planet better than we found it.\nLearn more about Apple\u2019s environmental efforts",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "This is where individual imaginations gather together, committing to the values that lead to great work. Here, you\u2019ll do more than join something \u2014 you\u2019ll add something.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.5
+}

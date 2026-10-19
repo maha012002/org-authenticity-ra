@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Our story begins with what it truly means to be a technology innovator.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our common sense of purpose unites 82,000 people representing 170 nationalities with products, sales and services in more than 120 countries.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our common sense of purpose unites 82,000 people representing 170 nationalities with products, sales and services in more than 120 countries.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We\u2019re developing methods and processes using ever-less-invasive means minimizing environmental footprints while maximizing positive influence on the communities in which we live and work.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes the company's purpose and unity more than in the prior year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.0
+}

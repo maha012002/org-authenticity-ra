@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "make a difference in our customers' lives in ways that matter most to them",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Community Giving from the American Express Foundation, we bring the powerful backing of American Express to our customers, colleagues and communities",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Through our enterprise ESG strategy",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes customer and community impact more than prior years, with a clear mention of ESG strategy.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.4
+}

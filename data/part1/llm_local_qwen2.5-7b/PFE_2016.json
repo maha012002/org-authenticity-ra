@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "At Pfizer, we apply science and our global resources to bring therapies to people that extend and significantly improve their lives.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "we are dedicated to making continual progress in innovation by investing our resources wisely and engaging collaboratively with our partners around the world.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "At Pfizer, we apply science and our global resources to bring therapies to people that extend and significantly improve their lives.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Through working in partnership with everyone from patients to health care providers and managed care organizations to world governments and non-governmental organizations, our goal is to ensure that people everywhere have access to innovative treatments and quality health care.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "To ensure we can continue to deliver on our commitments to the patients, customers and shareholders who rely on us, we are focused on improving the way we do business; on operating with transparency in everything we do; and on listening to the views of all of the people involved in health care decisions.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "At Pfizer, we believe that only by keeping our core values at the center of everything we do can we advance our mission to improve health for people around the world and create continued value for the people who affect and are affected by our business.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "we are focused on improving the way we do business; on operating with transparency in everything we do; and on listening to the views of all of the people involved in health care decisions.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 21.7
+}

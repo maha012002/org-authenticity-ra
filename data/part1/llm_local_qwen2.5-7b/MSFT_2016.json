@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to empower every person and every organization on the planet to achieve more.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "See how we give our technology and resources to make a lasting positive impact.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our goals are to minimize the impact of our operations and products, and to foster responsible environmental leadership.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.9
+}

@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are facing the world\u2019s greatest balancing act\u2014how to simultaneously reduce emissions while meeting the world\u2019s growing energy demands.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "For the past century, SLB has continuously set the benchmark for innovation, proven by our long-held and continuing track record of solutions, industry firsts, and new industry standards.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Indeed, our diversity makes us stronger. Together, we achieve more.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "At SLB our purpose is to create amazing technology that unlocks access to energy for the benefit of all.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "These talented people are the core that drives our purpose and integrity, which fuels our belief that everyone should have the opportunity to reach their greatest potential.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "With a global footprint in more than 100 countries and employees representing almost twice as many nationalities, we work each day on decarbonizing industry, innovating in oil and gas, delivering digital at scale, and developing and scaling new energy systems that accelerate the energy transition.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes the company's purpose and mission more explicitly, highlighting the balance between energy access and environmental sustainability.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 32.7
+}

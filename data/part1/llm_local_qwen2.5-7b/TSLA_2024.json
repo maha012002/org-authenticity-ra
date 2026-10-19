@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Accelerating the World's Transition to Sustainable Energy",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "With over 100,000 employees, our teams design, build, sell and service our products in-house.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Using a first-principles approach, we solve some of the world\u2019s biggest problems.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.5
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Our common sense of purpose unites 103,000 people representing 170 nationalities with products, sales and services in more than 120 countries.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our curiosity drives us to better understand what our customers do, how they do it, and what they need to help overcome their challenges.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "minimizing environmental footprints while maximizing positive influence on the communities in which we live and work.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The future of oil and gas is digital. Join us at our three-day Schlumberger Online Conference beginning June 29.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.1
+}

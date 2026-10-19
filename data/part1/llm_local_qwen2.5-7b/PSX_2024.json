@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "We are determined to remain the industry\u2019s safest and most reliable company and consistently achieve and maintain top safety and environmental performance.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Making continual advancements is critical to supporting our existing operations and developing technologies for future needs.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Our corporate giving and employee volunteerism programs promote economic, social and environmental efforts in the communities in which we live and work, with more than $250 million contributed since 2012.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "With a focus on continually improving our operations, we provide enduring value to our employees, investors and communities.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We continue to explore and develop a variety of renewable fuels and resources.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.5
+}

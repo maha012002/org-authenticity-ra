@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Schwab ranked #1 for innovation, use of corporate assets, and social responsibility in the Securities and Asset Management category of the list, where we ranked #2 overall.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Schwab was named #1 in Customer Service and Trade Reliability in the 2017 Investor\u2019s Business Daily \u201cBest Online Brokers\u201d Survey for the fifth year in a row.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "It is Schwab's policy to provide equal employment opportunities to all employees and applicants without regard to race, color, religion, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), gender identity or expression, national origin, ancestry, age, disability, legally protected medical condition, genetic information, marital status, sexual orientation, protected veteran status, military status, citizenship status or any other status that is protected by law.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes innovation, customer service, and diversity more prominently than in the prior year, with a focus on social responsibility and women's financial roles.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 25.9
+}

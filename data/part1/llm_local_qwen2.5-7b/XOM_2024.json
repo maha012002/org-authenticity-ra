@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "We work to provide the fuels and chemicals that make modern life possible and support human progress. For us, providing the energy our global economy requires while also offering lower-emission solutions shouldn\u2019t be an either/or choice; we like to think of it as an \u201cand\u201d equation, and that\u2019s an equation we\u2019re built to help solve.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Emphasizes a balanced approach to energy provision and sustainability, framing it as an 'and' equation rather than an 'or' choice.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.1
+}

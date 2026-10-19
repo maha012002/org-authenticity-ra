@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "providing the energy our global economy requires while also offering lower-emission solutions shouldn\u2019t be an either/or choice",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "the company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.3
+}

@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "At Phillips 66, we know that now, more than ever, is the time to try new things.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are committed to safety, reliability and environmental stewardship while protecting shareholder value.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "At Phillips 66, we know that now, more than ever, is the time to try new things.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "Our employees are dedicated to building capability, pursuing excellence and doing the right thing.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "Improving lives by providing access to the energy which is essential to a high standard of living and health throughout the world.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "At Phillips 66, we know that now, more than ever, is the time to try new things.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 24.6
+}

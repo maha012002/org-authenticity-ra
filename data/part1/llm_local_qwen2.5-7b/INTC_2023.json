@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We create world-changing technology that improves the life of every person on the planet.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Inspired by Moore\u2019s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers\u2019 greatest challenges.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We're committed to co-engineering and jointly designing, building, and validating new products with software industry leaders to accelerate mutual technology advancements and help new software and hardware work seamlessly together.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Intel\u2019s longstanding commitment to corporate responsibility and sustainability\u2014built on a strong foundation of transparency, governance, and ethics\u2014is deeply integrated throughout all aspects of our business.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "More emphasis on the company's purpose and values, and a stronger focus on sustainability and innovation.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 23.4
+}

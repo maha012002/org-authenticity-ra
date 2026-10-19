@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity, excellence and respect for people.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Integrity, excellence and respect for people.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Lilly unites caring with discovery to make life better for people around the world.\nOur mission\nWe make medicines that help people live longer, healthier, more active lives.\nOur vision\nWe will make a significant contribution to humanity by improving global health in the 21st century.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.6
+}

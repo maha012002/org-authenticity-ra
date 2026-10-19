@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "Through philanthropy and employee volunteerism, we support the diverse communities where our employees live and work.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We believe that private sector capital can play a key role in driving large-scale solutions to the most critical environmental and social challenges facing the world today.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "The Firm is dedicated to making a positive contribution to society through our core business activities, employment practices, operations and philanthropic giving.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We work to maximize capital to build a more sustainable future.",
+      "salience": 1
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We know a diverse workforce and an inclusive culture matters to our clients.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The addition of 'At Morgan Stanley, we lead with exceptional ideas. Across all our businesses, we offer keen insights on today\u2019s most critical issues.' highlights a focus on innovation and strategic thinking.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.9
+}

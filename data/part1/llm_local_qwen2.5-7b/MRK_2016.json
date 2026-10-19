@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We are committed to improving health and well-being around the world.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Curiosity, inventiveness, and a passion for excellence. These are qualities that drive Merck people to discover what\u00e2s possible as they work to help improve health around the world.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "To discover, develop and provide innovative products and services that save and improve lives around the world.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.7
+}

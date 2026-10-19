@@ -1,0 +1,58 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Ethics and integrity are the foundation of our brand and the guiding principles for all we do.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Priority number one. We are focused on our own personal safety as well as the safety of others.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Collaboration is a priority\u2014you\u2019ll hear that said by many companies\u2014but we\u2019re actually doing it.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Continuous improvement is built into all facets of our business, from R&D, to team building, delivering sustainable solutions, and meeting the needs of our customers, shareholders, and global communities.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We value diversity and equality. It makes us stronger, more innovative, and better positioned for success. We are committed to inclusion across race, gender, nationality, religion, identity, experience, and any other unique attribute.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are innovative and strive to apply the right technology and solution every time.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We work together with customers and understand that everyone has a role in providing the best solution.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Advance a sustainable energy future.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Enhancing the economic and social well-being of the communities where we live and operate is among our most enduring principles.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on safety, collaboration, and diversity, reflecting a stronger focus on these values compared to the previous year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 21.0
+}

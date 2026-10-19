@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "other",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page appears to be a mix of Berkshire Hathaway's news releases and a promotional message for Geico insurance. Ensure that the context of the page is correctly identified and that the Berkshire Hathaway content is not mistakenly attributed to Geico.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.6
+}

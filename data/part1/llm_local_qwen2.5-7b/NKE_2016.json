@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Company Profile\nNIKE, Inc. fosters a culture of invention.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "solving problems for the next generation",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainable innovation is a catalyst for revolutionizing the way we do business and an opportunity that's been integrated across our business in policies, processes and products. We are innovating solutions that benefit athletes, the company and the world.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.2
+}

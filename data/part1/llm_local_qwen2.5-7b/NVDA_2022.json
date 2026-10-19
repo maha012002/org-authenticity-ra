@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Gaming and Entertainment\nLaptops and Workstations\nCloud and Data Center\nNetworking\nGPUs\nEmbedded Systems\nApplication Frameworks\nApps and Tools",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "Get answers to all your support, sales, and partner questions.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now emphasizes support and sales resources more prominently.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 19.7
+}

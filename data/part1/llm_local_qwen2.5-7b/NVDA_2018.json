@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "redefined modern computer graphics, and revolutionized parallel computing",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.1
+}

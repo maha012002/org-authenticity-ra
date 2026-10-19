@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our mission is to be Earth\u2019s most customer-centric company.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "passion for invention, commitment to operational excellence, and long-term thinking.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "commitment to operational excellence, and long-term thinking.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Working to earn and keep our customers\u2019 trust is the single biggest driver of Amazon\u2019s Day 1 approach.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.3
+}

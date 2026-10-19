@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "Your Safety Is Our Priority",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Emphasis on safety and legal compliance.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

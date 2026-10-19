@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Environment\nSupplier Responsibility",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Inclusion and Diversity",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now includes more specific values and principles, such as Supplier Responsibility and Inclusion and Diversity, which were not present in the 2017 version.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.7
+}

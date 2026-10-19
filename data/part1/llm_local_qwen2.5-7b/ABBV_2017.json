@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "improving health care on a global basis",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Research and innovation are the cornerstones of our business.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We collaborate with peers, universities, clinical experts, governments and advocacy groups.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission Hasn\u2019t Wavered",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We achieve that by developing a consistent stream of innovative new medicines.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our commitment to ethics and compliance guides each of us, every single day.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.6
+}

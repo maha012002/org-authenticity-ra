@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Our innovative, collaborative efforts yield products that improve quality of life globally while producing economic benefits with far-reaching influence.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Across our 13 countries of operations, 10,000 people work in a truly integrated way to find and produce oil and natural gas.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our technical capabilities, asset quality and scale, and financial strength are unmatched among independent exploration and production companies and uniquely position us to compete around the world.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are focused on sustainably meeting energy demand, while creating lasting value for employees, communities and shareholders.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes innovation and sustainability more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.1
+}

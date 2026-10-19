@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "care about our customers",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "work every day with so many talented people who are dedicated to our values, care about our customers, and make the communities where we operate better places to live",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Marathon Petroleum has long-established core values associated with health and safety, diversity and inclusion, environmental stewardship and honesty and integrity",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "Marathon Petroleum has long-established core values associated with health and safety, diversity and inclusion, environmental stewardship and honesty and integrity",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Marathon Petroleum has long-established core values associated with health and safety, diversity and inclusion, environmental stewardship and honesty and integrity",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.0
+}

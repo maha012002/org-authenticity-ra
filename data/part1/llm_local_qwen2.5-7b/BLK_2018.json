@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "We're passionate about our work and intensely focused on performing at the highest levels.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "As a fiduciary for our clients and as public company, our focus is long-term sustainability.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We aim to be a responsible corporate citizen and to take into account environmental, social and governance issues that have real and quantifiable financial impacts over the long-term for our firm and the firms in which we invest.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Long-term responsibility and sustainability are integrated into our business model and shareholder value creation framework and in the way we conduct our business, serve our clients and give back to the communities in which we and our clients live and work.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes performance, safety, sustainability, and community impact more explicitly than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.2
+}

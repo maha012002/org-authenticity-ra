@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Intel is working relentlessly to unleash the potential of data, leading to more capable and efficient networks, and pervasive AI across smart devices.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We create world-changing technology that enriches the lives of every person on earth.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Purpose\nWe create world-changing technology that enriches the lives of every person on earth.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "we\u2019re uniting our partners, our customers, and our global technology portfolio to achieve something wonderful.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "From advancing climate solutions to diversity and inclusion initiatives, we\u2019re uniting our partners, our customers, and our global technology portfolio to achieve something wonderful.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our values \u2014 customer obsessed, One Intel, fearless, truth and transparency, inclusion and quality \u2014 guide how we make decisions, treat each other and serve our customers to achieve their goals.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We are inspired to: - Drive innovation that makes the world safer, builds healthy and vibrant communities, and increases productivity. - Harness our reach around the globe to better society, business, and the planet. - Push ourselves and our industry peers to be more responsible, inclusive, and sustainable.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 17.9
+}

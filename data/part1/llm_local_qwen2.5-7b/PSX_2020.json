@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "Our employees are committed to building capability, pursuing excellence and doing the right thing.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "By maintaining strong operating excellence, we are committed to safety, reliability and environmental stewardship while protecting shareholder value",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our vision is to provide energy and improve lives, and we back that up with core company values of safety, honor and commitment.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes safety and operating excellence more than before, with a stronger focus on the company's vision and values.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 13.0
+}

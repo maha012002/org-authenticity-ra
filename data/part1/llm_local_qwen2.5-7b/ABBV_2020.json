@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "At AbbVie, we see a future full of possibility, where health is in reach and patient lives are improved.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "At AbbVie, we combine advanced science, expertise and passion to solve serious health issues and have a remarkable impact on people\u2019s lives.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.8
+}

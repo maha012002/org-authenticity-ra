@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Put the Client First",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "looking for ways to offer our clients more value and a better experience",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Respecting fellow employees and reinforcing the power of teamwork",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our results speak for themselves",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to champion every client's goals with passion and integrity",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes the client-first approach more explicitly and includes more direct quotes from executives.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 13.6
+}

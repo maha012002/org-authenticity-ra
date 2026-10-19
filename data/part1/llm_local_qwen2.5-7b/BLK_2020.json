@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "BlackRock offers a range of solutions for institutions, financial professionals and individuals from all walks of life.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We put an unwavering focus on long-term sustainability and ensure it is embedded across our entire business.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help more and more people experience financial well-being. We are dedicated to helping our clients, employees, shareholders and communities achieve financial security, financial mobility, and financial freedom.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes sustainability and mission more than in prior years, with a focus on long-term financial well-being.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.2
+}

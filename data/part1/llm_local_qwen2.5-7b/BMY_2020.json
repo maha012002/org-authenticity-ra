@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Each day, our employees around the world work together for patients \u2013 patients are at the center of everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are pursuing therapies at the forefront of scientific discovery with the goal of bringing an exciting new generation of life-changing treatments to patients.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are pursuing therapies at the forefront of scientific discovery with the goal of bringing an exciting new generation of life-changing treatments to patients.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We have the brightest people in the industry and believe that their diverse experiences and perspectives help to bring out our best ideas, drive innovation and achieve transformative business results.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We support programs, initiatives and organizations that help improve health, expand research opportunities, promote and expand STEM education and deliver basic human services to our communities.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "We conduct our global business with the utmost integrity and transparency.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes patient focus and innovation more prominently than before, with a stronger tone of commitment to global health and sustainability.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 18.7
+}

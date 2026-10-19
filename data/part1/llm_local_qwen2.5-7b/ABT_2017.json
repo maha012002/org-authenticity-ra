@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "ABBOTT IS IN THE BUSINESS OF LIFE. Our anthem Every day and around the world, we\u2019re discovering new ways to make life better \u2013 creating more possibilities for more people through the power of health.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "creating more possibilities for more people through the power of health.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page introduces a new mission statement and anthem, emphasizing the company's purpose in making life better through health.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.9
+}

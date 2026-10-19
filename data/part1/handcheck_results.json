@@ -1,0 +1,22 @@
+{
+  "pages": 20,
+  "theme_labels_judged": 83,
+  "llm": {
+    "labels_judged": 53,
+    "correct": 45,
+    "precision": 0.849,
+    "true_themes": 61,
+    "found": 45,
+    "recall": 0.738
+  },
+  "lexicon": {
+    "labels_judged": 74,
+    "correct": 52,
+    "precision": 0.703,
+    "true_themes": 61,
+    "found": 52,
+    "recall": 0.852
+  },
+  "llm_page_type_accuracy": 0.8,
+  "note": "Recall is estimated: true themes = labels judged correct + themes the reader added as missed by both methods. One reader, not blind to the method if not sorted first."
+}

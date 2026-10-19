@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Intel invents at the boundaries of technology to make amazing experiences possible for business and society, and for every person on Earth.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Leading on policy, diversity, inclusion, education and sustainability, we create value for our stockholders, customers, and society.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are investing $300 million in our Diversity in Technology Initiative to achieve full representation of women and under-represented minorities at Intel by 2020, through funding, training, hiring, and retention.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes technology innovation, societal impact, and diversity initiatives more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.1
+}

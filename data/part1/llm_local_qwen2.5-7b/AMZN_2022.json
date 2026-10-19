@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "At Amazon, $15 is just the start\nAll Amazon employees earn at least $15 an hour\u2014and more in areas where the cost of living is higher. We invest in employee career growth\u2014including fully paid college tuition\u2014and offer regular, full-time employees benefits like health care on day one, and paid family leave.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Working to earn and keep our customers\u2019 trust is the single biggest driver of Amazon\u2019s Day 1 approach. Amazon\u2019s decision-making process that asks employees to consider whether an action is a one-way door\u2014consequential and nearly irreversible\u2014or a two-way door, easy to change course and go back.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The addition of specific employee benefits and the emphasis on $15 as a starting point for wages highlight a stronger focus on employee compensation and career development.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 17.2
+}

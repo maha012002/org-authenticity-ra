@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our therapies help 75 million people a year and support our Mission to alleviate pain, restore health, and extend life.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our people make it possible.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We value diverse perspectives and encourage our 90,000+ employees to be themselves.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are committed to giving back and reducing our impact on the environment.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "At Medtronic, we believe in the power of medical technology to improve lives. and Our people make it possible.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.7
+}

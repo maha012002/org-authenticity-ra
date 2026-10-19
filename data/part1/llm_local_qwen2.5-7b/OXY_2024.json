@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing our carbon footprint and helping others do the same",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "developing the big ideas and broad solutions we will need to achieve net zero",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "deliver results responsibly",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We dare to do what others won't.\nWe will lead the industry by reaching for the impossible, then achieving it.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes more on the commitment to reducing carbon footprint and achieving net zero, compared to the prior year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.6
+}

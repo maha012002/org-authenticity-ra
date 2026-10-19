@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "NVIDIA\u2019s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "More recently, GPU deep learning ignited modern AI \u2014 the next era of computing \u2014 with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world.",
+      "salience": 3
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.5
+}

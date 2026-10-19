@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "our purpose is to make the world a better place by bringing life-changing health technologies to the people who need them.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the company's mission to improve lives through health technologies, which is a central theme.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.8
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "customers and clients in ways that other banks simply cannot.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We have set expectations for how we must act to bring our mission to life.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "We believe in playing a leading role in solving increasingly interconnected societal challenges.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "We have set expectations for how we must act to bring our mission to life.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.1
+}

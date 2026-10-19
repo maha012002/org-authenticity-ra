@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Committed to being carbon free by 2030",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now includes more specific commitments like 'expanding what's possible for everyone' and 'keeping billions of people safe online', shifting the focus towards social impact and safety.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.9
+}

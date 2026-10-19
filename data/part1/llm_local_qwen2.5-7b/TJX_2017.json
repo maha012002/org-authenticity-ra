@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We offer a rapidly changing assortment of brand name, designer and other high-quality merchandise at prices generally 20%-60% below department and specialty store regular prices on comparable merchandise, every day.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We see ourselves as leaders in innovation, constantly testing new ideas, seeking the right categories, current fashions and top brands, and leveraging information from our worldwide buying presence.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "In our 40-year history, we have delivered steady sales and earnings growth and some of the highest returns on investment we have seen in retail.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.6
+}

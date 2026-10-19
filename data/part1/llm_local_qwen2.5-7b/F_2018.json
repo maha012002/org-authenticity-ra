@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "Community service is an important part of Ford\u2019s heritage and always has been.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "In 2013, for example, Ford globally reduced the amount of water it used to produce each vehicle by 30 percent compared to a 2009 baseline, reaching its goal two years ahead of schedule.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "In 2013, for example, Ford globally reduced the amount of water it used to produce each vehicle by 30 percent compared to a 2009 baseline, reaching its goal two years ahead of schedule.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our work doesn\u2019t stop with our products and our bottom line. An integral part of the Ford team\u2019s DNA is \u2018people serving people.\u2019 That\u2019s why our global brand promise is called Go Further \u2013 we go further so you can.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes community impact and environmental sustainability more than in prior years, reflecting a broader focus on social and environmental responsibility.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.4
+}

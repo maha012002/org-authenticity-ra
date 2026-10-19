@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We help millions of people invest to build savings that serve them throughout their lives.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "To meet the needs of our clients over the long term, we're continuing to evolve, invest, and innovate.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help more and more people experience financial well-being.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "We're a fiduciary to our clients.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We advance sustainable investing because our conviction is it delivers better outcomes for our investors. As the world moves towards a net zero economy, how can we help investors prepare for the transition?",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "18,000+ people of different backgrounds, races, and nationalities1 131 languages addressing the needs of a multilingual client base1 36 countries enabling us to help more and more people1",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the company's purpose and mission, and the values of diversity and sustainability.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 17.0
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "At IBM Research, we invent things that matter. We are a community of thinkers. We make a lasting impact on our industry and the world.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "IBM is your partner for navigating the new rules of modern business with an open, collaborative approach",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "With 50 billion transistors on a fingernail-sized chip, the most dense to date, this innovation holds the potential for greener data centers and safer autonomous vehicles.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes more on innovation and partnership, highlighting recent technological advancements and collaborations.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.6
+}

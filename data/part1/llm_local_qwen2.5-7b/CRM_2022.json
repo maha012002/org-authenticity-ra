@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "Bringing people together changes everything.\nIn unity, there is power.\nWhen we come together, we unlock hidden potential.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We build bridges between companies and customers.\nEvery product we offer plays a part in building the connections that drive success \u00e2 and that success can be harnessed to create positive change.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We innovate together.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "What brings us together guides us forward.\nWe believe business is the greatest platform for change.\nWe are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Equality\nEveryone deserves equal opportunities.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.\nAnd we lead by example, spearheading initiatives in philanthropy, racial equality and justice, climate action and advocacy, and the ethical and humane use of technology.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The added content emphasizes collaboration, customer focus, and innovation more explicitly, and introduces new themes like equality and community social impact.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 21.0
+}

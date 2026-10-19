@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Tesla\u2019s mission is to accelerate the world\u2019s transition to sustainable energy.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Tesla believes the faster the world stops relying on fossil fuels and moves towards a zero-emission future, the better.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "To create an entire sustainable energy ecosystem, Tesla also manufactures a unique set of energy solutions, Powerwall, Powerpack and Solar Roof, enabling homeowners, businesses, and utilities to manage renewable energy generation, storage, and consumption.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The addition of specific product details like Model Y and Cybertruck, and the emphasis on safety and production improvements, reflect a more detailed and practical approach to the mission statement.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.3
+}

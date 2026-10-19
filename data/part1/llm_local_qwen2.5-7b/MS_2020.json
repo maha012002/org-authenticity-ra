@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "We believe that private sector capital can play a key role in driving large-scale solutions to the most critical environmental and social challenges facing the world today.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "The Firm is dedicated to making a positive contribution to society through our core business activities, employment practices, operations and philanthropic giving.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our skilled workforce is comprised of individuals drawn from a broad cross section of the global communities we serve.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We know a diverse workforce and an inclusive culture matters to our clients.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes sustainability and social impact more prominently than before, with new sections dedicated to these themes.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.5
+}

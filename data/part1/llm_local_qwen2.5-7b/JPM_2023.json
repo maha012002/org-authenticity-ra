@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Because that goes a long way in insuring trust and accountability today and into the future.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "A talent-driven company is by definition a diverse and inclusive one. Though we aim to do better still, we're proud of the workplace we've created.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes the company's long tradition of integrity and its commitment to creating a diverse and inclusive workplace.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.3
+}

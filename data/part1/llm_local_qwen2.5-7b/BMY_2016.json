@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "giving maximum priority to accelerating pipeline development, delivering sales growth and continuing to manage costs.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Innovation is critical for successfully executing our BioPharma strategy.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We outperformed most mega pharma companies, diversified companies and pure biotech companies.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Bristol-Myers Squibb is a global BioPharma company firmly focused on its mission to discover, develop and deliver innovative medicines to patients with serious diseases.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Preservation of our natural resources also represents one of our key commitments.",
+      "salience": 1
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Reflecting our long-standing commitment to deliver shareholder value, our company has paid dividends to stockholders for more than 300 consecutive quarters.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Bristol-Myers Squibb is recognized among the leading sustainability-driven companies.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.1
+}

@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help more and more people experience financial well-being.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "of different backgrounds, races and nationalities1",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Constantly innovating to bring convenience, transparency and precision to investing.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Challenging each other to grow and develop professionally so we can have a greater impact.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We\u2019re involved citizens Speaking out for diversity, equity and inclusion, and working to reduce our environmental footprint.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We help millions of people invest to build savings that serve them throughout their lives.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We\u2019re involved citizens Speaking out for diversity, equity and inclusion, and working to reduce our environmental footprint.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 14.8
+}

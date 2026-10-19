@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "Join a team and inspire the work.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Explore a collaborative culture of inclusion, growth, and originality, supported by resources that make a difference in your life.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We\u2019re committed to making Apple more inclusive and the world more just.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our goal is to leave the planet better than we found it.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "This is where individual imaginations gather together, committing to the values that lead to great work.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.1
+}

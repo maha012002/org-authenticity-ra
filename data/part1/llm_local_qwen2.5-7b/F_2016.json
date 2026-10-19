@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "We\u2019re growing without sacrificing profits. In the past year, we\u2019ve continued to fund our employee pension plans worldwide, delivered record profit-sharing contributions to our U.S. hourly employees and doubled our shareholder dividend.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "In 2014 we will host the auto industry\u2019s first developer conference for in-car connectivity.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Ford\u2019s sustainability strategy goes beyond reducing CO\u2082 emissions. From water usage to worker rights, we\u2019ve made sustainability an integral part of our business.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Quality Improving quality is a daily priority at Ford. From design and manufacture to sales and service, Ford always aims to increase customer satisfaction.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "People working together as a lean, global enterprise to make people\u2019s lives better through automotive and mobility leadership.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Ultimately, our vision is to make people\u2019s lives better by changing the way the world moves, just as Henry Ford did more than a century ago.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Community service is an important part of Ford\u2019s heritage and always has been. The Ford Volunteer Corps celebrated its 10th anniversary in 2015. Ford Motor Company Fund and Community Services has donated more than $1.5 billion in its 65-year history.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 19.3
+}

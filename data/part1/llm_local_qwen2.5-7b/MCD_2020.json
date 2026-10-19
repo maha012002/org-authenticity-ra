@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to make delicious feel-good moments easy for everyone.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are committed to improving the lives of our people, our industry and the planet by putting our customers and employees first, sourcing quality food, reducing waste impact, and expanding job opportunities around the globe.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are committed to improving the lives of our people, our industry and the planet by putting our customers and employees first, sourcing quality food, reducing waste impact, and expanding job opportunities around the globe.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are committed to improving the lives of our people, our industry and the planet by putting our customers and employees first, sourcing quality food, reducing waste impact, and expanding job opportunities around the globe.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "We are committed to improving the lives of our people, our industry and the planet by putting our customers and employees first, sourcing quality food, reducing waste impact, and expanding job opportunities around the globe.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Living these values is the foundation of McDonald\u2019s next great chapter.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 27.7
+}

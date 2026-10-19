@@ -1,0 +1,63 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Tesla\u2019s mission is to accelerate the world\u2019s transition to sustainable energy.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Tesla\u2019s engineers first designed a powertrain for a sports car built around an AC induction motor, patented in 1888 by Nikola Tesla, the inventor who inspired the company\u2019s name.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "With instant torque, incredible power, and zero emissions, Tesla\u2019s products would be cars without compromise.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Now with more than 50,000 vehicles on the road worldwide, Tesla is preparing to launch Model X, a crossover vehicle that enters volume production in 2015.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Now with more than 50,000 vehicles on the road worldwide, Tesla is preparing to launch Model X, a crossover vehicle that enters volume production in 2015.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "The Tesla Factory has returned thousands of jobs to the area and is capable of producing 1,000 cars a week.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "To reduce the costs of lithium ion battery packs, Tesla and key strategic partners including Panasonic have begun construction of a gigafactory in Nevada that will facilitate the production of a mass-market affordable vehicle, Model 3.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "With instant torque, incredible power, and zero emissions, Tesla\u2019s products would be cars without compromise.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "To reduce the costs of lithium ion battery packs, Tesla and key strategic partners including Panasonic have begun construction of a gigafactory in Nevada that will facilitate the production of a mass-market affordable vehicle, Model 3.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "The gigafactory will also produce battery packs intended for use in stationary storage, helping to improve robustness of the electrical grid, reduce energy costs for businesses and residences, and provide a backup supply of power.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 28.0
+}

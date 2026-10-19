@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our services help people connect, and when they\u2019re at their best, they bring people closer together.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "The makeup of our company reflects the diverse perspectives of the people who use our technologies.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Giving people the power to build community and bring the world closer together",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Now, Meta is moving beyond 2D screens toward immersive experiences like augmented, virtual and mixed reality to help build the next evolution in social technology.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "People deserve to be heard and to have a voice \u2014 even when that means defending the right of people we disagree with.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "The makeup of our company reflects the diverse perspectives of the people who use our technologies.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "We have a responsibility to promote the best of what people can do together by keeping people safe and preventing harm.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The addition of mixed reality and the emphasis on diverse perspectives and safety reflect a broader focus on inclusivity and user protection.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.7
+}

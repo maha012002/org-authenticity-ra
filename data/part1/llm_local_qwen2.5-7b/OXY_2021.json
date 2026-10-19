@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing greenhouse gas emissions and making the world a better place to live",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "taking bold steps to innovate new technologies for a low-carbon future",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "producing energy and essential products to sustain and improve life on our planet",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.2
+}

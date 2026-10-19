@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We do this by offering an ever-changing assortment of quality, fashionable, brand name, and designer merchandise at prices generally 20% to 60% below full-price retailers\u2019 (including department, specialty, and major online retailers) regular prices on comparable merchandise, every day.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Throughout our history before COVID, our strong financial returns and cash generation historically allowed us to simultaneously invest in the growth of the business and return cash to shareholders for decades.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "temporarily closing our stores, distribution centers, e-commerce sites, and offices due to COVID and then reopening our operations again while prioritizing the health and safety of our Associates, customers, and communities.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to deliver great value to our customers every day.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the company's mission and values more than in the prior year, with a focus on safety and health during the pandemic.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.1
+}

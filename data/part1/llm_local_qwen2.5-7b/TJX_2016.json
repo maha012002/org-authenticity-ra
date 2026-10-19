@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We brought our values to more consumers around the world as we expanded our global reach to three new countries.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are confident that our ongoing focus on developing new seeds and innovation is a driving force of our long-term success.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are convinced that we will achieve our goals and the next milestone of becoming a $40 billion-plus Company!",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.8
+}

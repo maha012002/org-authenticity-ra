@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Revolutionary multitenant architecture helps deliver a secure and consolidated database cloud.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Oracle saves US$1B dollars consolidating its own systems using Oracle E-Business Suite 11i, the first fully integrated enterprise apps suite.",
+      "salience": 3
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now includes a focus on healthcare information systems and processes, reflecting a broader mission.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.3
+}

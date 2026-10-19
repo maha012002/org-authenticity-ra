@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We responsibly provide financial services that enable growth and economic progress",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We strive to create the best outcomes for our clients and customers with financial ingenuity",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.9
+}

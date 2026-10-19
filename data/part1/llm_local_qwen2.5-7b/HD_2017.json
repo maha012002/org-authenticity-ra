@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "shareholder_value",
+      "evidence": "Creating Shareholder Value\nThe investors who provide the capital necessary to allow our company to grow need and expect a return on their investment. We are committed to proving it.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Entrepreneurial Spirit\nHome Depot associates are encouraged to initiate creative and innovative ways to serve our customers and improve the business as well as spread best practices throughout the company.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Building Strong Relationships\nStrong Relationships are built on trust, honesty and integrity. We listen and respond to the needs of customers, associates, communities and vendors, treating them as partners.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Taking Care of Our People\nThe key to our success is treating people well. We do this by encouraging associates to speak up and take risks, by recognizing and rewarding good performance and by leading and developing people so they may grow.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "Doing the Right Thing\nWe exercise good judgment by 'doing the right thing' instead of just 'doing things right.' We strive to understand the impact of our decisions, and we accept responsibility for our actions.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.6
+}

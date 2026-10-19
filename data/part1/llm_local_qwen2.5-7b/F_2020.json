@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We are once again working to revolutionize mobility, fueled by new challenges and creating solutions to build a better world for everyone.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our backgrounds, experiences and beliefs not only define us as individuals, they enhance our efforts in delivering vehicles that benefit all walks of life.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes the company's purpose and mission more than in prior years, with a focus on societal impact and individual contributions.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.2
+}

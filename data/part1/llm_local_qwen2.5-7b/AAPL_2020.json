@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Environment\nSupplier Responsibility",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Inclusion and Diversity",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Identical archive capture to prior year; prior-year coding reused.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "reused_identical",
+  "_seconds": 13.7
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Whether they are improving life for patients, protecting our global climate or keeping people safe, our customers look to Thermo Fisher Scientific for innovative solutions.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our supporting brands A commitment to analytical precision",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our broad range of clinical development and analytical services enables Thermo Fisher Scientific customers to drive innovation and increase drug development productivity.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We champion science because we're scientists too.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.3
+}

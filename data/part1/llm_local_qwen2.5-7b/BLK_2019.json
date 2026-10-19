@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Put simply, your goals are our goals.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We know that working in silos is not conducive to our best work.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are proud of our long history of innovation, driving continuous change to help investors achieve their goals.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes client focus, collaboration, and innovation more explicitly than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.5
+}

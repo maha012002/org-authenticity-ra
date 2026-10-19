@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "The Blue Oval is one of the most recognized corporate symbols in history, continually striving to earn the trust of all stakeholders.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We value service to each other and the world as much as to our customers.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes service to stakeholders and the world more than in the prior year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.8
+}

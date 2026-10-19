@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Each day, our employees around the world work together for patients \u2013 it drives everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are focused on helping millions of patients around the world in disease areas such as oncology, cardiovascular, immunoscience and fibrosis. Through our R&D organization, we have built a sustainable pipeline of potential therapies, and actively partner to access external innovation to broaden and accelerate our work.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Through the Bristol-Myers Squibb Foundation, we promote health equity and strive to improve health outcomes of populations disproportionately affected by serious diseases and conditions, giving new hope to some of the world\u2019s most vulnerable people.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainability\nResponsibility",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Through the Bristol-Myers Squibb Foundation, we promote health equity and strive to improve health outcomes of populations disproportionately affected by serious diseases and conditions, giving new hope to some of the world\u2019s most vulnerable people.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We work every day to deliver innovative medicines for patients with serious and life-threatening diseases.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes patient focus and innovation more prominently than prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 17.0
+}

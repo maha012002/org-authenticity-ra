@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "shareholder_value",
+      "evidence": "The investors who provide the capital necessary to allow our company to grow need and expect a return on their investment. We are committed to providing it.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Home Depot associates are encouraged to initiate creative and innovative ways to serve our customers and improve the business as well as spread best practices throughout the company.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Drew Chabot partnered with a friend who owns a printing company and created shirts with a simple logo, \u201cRestore the Shore\u201d to raise funds and ultimately donated more than $500,000 to help with clean-up efforts.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "The key to our success is treating people well. We do this by encouraging associates to speak up and take risks, by recognizing and rewarding good performance and by leading and developing people so they may grow.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "We exercise good judgment by 'doing the right thing' instead of just 'doing things right.' We strive to understand the impact of our decisions, and we accept responsibility for our actions.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "An important part of the fabric of The Home Depot is giving our time, talents, energy and resources to worthwhile causes in our communities and society.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the personal stories and the impact of the associates' actions, highlighting the values in a more human-centric way.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 19.7
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We did a lot of things that seemed crazy at the time. Many of those crazy things now have over a billion users, like Google Maps, YouTube, Chrome, and Android. And we haven\u00e2t stopped there. We are still trying to do things other people think are crazy but we are super excited about.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our company is operating well today, but we think we can make it cleaner and more accountable. So we are creating a new company, called Alphabet.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Google is not a conventional company. We do not intend to become one. We did a lot of things that seemed crazy at the time. Many of those crazy things now have over a billion users, like Google Maps, YouTube, Chrome, and Android. And we haven\u00e2t stopped there. We are still trying to do things other people think are crazy but we are super excited about.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Sergey and I have been super excited about his progress and dedication to the company. And it is clear to us and our board that it is time for Sundar to be CEO of Google. I feel very fortunate to have someone as talented as he is to run the slightly slimmed down Google and this frees up time for me to continue to scale our aspirations.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We are excited about\u00e2\u00a6 Getting more ambitious things done. Taking the long-term view. Empowering great entrepreneurs and companies to flourish. Investing at the scale of the opportunities and resources we see. Improving the transparency and oversight of what we\u00e2re doing. Making Google even better through greater focus.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 31.8
+}

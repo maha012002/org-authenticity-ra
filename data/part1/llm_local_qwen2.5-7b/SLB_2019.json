@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Our story begins with what it truly means to be a technology innovator.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "It takes a combination of engineering disciplines, along with computer science, geophysics, and metallurgy.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We believe energy makes society progress, so we find ways to help our customers fuel agriculture, industry, medicine, science, space, technology, and transportation.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are developing methods and processes using ever-less-invasive means minimizing environmental footprints while maximizing positive influence on the communities in which we live and work.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes innovation, collaboration, and customer focus more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.6
+}

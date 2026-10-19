@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Customer Obsession",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Invent and Simplify",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Are Right, A Lot, Learn and Be Curious, Hire and Develop the Best, Insist on the Highest Standards, Think Big, Bias for Action, Frugality, Earn Trust, Dive Deep, Have Backbone; Disagree and Commit, Deliver Results",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Leaders are owners. They think long term and don\u2019t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page removed the sentence 'As we do new things, we accept that we may be misunderstood for long periods of time' from the 'Invent and Simplify' principle.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.2
+}

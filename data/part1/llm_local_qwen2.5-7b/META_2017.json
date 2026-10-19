@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Facebook\u2019s mission is to give people the power to build community and bring the world closer together.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The mission statement was slightly rephrased from 'make the world more open and connected' to 'bring the world closer together'.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.7
+}

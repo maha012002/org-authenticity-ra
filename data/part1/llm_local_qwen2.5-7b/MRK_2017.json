@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Ethics and transparency at Merck are cornerstones of our corporate reputation.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "To make a difference in the lives of people globally through our innovative medicines, vaccines, and animal health products.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "gallons of water saved over the past 6 years",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes values and mission more than prior years, with less focus on specific business areas.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.1
+}

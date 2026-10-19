@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "Across our business, we strive to lift up the communities we\u2019re in. We do it through our purpose, to feed and foster communities.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to make delicious feel-good moments easy for everyone. The backbone of our Brand is, and always has been, a commitment to a set of core values that define who we are and how we run our business and restaurants.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Behind our Golden Arches is a global community of crew, farmers, suppliers, franchisees, and countless others who make up who we are as a brand.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The added content emphasizes community, inclusion, and the McFamily, reflecting a broader focus on social impact and employee well-being.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 22.4
+}

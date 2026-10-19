@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "UnitedHealth Group serves clients and consumers through two distinct platforms.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "UnitedHealth Group invests more than $3.5 billion in technology and innovation, and processes approximately 1.1 trillion transactions annually.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "More than 305,000 people worldwide power UnitedHealth Group with their entrepreneurial spirit and commitment to quality, including 85,000 clinical professionals focused on helping people live healthier lives.",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.7
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We do this by offering a rapidly changing assortment of quality, fashionable, brand name, and designer merchandise generally 20% to 60% below full-price retailers\u00e2 (including department, specialty, and major online retailers) regular prices on comparable merchandise.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Further, our financial strength gives us the ability to invest in the growth of the business. These are some of the key factors that give us great confidence in our ability to achieve our goals for global growth.",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "In our history as a Company, we have delivered steady sales and earnings growth and some of the highest returns on investment we have seen in retail. We have seen only one year with an annual comparable store sales decline.",
+      "salience": 2
+    }
+  ],
+  "page_type": "general_about",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.8
+}

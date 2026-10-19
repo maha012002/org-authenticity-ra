@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now explicitly states core values and their importance to financial performance and reputation.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.0
+}

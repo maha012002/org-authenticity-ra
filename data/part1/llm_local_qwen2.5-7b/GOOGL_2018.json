@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to organize the world\u00e2s information and make it universally accessible and useful.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are dedicated to creating opportunity for everyone",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now prominently features the company's mission statement and values, replacing the more informal tone of the previous version.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.2
+}

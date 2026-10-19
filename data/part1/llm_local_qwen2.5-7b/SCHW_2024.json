@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Since our founding, we have championed Main Street investors by giving them the tools, resources, and investment advice needed to secure their financial futures.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "Our goal is to be the most trusted leader in investment services\u2014not only by championing every client's goals with passion and integrity, but also through our investments in the success of our employees and the communities where we operate.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "At Schwab, we take a more human approach to financial services, and treat clients and colleagues the way we'd like to be treated. We offer more intelligent ways to invest\u2014combining the best of people and technology\u2014and offer it all at low costs, which helps clients achieve better outcomes.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "People at Schwab are free to be their authentic and full selves\u2014without compromise. And we\u2019re stronger for it. Every employee\u2019s unique strengths deepen the value we can create for each other and for our clients.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the human approach and the tools provided to clients, compared to the prior year's focus on the founder's story and the company's journey.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 30.1
+}

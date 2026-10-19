@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "The people we serve are at the heart of everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Together, we deliver the right home improvement products, with the best service and value, across every channel and community we serve.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Every aspect of our business and strategy is rooted in that mission.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.6
+}

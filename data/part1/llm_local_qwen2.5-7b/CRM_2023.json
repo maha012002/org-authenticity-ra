@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "From the day we opened our doors, focus on our customers drove our every decision.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We innovate together.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "We lead boldly to address the climate emergency.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We lead boldly to address the climate emergency.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We are Trailblazers. We are family.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.2
+}

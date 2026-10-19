@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "innovating oil and gas, delivering digital at scale, decarbonizing industries, developing and scaling new energy systems",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "working closely with our suppliers, contractors, and business partners",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose: Together, we create amazing technology that unlocks access to energy for the benefit of all.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Bring Balance Back to Our Planet Our planet needs balance to thrive, for the climate, for people, and for nature",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "employees representing almost twice as many nationalities, Ever-evolving and constantly innovating, we transcend every cultural and technological boundary set before us. Indeed, it is our diversity that makes us stronger.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Bringing together talented people from all over the globe, we\u2019re working on the industry\u2019s most complex and pressing challenges to anticipate and align with our customers\u2019 needs. We want to be their performance partner of choice.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "Ethics and Compliance SLB\u2019s Board of Directors oversees our processes for maintaining integrity with regard to SLB\u2019s financial statements, internal controls, public disclosures, and compliance with laws and ethics.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes a common sense of purpose and a global footprint, highlighting collaboration and diversity more prominently.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 21.7
+}

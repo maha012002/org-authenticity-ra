@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We hold ourselves to the highest standards of ethics and integrity.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We work hard to bring you the medications and vaccines that help fight some of the world's most serious health concerns.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We\u2019re at the forefront of research to deliver innovative health solutions that advance the prevention and treatment of diseases in people and animals.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We're committed to fostering an environment of engagement, equity and empowerment.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We recognize the importance of embedding a culture of inclusion and belonging at every level of our company.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes patient-centricity and the company's commitment to ethical standards and diversity more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.7
+}

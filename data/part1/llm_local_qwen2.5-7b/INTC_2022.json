@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our customers\u2019 success is our obsession.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We believe that data is dramatically shaping the future of all humankind.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "Our values\u2014Customer First, Fearless Innovation, Results Driven, One Intel, Inclusion, Quality and Integrity\u2014guide how we make decisions, treat each other, serve our customers to achieve their goals and shape technology as a force for good.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Purpose\nWe create world-changing technology that improves the life of every person on the planet.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "We\u2019re here to help you deploy intelligence exactly where it\u2019s from devices at the edge, through the network, and to the data center.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We\u2019re powering solutions to the world's biggest challenges through our ongoing engineering innovation.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the company's purpose and values, and less on specific product mentions compared to the prior year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.3
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Facebook\u2019s mission is to give people the power to build community and bring the world closer together.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our open culture keeps everyone informed and allows people to move around and solve the problems they care about most.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Facebook is defined by our hacker culture - an environment that rewards creative problem solving and rapid decision making.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the company's mission and culture more than in prior years, with a focus on collaboration and innovation.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.8
+}

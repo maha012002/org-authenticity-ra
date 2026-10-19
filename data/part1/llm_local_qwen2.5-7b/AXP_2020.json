@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We Deliver for Our Customers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We deliver an unparalleled standard of excellence in everything we do, staying focused on the biggest opportunities to be meaningful to our customers.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "We Do What\u2019s Right",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We Respect People",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We Win As a Team",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We Care About Communities",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.7
+}

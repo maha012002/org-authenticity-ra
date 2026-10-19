@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Revolutionary multitenant architecture helps deliver a secure and consolidated database cloud.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Oracle is helping government agencies and the medical community better understand and combat the coronavirus.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.4
+}

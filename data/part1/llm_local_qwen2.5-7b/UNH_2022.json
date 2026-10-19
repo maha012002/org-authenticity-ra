@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "Creating a culture where all team members are appreciated, valued and able to reach their full potential.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "Helping People Live Healthier Lives and Helping Make the Health System Work Better for Everyone",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "commitment to ethics and integrity",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Decades of Developing Strong and Effective Governance Practices",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Mission: Helping People Live Healthier Lives and Helping Make the Health System Work Better for Everyone",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Creating a culture where all team members are appreciated, valued and able to reach their full potential.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Committed to Advancing Health Equity",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The wording has shifted to focus more on health equity and the company's mission to help people live healthier lives.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 20.3
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We are making significant advancements with a robust pipeline of potential new medicines as we look to find the treatments of tomorrow.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "Every solution starts with the patient\u2019s perspective, because transformative medicines only matter when they are safe, effective and accessible to everyone who needs them.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "We are driven by our compassion for people, commitment to innovation and inclusion, service to the community and uncompromising integrity.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "AbbVie\u2019s mission is to discover and deliver innovative medicines and solutions that address complex health issues and enhance people's lives.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes patient perspective and innovation more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.6
+}

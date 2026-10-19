@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We come up with new approaches to addressing today\u2019s health issues\u2014from life-threatening illness to chronic conditions.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "At AbbVie, we see a future full of possibility, where health is in reach and patient lives are improved.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We\u2019re constantly working to create solutions that go beyond treating the illness to have a positive impact on patients\u2019 lives, on societies\u2014and on science itself.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the positive impact on patients' lives and societies, highlighting the company's mission and values.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.2
+}

@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Provide the world\u2019s best customer experience every day.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We deliver an unparalleled standard of excellence in everything we do, staying focused on the biggest opportunities to be meaningful to our customers.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We view each other as colleagues\u2014part of the same team, striving to deliver the brand promise to our customers and each other every day.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We trust and respect one another for who we are and what we contribute. We are accountable to one another and empower every voice through open, courageous dialogue so others feel heard.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We see diversity of people and experiences as fuel for the creativity and innovation we need to be and deliver our best. We Stand for Inclusion. We\u2019re committed to ensuring that we have a welcoming and inclusive culture where everyone\u2019s voice matters and where people of all races, ethnicities, genders, gender identities, sexual orientations, ages, religions, disabilities and viewpoints can thrive.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We Deliver for Our Customers. We\u2019re driven by our commitment to deliver exceptional products, services and experiences to our customers.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We Support Our Communities. We respect our communities and are committed to working together so they can thrive and make a meaningful difference in the world.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "We Do What\u2019s Right. Customers choose us because they trust our brand and people. We earn that trust by ensuring everything we do is reliable, consistent, and with the highest level of integrity.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes teamwork and community support more than in prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 22.6
+}

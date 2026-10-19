@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We help millions of people invest to build savings that serve them throughout their lives.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are challenging ourselves and the industry by asking big questions.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help more and more people experience financial well-being.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "At BlackRock, we believe we\u2019re at our best when our employees connect their personal purpose to their work and our firm\u2019s purpose.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "19,000+ people of different backgrounds, races, and nationalities",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We apply those same principles to sustainability and the low-carbon transition.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes more on the company's purpose and mission, and less on specific sustainable outcomes.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.1
+}

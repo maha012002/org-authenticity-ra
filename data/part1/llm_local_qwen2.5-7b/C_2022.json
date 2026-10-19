@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our distinct global network of people, data and relationships creates a mindset that allows Citi to spot opportunities, manage risks and connect dots for our clients in ways that others simply cannot.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our distinct global network of people, data and relationships creates a mindset that allows Citi to spot opportunities, manage risks and connect dots for our clients in ways that others simply cannot.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.5
+}

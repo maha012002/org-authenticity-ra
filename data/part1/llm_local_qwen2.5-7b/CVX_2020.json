@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We\u2019re leaders in energy because we value responsibility, trust and integrity.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "powering human progress takes energy\nIt\u2019s only human to want a better life, and we need reliable, affordable and ever-cleaner energy to get there.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "we believe in the power of human ingenuity to lead us to a brighter future.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes human progress and the role of energy in achieving it, with a focus on human ingenuity and collaboration.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.9
+}

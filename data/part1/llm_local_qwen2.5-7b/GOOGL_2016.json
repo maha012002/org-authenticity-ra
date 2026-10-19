@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Google\u00e2s mission is to organize the world\u00e2s information and make it universally accessible and useful.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Focus on the user and all else will follow.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Whether we\u00e2re designing a new Internet browser or a new tweak to the look of the homepage, we take great care to ensure that they will ultimately serve you, rather than our own internal goal or bottom line.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.6
+}

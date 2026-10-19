@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "At Meta, we are constantly iterating, solving problems and working together to connect people all over the world.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Our products empower more than 3 billion people around the world to share ideas, offer support and make a difference.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our principles are what we stand for. They are beliefs we hold deeply and make tradeoffs to pursue.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to Give people the power to build community and bring the world closer together.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Hiring people with different backgrounds and points of view helps us make better decisions, build better products and create better experiences for everyone.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Hiring people with different backgrounds and points of view helps us make better decisions, build better products and create better experiences for everyone.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes teamwork and collaboration more explicitly than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.6
+}

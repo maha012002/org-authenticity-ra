@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Whether they are improving life for patients, protecting our global climate or keeping people safe, our customers look to Thermo Fisher Scientific for innovative solutions.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our genomic solutions are trusted to address a variety of basic, commercial and clinical research applications in fields such as cancer diagnostics, human identification testing and animal health, as well as inherited and infectious disease.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our broad range of clinical development and analytical services enables Thermo Fisher Scientific customers to drive innovation and increase drug development productivity.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We champion science because we're scientists too.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes the company's commitment to science and innovation more than in prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.4
+}

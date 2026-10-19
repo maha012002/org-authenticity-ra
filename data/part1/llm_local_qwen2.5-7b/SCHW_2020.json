@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Put the Client First",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "looking for ways to offer our clients more value and a better experience",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "respecting fellow employees and reinforcing the power of teamwork",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our purpose drives our every action",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to champion every client's goals with passion and integrity",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The addition of specific metrics and growth details, such as 'more total assets than any publicly traded investment services firm in the U.S.,' and the emphasis on client-centricity and innovation.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 15.6
+}

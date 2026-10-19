@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "patients are at the center of everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We combine the agility of a biotech with the reach and resources of an established pharmaceutical company to create a global leading biopharma company powered by talented individuals who drive scientific innovation.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our workforce is globally diverse to create an inclusive, high-performance culture that is agile, entrepreneurial and accountable.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We support programs, initiatives and organizations that help improve health, expand research opportunities, promote and expand STEM education and deliver basic human services to our communities.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Preservation of natural resources is one of our key commitments. We lead the way with sustainable, ethical, and compliant global business practices that take care of patients, communities and the planet.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We promote health equity globally and strive to increase access to life-saving medicines for populations disproportionately affected by serious diseases and conditions.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "Our policies and procedures are designed so that the company and our partners conduct business in a legal, ethical and responsible manner. It's essential to our integrity and success.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We have added a new section on sustainability, emphasizing our commitment to environmental stewardship and ethical business practices.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 18.6
+}

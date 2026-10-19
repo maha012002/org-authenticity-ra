@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "our mission is to deliver great value to our customers every day.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our strong financial returns and cash generation allow us to simultaneously invest in the growth of the business and return cash to shareholders.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are constantly innovating and testing new ideas, seeking the right categories, current fashions and top brands, and leveraging information from our worldwide buying presence.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language emphasizes financial performance and innovation more than in the prior year.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.1
+}

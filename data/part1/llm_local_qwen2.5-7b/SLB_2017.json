@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Corporate Profile Discover more about who we are Executive Management Driven to create value for our customers, our shareholders and our employees Guiding Principles The values, integrity and standards that touch every part of our business",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Corporate Profile Discover more about who we are Executive Management Driven to create value for our customers, our shareholders and our employees",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "Global Stewardship Sustainable development at Schlumberger is rooted in a long standing culture of environmental and social stewardship in the countries where we operate.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Global Stewardship Sustainable development at Schlumberger is rooted in a long standing culture of environmental and social stewardship in the countries where we operate.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Identical archive capture to prior year; prior-year coding reused.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "reused_identical",
+  "_seconds": 23.9
+}

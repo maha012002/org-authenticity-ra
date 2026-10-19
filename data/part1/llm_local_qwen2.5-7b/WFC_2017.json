@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "We\u2019re helping to create long-term economic growth and improved quality of life for everyone in our communities.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Staying true to them will guide us toward continued growth and success for decades to come.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We believe in our vision and values just as strongly today as we did the first time we put them on paper more than 20 years ago.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes the company's commitment to its vision and values more strongly than in prior years.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.1
+}

@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We Deliver for Our Customers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "By being open to different ideas from our colleagues, customers and the world around us, we will find more ways to win.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are a diverse and inclusive company, and serve diverse customers. We believe we are a better company when each of us feels included, valued, and able to trust colleagues who respect each of us for who we are and what we contribute to our collective success.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "We earn that trust by ensuring everything we do is reliable, consistent, and with the highest level of integrity.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We view each other as colleagues \u2013 part of the same team, striving to deliver the brand promise to our customers and each other every day.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We aim to make a difference in the communities where we work and live. Our commitment to corporate social responsibility makes an impact by strengthening our connections.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes customer experience and values more explicitly than prior years, with a stronger focus on teamwork and inclusion.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 17.8
+}

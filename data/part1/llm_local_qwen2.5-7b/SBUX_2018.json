@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "To inspire and nurture the human spirit \u2013 one person, one cup and one neighborhood at a time.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are performance driven, through the lens of humanity.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Being present, connecting with transparency, dignity and respect.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Delivering our very best in all we do, holding ourselves accountable for results.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.5
+}

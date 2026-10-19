@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Good health is vital to all of us, and finding sustainable solutions to the most pressing health care challenges of our world cannot wait.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "we are focused on nurturing a workplace of diversity and inclusion for our colleagues, maintaining a customer-centered approach to our business, and giving back to the communities where we work and live.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "we are dedicated to making continual progress in innovation by investing our resources wisely and engaging collaboratively with our partners around the world.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Through working in partnership with everyone from patients to health care providers and managed care organizations to world governments and non-governmental organizations, our goal is to ensure that people everywhere have access to innovative treatments and quality health care.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "and we have an industry-leading pipeline of promising new products that have the potential to challenge some of the most feared diseases of our time, like Alzheimer's disease and cancer.",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "we are focused on improving the way we do business; on operating with transparency in everything we do; and on listening to the views of all of the people involved in health care decisions.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "At Pfizer, we're committed to creating an environment where our colleagues can achieve success while contributing to the improved health of the world.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The addition of sentences about posting information for investors and social media engagement reflects a broader focus on transparency and communication.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 21.8
+}

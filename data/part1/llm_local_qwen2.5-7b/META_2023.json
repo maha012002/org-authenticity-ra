@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "Giving people the power to build community and bring the world closer together",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "the makeup of our company reflects the diverse perspectives of the people who use our technologies",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "People deserve to be heard and to have a voice \u2014 even when that means defending the right of people we disagree with",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes community and social impact more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.8
+}

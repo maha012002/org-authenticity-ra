@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "NVIDIA pioneered accelerated computing to tackle challenges no one else can solve.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "BMW\nAmazon Robotics\nPepsiCo/Kinetic Vision\nEricsson\nSiemens",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Like No Place You've Ever Worked\nNVIDIA is a learning machine. The mission is boss. Everyone has a voice. And we've built a culture where people can do their life's work.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes innovation and collaboration more than before, with a stronger focus on the company's mission and culture.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.7
+}

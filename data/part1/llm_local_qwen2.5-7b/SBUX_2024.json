@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "With every cup, with every conversation, with every community - we nurture the limitless possibilities of human connection.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are committed to the highest standards of quality and service, embracing our heritage while innovating to create new experiences to savor.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "It takes many hands to craft the perfect cup of coffee \u2013 from the farmers who tend to the red-ripe coffee cherries, to the master roasters who coax the best from every bean, and to the barista who serves it with care.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to making our partners proud and investing in their health, well-being and success and to creating a culture of belonging where everyone is welcome.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "embracing our heritage while innovating to create new experiences to savor.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "As it has been from the beginning, our purpose goes far beyond profit. We believe Starbucks can, and should, have a positive impact on the communities we serve.",
+      "salience": 3
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 17.3
+}

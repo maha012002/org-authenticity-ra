@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Caring for the world, one person at a time... inspires and unites the people of Johnson & Johnson.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Employees of the Johnson & Johnson Family of Companies work with partners in health care to touch the lives of over a billion people every day, throughout the world.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "embrace research and science - bringing innovative ideas, products and services to advance the health and well-being of people.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 16.7
+}

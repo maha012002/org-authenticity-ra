@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We work every day to deliver innovative medicines for patients with serious and life-threatening diseases.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Through our R&D organization, we have built a sustainable pipeline of potential therapies, and actively partner to access external innovation to broaden and accelerate our work.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Bristol-Myers Squibb is a differentiated company, led by our unique BioPharma strategy that leverages the reach and resources of a major pharma company paired with the entrepreneurial spirit and agility of a biotech firm.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "As global citizens, we work sustainably, responsibly and seek to give back.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Through the Bristol-Myers Squibb Foundation, we promote health equity and strive to improve health outcomes of populations disproportionately affected by serious diseases and conditions, giving new hope to some of the world\u2019s most vulnerable people.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "As global citizens, we work sustainably, responsibly and seek to give back.",
+      "salience": 1
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Through our R&D organization, we have built a sustainable pipeline of potential therapies, and actively partner to access external innovation to broaden and accelerate our work.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page emphasizes patient focus and innovation more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 18.9
+}

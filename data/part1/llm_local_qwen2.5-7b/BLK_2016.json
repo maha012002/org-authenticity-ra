@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our clients come from nearly every corner of the globe.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We're passionate about our work and intensely focused on performing at the highest levels.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Responsibility is at the heart of our business\u2014responsibility to our clients and by extension to the communities in which we live and work.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "Responsibility to our clients and by extension to the communities in which we live and work.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are also one of the world's largest responsible investors with $225 billion in mandates that explicitly address social, ethical, or environmental considerations.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.5
+}

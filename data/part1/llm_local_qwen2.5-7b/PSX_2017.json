@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "We do this while living out our values of safety, honor and commitment, to improve lives by providing access to energy which is essential to a high standard of living and health throughout the world.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "By maintaining strong operating excellence, we protect each other, contribute to the well-being of the communities that support us, deliver quality products to customers and enhance shareholder value.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "We do this while living out our values of safety, honor and commitment, to improve lives by providing access to energy which is essential to a high standard of living and health throughout the world.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "This business markets refined petroleum products in the United States under the Phillips 66\u00ae, Conoco\u00ae, and 76\u00ae brands and in Europe through JET\u00ae and COOP\u00ae branded outlets. It also manufactures and markets specialty lubricants under the Phillips 66, Kendall and Red Line brand names.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.8
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We\u2019re committed to building an innovative culture where diversity is celebrated, equity is realized and inclusion is embraced.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We join together as individuals \u2013 forming a team as diverse as the people we serve \u2013 in meeting our responsibility to improve the health system and building the health workforce with a diverse pipeline of talent.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Fair and equitable compensation practices within a pay-for-performance framework support our culture and are critical to achieving our mission.",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page emphasizes diversity, inclusion, and pay equity more prominently than before.",
+  "analyst_notes": "",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:7b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.5
+}

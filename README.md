@@ -26,7 +26,7 @@ DECISIONS.md       every judgment call and why
 ## Method in one paragraph
 For each firm-year we archive one About/values page (Wayback), clean the text, and detect
 year-to-year change deterministically (archive digest + text similarity). A **local open-weight
-LLM** (Qwen 2.5 via Ollama, schema-constrained JSON, temperature 0) then judges whether the
+LLM** (Qwen 2.5 **7B** via Ollama, schema-constrained JSON, temperature 0) then judges whether the
 *values* content changed, codes 12 value themes with quoted evidence, and describes linguistic
 shifts. A **keyword dictionary** over the same 12 themes is kept as a transparent baseline, and
 the two methods' agreement is reported per theme (Cohen's kappa). Independently we pull that
@@ -65,7 +65,7 @@ python part4/extra_analysis.py
 
 ## Status
 - [x] Part 1 collection, extraction, change detection, keyword baseline, dataset
-- [x] Part 1 local-LLM analysis + LLM-vs-keyword agreement report
+- [x] Part 1 local-LLM analysis (7B) + LLM-vs-keyword agreement + 20-page hand-check
 - [x] Part 2 collection + text mining
 - [x] Part 3 authenticity index + validity checks
 - [x] Part 4 extra analyses
@@ -77,6 +77,7 @@ python part4/extra_analysis.py
 | --- | --- |
 | `data/part1/part1_stated_values.csv` | Stated themes (LLM + keyword baseline), 450 company-years |
 | `data/part1/llm_vs_lexicon_agreement.json` | Per-theme agreement between the LLM and keyword coding |
+| `data/part1/handcheck_results.json` | Human hand-check precision/recall / page_type accuracy |
 | `data/part2/part2_lived_values.csv` | Lived themes + proxy flags |
 | `data/part3/authenticity_firm.csv` | Firm-level authenticity scores |
 | `data/part3/sector_summary.csv` | Sector rollup |
@@ -86,9 +87,10 @@ python part4/extra_analysis.py
 ## Use of AI tools
 I used Cursor (with an AI coding assistant) to help write and debug pipeline scripts, fix
 environment issues (SSL, SEC CIK overrides, Ollama setup), and draft repository docs. I also
-pulled an instructor-provided git bundle that added the local-LLM Part 1 step and Part 3
-validity checks. I ran the full local LLM coding pass on my laptop, reviewed agreement and
-validity outputs, hand-checked a sample of ~20 LLM-labeled pages, and edited the Part 1 / Part 3
-summaries so the interpretation (including the website-driven sector ranking and placebo
-result) is in my own words. Separately, Part 1 uses a **local open-weight LLM (Qwen 2.5 via
-Ollama)** as a research instrument for theme coding—not as a substitute for my write-up.
+pulled instructor-provided git bundles that added the local-LLM Part 1 step, Part 3 validity
+checks, the 7B rerun path, and the theme hand-check sheet. I ran the full Qwen 2.5 7B coding
+pass on my laptop (~1.4 h), reviewed agreement and validity outputs, completed a 20-page
+theme/page-type hand-check, and edited the Part 1 / Part 3 summaries so the interpretation
+(including the website-driven sector ranking and placebo result) is in my own words.
+Separately, Part 1 uses a **local open-weight LLM (Qwen 2.5 7B via Ollama)** as a research
+instrument for theme coding—not as a substitute for my write-up.
