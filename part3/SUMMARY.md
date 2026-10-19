@@ -16,6 +16,12 @@ with both sides; sector means average firms. Validity checks are in
 **Matched company-years:** 396. **AVGO is not scored** (no usable stated–lived overlap in
 the panel after missing About text / proxies).
 
+## Distribution of the authenticity index
+Across the 396 matched company-years (`validity_report.json`):
+- **Mean 0.54**, **SD 0.22** (min −0.25, max 1.0).
+- Middle half of scores lies between **0.42 and 0.69** (25th–75th percentiles).
+- **57%** of the variance is **between firms**; **43%** is within firms over time.
+
 ## Results (and what they really mean)
 Sector mean authenticity:
 

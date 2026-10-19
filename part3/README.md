@@ -36,6 +36,24 @@ python part3/validity_checks.py
 - `data/part3/sector_summary.csv`
 - `data/part3/validity_report.json`
 
+## Assumptions
+- Keyword theme vectors from Parts 1 and 2 are comparable year-by-year (same codebook,
+  same salience scale 0–3).
+- Cosine similarity is a reasonable summary of 12-theme alignment; the 0.5 cheap-talk
+  weight is a modeling choice, not an estimated parameter.
+- Firm-level means are meaningful when a firm has at least one matched company-year
+  (49 firms; AVGO dropped).
+
+## Limitations
+- Authenticity scores are tightly bunched in practice (mean 0.54, SD 0.22; IQR 0.42–0.69),
+  so small rank gaps are easy to over-interpret.
+- Lived-side saturation (~95% of proxies hit ≥10 themes; mean ~11.1 themes per proxy vs
+  ~4.7 on About pages) makes sector rankings mostly website-driven.
+- Placebo gap is small (true mean 0.54 vs shuffled 0.51), so the index has limited
+  firm-specific signal beyond theme density.
+- ESG-in-pay is on in 338/396 matched years (~85%), so known-groups checks using that
+  flag are weak.
+
 ## With more time
 Count a lived theme only when a firm’s proxy **stresses it more than other firms’
 proxies that same year** (e.g. relative salience or TF–IDF-style rarity across the cross

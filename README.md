@@ -87,9 +87,9 @@ python part4/extra_analysis.py
 ## Use of AI tools
 I used Cursor (with an AI coding assistant) to help write and debug pipeline scripts, fix
 environment issues (SSL, SEC CIK overrides, Ollama setup), and draft repository docs. I also
-pulled instructor-provided git bundles that added the local-LLM Part 1 step, Part 3 validity
-checks, the 7B rerun path, and the theme hand-check sheet. I ran the full Qwen 2.5 7B coding
-pass on my laptop (~1.4 h), reviewed agreement and validity outputs, completed a 20-page
+pulled git bundles from Claude (an AI assistant) that added the local-LLM Part 1 step, Part 3
+validity checks, the 7B rerun path, and the theme hand-check sheet. I ran the full Qwen 2.5 7B
+coding pass on my laptop (~1.4 h), reviewed agreement and validity outputs, completed a 20-page
 theme/page-type hand-check, and edited the Part 1 / Part 3 summaries so the interpretation
 (including the website-driven sector ranking and placebo result) is in my own words.
 Separately, Part 1 uses a **local open-weight LLM (Qwen 2.5 7B via Ollama)** as a research

@@ -1,40 +1,33 @@
 # Part 4 summary — Extra analyses
 
-## Why these four
-They answer threats to validity and add a simple longitudinal story on top of Part 3.
+## Main question
+Did companies’ stated values shift toward DEI and purpose around 2020, and is that shift
+real or just a site redesign?
 
-## 1. COVID-era stated shift (2019 → 2021)
-Among 46 firms with usable About text in both years, mean salience rose most for:
-- **diversity_inclusion** (+0.41)  
-- **purpose_mission** (+0.33)  
-- **performance_execution** (+0.24)  
-- **customer** / **environment_sustainability** (+0.20 each)  
+## Finding: COVID-era stated shift (2019 → 2021)
+Among **46** firms with usable About text in both years, mean keyword salience rose most for:
+- **diversity_inclusion** (+0.41)
+- **purpose_mission** (+0.33)
+- **performance_execution** (+0.24)
+- **customer** / **environment_sustainability** (+0.20 each)
 
-So About-page language did shift toward DEI and purpose around the pandemic window —
-useful context when interpreting authenticity scores in those years.
+So About-page language did move toward DEI and purpose in the pandemic window — useful
+context when reading authenticity scores for those years.
 
-## 2. Redesign vs “values change”
+## Control: redesign vs “values change”
 Of **42** consecutive years where the winning About URL changed, **37** were also coded
-`substantive_change` on text similarity. Redesigns often rewrite page copy. The
-`url_changed` flag is therefore essential: without it, a site migration looks like a
-values rewrite.
+`substantive_change` on text similarity (3 stayed identical). Redesigns often rewrite page
+copy. The `url_changed` flag is therefore essential: without it, a site migration looks
+like a values rewrite. The 2019→2021 DEI/purpose rise should be read with that confound
+in mind — some of the panel’s “change” is URL churn, not a board-level values rewrite.
 
-## 3. ESG language near compensation
-Share of proxies with ESG/DEI/climate cues near pay language:
+## Related checks (same Part 4 outputs)
+**ESG language near compensation.** Share of proxies with ESG/DEI/climate cues near pay
+language rose from **61%** (2016) to **98%** (2024). Treat as an upper-bound diffusion
+measure (dictionary flag, not a parsed CD&A metric list).
 
-| Year | Pct |
-| --- | ---: |
-| 2016 | 61% |
-| 2019 | 86% |
-| 2021 | 94% |
-| 2024 | 98% |
-
-Treat this as an **upper-bound diffusion** measure (dictionary flag, not a parsed CD&A
-metric list). Directionally, lived ESG talk in the pay section became nearly universal.
-
-## 4. Cheap-talk ranking
-Highest mean cheap-talk firms in this run include Charles Schwab, Citigroup, Nike,
-Tesla, and NVIDIA (`data/part4/cheap_talk_ranking.csv`). These are candidates for
+**Cheap-talk ranking.** Highest mean cheap-talk firms in this run include Charles Schwab,
+Citigroup, Nike, Tesla, and NVIDIA (`data/part4/cheap_talk_ranking.csv`). Candidates for
 qualitative follow-up, not automatic accusations of hypocrisy.
 
 ## Deliverables
