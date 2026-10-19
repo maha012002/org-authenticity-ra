@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now explicitly mentions 'sustainability' and 'community investment' as part of ConocoPhillips' commitment, shifting the emphasis from general operations to broader societal impact.",
+  "analyst_notes": "The analyst should verify the specific countries of operations and the number of employees mentioned in the current page.",
+  "n_unverified_dropped": 12,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.6
+}

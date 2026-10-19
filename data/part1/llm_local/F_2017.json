@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Blueprint for Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Community service is an important part of Ford\u2019s heritage and always has been.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Blueprint for Mobility",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language used to describe Ford\u2019s commitment to sustainability and community service remained consistent, while the mention of innovation and quality execution was added.",
+  "analyst_notes": "The analyst should verify the specific actions and goals outlined in the Sustainability Report and the Blueprint for Mobility.",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.5
+}

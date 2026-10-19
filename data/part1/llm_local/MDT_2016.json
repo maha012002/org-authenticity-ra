@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We strive to alleviate pain, restore health, and extend life.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "To meet the needs of patients and healthcare professionals around the globe, Medtronic operates from more than 260 locations in more than 155 countries.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "As part of our accountability to our valued stakeholders, we produce a variety of corporate performance and information reports.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "The tone remains focused on patient care and global operations, with no significant shift in language or emphasis.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Identical archive capture to prior year; prior-year coding reused.",
+  "n_unverified_dropped": 7,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "reused_identical",
+  "_seconds": 8.4
+}

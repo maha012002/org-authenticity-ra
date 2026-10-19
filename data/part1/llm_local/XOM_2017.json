@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "growing energy needs",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "technology and innovation",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "growing energy needs",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The focus on 'growing energy needs' reflects a shift towards addressing the environmental impact of energy production.",
+  "analyst_notes": "The page's content has not changed significantly, but the emphasis on 'growing energy needs' suggests a potential shift in the company's public messaging regarding environmental impact.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.7
+}

@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are committed to providing the products our customers want in the markets where we know we can win.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are committed to producing clean-running cars - without sacrificing the power, style, and performance customers expect.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our strategy is to build a viable AV business by designing products centered around the needs of humans.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "To become the world\u2019s most trusted company, designing smart vehicles for a smart world.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language used to describe Ford\u2019s commitment to customers and innovation has been reinforced, while the mention of community service has been removed.",
+  "analyst_notes": "The analyst should verify the specific achievements mentioned in the environmental sustainability section, as they are not provided in the current text.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.9
+}

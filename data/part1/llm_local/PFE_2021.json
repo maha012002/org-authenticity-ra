@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is grounded in our commitment to fund programs that provide public benefit, advance medical care and improve patient outcomes.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to advancing health equity by working with partners who share our vision in creating access to quality care for all.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "At Pfizer, we are committed to advancing health equity by working with partners who share our vision in creating access to quality care for all.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now explicitly states our commitment to advancing health equity and working with partners to create access to quality care for all.",
+  "analyst_notes": "The analyst should verify the specific partners and programs mentioned under the 'Advancing Health Equity & Social Justice Through Community Investment' initiative.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

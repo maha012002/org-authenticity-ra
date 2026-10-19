@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "focus on discovering, developing and delivering drugs in therapeutic areas where we have proven expertise\u2014and can make an impact.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We\u2019re constantly working to create solutions that go beyond treating the illness to have a positive impact on patients\u2019 lives, on societies\u2014and on science itself.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our employees are scientists, researchers, communicators, manufacturing specialists and regulatory experts located around the globe.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "solve serious health issues and have a remarkable impact on people\u2019s lives.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We\u2019re a company that takes on the toughest health challenges. But we do more than just treat diseases. We\u2019re meeting the health needs of people and societies around the globe.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted to emphasize the company's commitment to solving health challenges and making a positive impact on patients and societies.",
+  "analyst_notes": "A researcher should double-check the specific therapeutic areas AbbVie focuses on and the current status of their research and development efforts.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.6
+}

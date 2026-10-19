@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "Across our 17 countries of operations, over 11,600 people work in a truly integrated way to find and produce oil and natural gas.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our innovative, collaborative efforts yield products that improve quality of life globally while producing economic benefits with far-reaching influence.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Our technical capabilities, asset quality and scale, and financial strength are unmatched among independent exploration and production companies and uniquely position us to compete around the world.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our innovative, collaborative efforts yield products that improve quality of life globally while producing economic benefits with far-reaching influence.",
+  "analyst_notes": "The page mentions the number of employees and the company's global presence but does not provide specific values statements or changes from the previous year.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

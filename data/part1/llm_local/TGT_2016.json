@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "a mind for design, a passion for innovation",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "helping designer Jason Wu translate his latest runway looks to real life or creating a smarter prescription bottle to help your medicine go down",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "making good design accessible and affordable to all",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "shifted focus from design to accessibility and affordability, emphasizing how design can improve people's lives.",
+  "analyst_notes": "The analyst should verify if the company's focus on design has evolved to include more aspects of accessibility and affordability.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.0
+}

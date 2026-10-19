@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "shareholder_value",
+      "evidence": "American Express Plans to Increase Quarterly Dividend by 11 Percent and Buy Back up to $3.4 Billion of Common Shares Through Q2 2019",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "American Express and Saks Fifth Avenue Introduce New \u201cShop Saks with Platinum\u201d Benefit for U.S. Platinum Card\u00ae Members",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Wells Fargo and American Express Introduce New Propel Card with Triple Points and $0 Annual Fee",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The focus on financial performance and innovation has increased, while the emphasis on customer benefits has remained similar.",
+  "analyst_notes": "The company's financial strategy and product innovation have been highlighted, indicating a shift towards more direct financial and product-related messaging.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.0
+}

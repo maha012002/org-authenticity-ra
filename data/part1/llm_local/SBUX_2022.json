@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Mission: to inspire and nurture the human spirit \u2013 one person, one cup, and one neighborhood at a time.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to making our partners proud and investing in their health, well-being and success and to creating a culture of belonging where everyone is welcome.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are committed to the highest standards of quality and service, embracing our heritage while innovating to create new experiences to savor.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis remain consistent with the previous year's language, focusing on the company's mission and values.",
+  "analyst_notes": "No significant changes in values or language related to employee engagement or community impact were noted.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.2
+}

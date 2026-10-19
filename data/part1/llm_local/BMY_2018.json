@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We work every day to deliver innovative medicines for patients with serious and life-threatening diseases.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We work every day to deliver innovative medicines for patients with serious and life-threatening diseases.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Bristol-Myers Squibb Foundation, we promote health equity and strive to improve health outcomes of populations disproportionately affected by serious diseases and conditions, giving new hope to some of the world\u2019s most vulnerable people.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "AtlanticLIVE, underwritten by Bristol-Myers Squibb, is driving the conversations that address national cancer treatment challenges where they happen \u2014 in local communities.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted to emphasize the company's commitment to patient care and community impact, while still maintaining a focus on innovation and sustainability.",
+  "analyst_notes": "Verify the specific achievements and partnerships mentioned in the 'Achievements' section.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.3
+}

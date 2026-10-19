@@ -12,3 +12,8 @@ python part4/extra_analysis.py
 ```
 
 Outputs: `data/part4/`. Narrative: `part4/SUMMARY.md`.
+
+## With more time
+Recompute the COVID and cheap-talk tables using **LLM-coded** About themes (not only the
+keyword baseline), and replace the ESG-in-pay keyword flag with a parsed CD&A metric list
+so the diffusion curve is not inflated by boilerplate near the word “compensation.”

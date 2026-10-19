@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We did a lot of things that seemed crazy at the time. Many of those crazy things now have over a billion users, like Google Maps, YouTube, Chrome, and Android. And we haven\u00e2t stopped there.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are still trying to do things other people think are crazy but we are super excited about.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "As Sergey and I wrote in the original founders letter 11 years ago, \u00e2Google is not a conventional company. We do not intend to become one.\u00e2",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are still trying to do things other people think are crazy but we are super excited about.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone is more reflective of the company\u00e2s history and future aspirations, with a focus on innovation and staying relevant in the tech industry.",
+  "analyst_notes": "The company\u00e2s mission and purpose have been reaffirmed, with a focus on innovation and staying relevant in the tech industry.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 12.0
+}

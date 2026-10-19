@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to empower every person and every organization on the planet to achieve more.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We\u00e2re dedicated to creating opportunities for everyone and making a difference in our communities around the world.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "More than 1,000 researchers at our labs around the world are achieving scientific breakthroughs.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis remained focused on mission, respect, and innovation.",
+  "analyst_notes": "Double-check the specific contributions of researchers and the impact on communities.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

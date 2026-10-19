@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "Each day, our employees around the world work together for patients \u2013 it drives everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We work every day to deliver innovative medicines for patients with serious and life-threatening diseases.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are focused on helping millions of patients around the world in disease areas such as oncology, cardiovascular, immunoscience and fibrosis.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "As global citizens, we work sustainably, responsibly and seek to give back.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Company",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity & Inclusion",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted from a broad statement of the company's strategy to a more focused discussion of the company's mission and impact on patients.",
+  "analyst_notes": "A researcher should verify the company's commitment to delivering shareholder value and the specific achievements mentioned in the 'Achievements' section.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.1
+}

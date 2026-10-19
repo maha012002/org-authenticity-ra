@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "help our customers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "accelerate life sciences research",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "accelerate life sciences research",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "cleaner and safer",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "revenues of more than $20 billion",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language has shifted to emphasize the company's role in accelerating scientific research and improving diagnostics and patient care.",
+  "analyst_notes": "The company's mission and values have been slightly rephrased to better align with its current focus on scientific advancement and patient care.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.4
+}

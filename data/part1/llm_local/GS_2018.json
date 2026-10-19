@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We provide a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments and high-net-worth individuals.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "See how Goldman Sachs is committed to Newark\u00e2s revitalization.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Goldman Sachs brings people, capital and ideas together to help our clients and the communities we serve.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to bring people, capital and ideas together to help our clients and the communities we serve.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted to emphasize more on community and environmental impact, and to highlight the company's role in helping clients and communities.",
+  "analyst_notes": "The company's focus on community and environmental impact has increased, and the role of the company in helping clients and communities has been emphasized.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.9
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We see ourselves as a global, off-price, value retailer and our mission is to deliver great value to our customers every day.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We see ourselves as leaders in innovation, constantly testing new ideas, seeking the right categories, current fashions and top brands, and leveraging information from our worldwide buying presence.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We see ourselves as leaders in innovation, constantly testing new ideas, seeking the right categories, current fashions and top brands, and leveraging information from our worldwide buying presence.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language used to describe our mission and innovation has been maintained, but the emphasis on leadership in innovation has been highlighted.",
+  "analyst_notes": "The analyst should verify the accuracy of the financial figures and the specific number of stores and associates mentioned.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.6
+}

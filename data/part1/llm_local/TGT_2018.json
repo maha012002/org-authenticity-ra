@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Good design goes beyond the surface. When design really works, it satisfies a need, simplifies your life and makes you feel great.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Whether it\u2019s helping designer Jason Wu translate his latest runway looks to real life or creating a smarter prescription bottle to help your medicine go down, we\u2019re dedicated to making good design accessible and affordable to all.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Whether it\u2019s helping designer Jason Wu translate his latest runway looks to real life or creating a smarter prescription bottle to help your medicine go down, we\u2019re dedicated to making good design accessible and affordable to all.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page content focuses on design innovation and accessibility, but does not explicitly mention any of the company's core values.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.7
+}

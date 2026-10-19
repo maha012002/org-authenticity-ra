@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page structure remains consistent, but the content focuses more on the company's purpose and sustainability efforts.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.1
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to organize the world\u00e2s information and make it universally accessible and useful.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are dedicated to creating opportunity for everyone",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone is more aspirational and less focused on Google's history and future plans.",
+  "analyst_notes": "The analyst should verify the specific commitments and how they relate to the company's current operations and values.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We aren\u2019t merely creating products. We\u2019re creating something magical for the person who uses it.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our goal is to leave the planet better than we found it.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Sentences added about Apple\u2019s commitment to diversity, inclusion, and environmental efforts, and removed references to specific product accessories.",
+  "analyst_notes": "Ensure that the new values and initiatives are accurately reflected in the company\u2019s broader communications and policies.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.5
+}

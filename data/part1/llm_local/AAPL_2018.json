@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now includes more specific product categories and services, such as Apple Watch Accessories and Refurbished and Clearance, which were not present in the 2017 version.",
+  "analyst_notes": "The page has been updated to include more current product categories and services, which may require researchers to verify the current availability and relevance of these offerings.",
+  "n_unverified_dropped": 7,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.4
+}

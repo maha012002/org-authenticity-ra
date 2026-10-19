@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We are dedicated to creating unique, custom-designed works of art that commemorate the rich legacy of our communities.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are dedicated to creating unique, custom-designed works of art that commemorate the rich legacy of our communities.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are dedicated to creating unique, custom-designed works of art that commemorate the rich legacy of our communities.",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "We believe everyone deserves a decent, safe place to call home.",
+      "salience": 1
+    },
+    {
+      "code": "customer",
+      "evidence": "We believe everyone deserves a decent, safe place to call home.",
+      "salience": 1
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are dedicated to creating unique, custom-designed works of art that commemorate the rich legacy of our communities.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We believe everyone deserves a decent, safe place to call home.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page content has shifted focus from specific community projects to broader community impact, maintaining the core values but changing the emphasis.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.0
+}

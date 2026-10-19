@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "NVIDIA\u2019s invention of the GPU in 1999",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "GPU deep learning ignited modern AI",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now emphasizes NVIDIA's role in the development of AI and its impact on modern computing.",
+  "analyst_notes": "The page's content has shifted from a focus on the GPU's historical impact on gaming to its current role in AI, which may require further investigation into the company's AI initiatives.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.6
+}

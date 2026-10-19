@@ -1,0 +1,68 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We aspire to be the premier research-intensive biopharmaceutical company",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We believe corporate responsibility is about our health, social, environmental and economic impact on people and communities around the world.",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "We work to deliver innovations that extend and improve the lives of people with cancer.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We foster a diverse and inclusive global workforce and operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We foster a diverse and inclusive global workforce and operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We work to deliver innovations that extend and improve the lives of people with cancer.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We believe corporate responsibility is about our health, social, environmental and economic impact on people and communities around the world.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "We operate responsibly every day to enable a safe, sustainable and healthy future for all people and communities.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We work to deliver innovations that extend and improve the lives of people with cancer.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose: We use the power of leading-edge science to save and improve lives around the world",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis have shifted to focus more on our mission and purpose, with a stronger emphasis on our commitment to saving and improving lives.",
+  "analyst_notes": "A researcher should double-check the specific contributions and innovations in cancer research and the company's commitment to diversity and inclusion.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.7
+}

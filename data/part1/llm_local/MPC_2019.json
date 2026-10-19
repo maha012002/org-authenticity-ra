@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Marathon Petroleum has long-established core values associated with health and safety, diversity and inclusion, environmental stewardship and honesty and integrity.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis on corporate citizenship and core values have been emphasized, reflecting a commitment to these values.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives taken by Marathon Petroleum in line with these values.",
+  "n_unverified_dropped": 4,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.3
+}

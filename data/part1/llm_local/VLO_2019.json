@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Valero sells its products in the wholesale rack or bulk markets in the U.S., Canada, the U.K., Ireland and Latin America. Approximately 7,000 outlets carry Valero\u2019s brand names.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Valero also is a joint venture partner in Diamond Green Diesel, which operates a renewable diesel plant in Norco, Louisiana.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page structure and content remain largely unchanged, but the addition of Valero's joint venture in Diamond Green Diesel indicates a focus on sustainability and innovation.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.2
+}

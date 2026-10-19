@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing our carbon footprint and helping others do the same",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We dare to do what others won't. We will lead the industry by reaching for the impossible, then achieving it. We do this by having the right assets in the hands of remarkable people driven by passion to outperform.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language has shifted to emphasize the company's bold ambitions and commitment to innovation and sustainability.",
+  "analyst_notes": "The analyst should verify the company's progress towards its stated environmental goals and the specific measures taken to achieve them.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

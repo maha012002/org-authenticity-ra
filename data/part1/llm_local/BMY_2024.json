@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Preservation of natural resources is one of our key commitments. We lead the way with sustainable, ethical, and compliant global business practices that take care of patients, communities and the planet.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We support programs, initiatives and organizations that help improve health, expand research opportunities, promote and expand STEM education and deliver basic human services to our communities.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted to emphasize the company's commitment to sustainability and social responsibility, with a focus on how these values are integrated into the company's operations and impact.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives the company has taken to promote sustainability and social responsibility.",
+  "n_unverified_dropped": 9,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.6
+}

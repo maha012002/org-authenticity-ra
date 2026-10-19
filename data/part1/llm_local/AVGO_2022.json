@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "No values-related wording changed, but the focus on sustainability is noted.",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

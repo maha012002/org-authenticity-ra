@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Preservation of natural resources is one of our key commitments. We lead the way with sustainable, ethical, and compliant global business practices that take care of patients, communities and the planet.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We combine the agility of a biotech with the reach and resources of an established pharmaceutical company to create a global leading biopharma company powered by talented individuals who drive scientific innovation.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Our workforce is globally diverse to create an inclusive, high-performance culture that is agile, entrepreneurial and accountable.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "Ethics and Compliance",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We support programs, initiatives and organizations that help improve health, expand research opportunities, promote and expand STEM education and deliver basic human services to our communities.",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "We know that our responsibility goes beyond medicine. We promote health equity globally and strive to increase access to life-saving medicines for populations disproportionately affected by serious diseases and conditions.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "We are proud of the advancements we have made in oncology, hematology, immunology and cardiovascular disease, and we are dedicated to helping patients prevail over serious diseases through our diverse and promising pipeline and new scientific platforms. We are pursuing therapies at the forefront of scientific discovery with the goal of bringing an exciting new generation of life-changing treatments to patients. We aspire to be at the center of a vibrant healthcare innovation ecosystem, where academic research centers, biotech and biopharma companies all contribute to continued scientific advancement.",
+  "analyst_notes": "A shift in tone towards a more aspirational and forward-looking language about the company's scientific and innovation goals.",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 13.0
+}

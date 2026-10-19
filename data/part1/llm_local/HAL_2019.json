@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainability is at the core of the Company\u2019s long-term success, and it is embedded throughout our business.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "representing 140 nationalities in more than 80 countries",
+      "salience": 1
+    },
+    {
+      "code": "customer",
+      "evidence": "one of the world's largest providers of products and services to the energy industry",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone has shifted to emphasize the company's global presence and its role in the energy industry.",
+  "analyst_notes": "The analyst should verify the company's commitment to sustainability and its global workforce.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.1
+}

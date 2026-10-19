@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to organize the world\u00e2s information and make it universally accessible and useful.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Committed to significantly improving the lives of as many people as possible",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "2021 Diversity Annual Report and People using technology to benefit others added, while \u00e2owner\u00e2s manual\u00e2 for shareholders was removed.",
+  "analyst_notes": "The 2021 Diversity Annual Report and People using technology to benefit others added, while \u00e2owner\u00e2s manual\u00e2 for shareholders was removed.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

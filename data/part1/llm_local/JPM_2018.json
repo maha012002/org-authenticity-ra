@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are a leading global financial services firm with assets of $2.6 trillion. We have a presence in over 100 markets. We have over 250,000 employees. We serve millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We have over 250,000 employees.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "We have added more details about our global presence and employee count, but the core values remain the same.",
+  "analyst_notes": "The company's financial figures and employee count have been updated, but the core values and services remain unchanged.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

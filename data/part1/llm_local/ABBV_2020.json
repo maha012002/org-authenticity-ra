@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "We see a future full of possibility, where health is in reach and patient lives are improved. See how we\u2019re improving health care on a global basis.",
+  "analyst_notes": "The page emphasizes AbbVie's commitment to patient care and innovation, but does not mention any of the previously stated values.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

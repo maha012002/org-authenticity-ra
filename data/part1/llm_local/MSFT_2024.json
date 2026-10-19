@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainability By the Numbers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Microsoft AI",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "We believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.",
+  "analyst_notes": "The page now emphasizes Microsoft's commitment to sustainability and its role in fostering a sustainable future.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

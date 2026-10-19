@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "* Nearly 95 percent of women will have sole responsibility for their finances at some point in their lives: Family Wealth Advisors Council, Women of Wealth Study, 2015\n** Women currently account for half the private wealth in the country: Bank of Montreal\u2019s Wealth Institute, April 2, 2015 BMO Report: Financial Concerns of Women",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "| | Charles Schwab was selected as one of FORTUNE\u2019s Top 50 World\u2019s Most Admired Companies.\n| | Schwab ranked #1 for innovation, use of corporate assets, and social responsibility in the Securities and Asset Management category of the list, where we ranked #2 overall.\n| | Schwab was named #1 in Customer Service and Trade Reliability in the 2017 Investor\u2019s Business Daily \u201cBest Online Brokers\u201d Survey for the fifth year in a row.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Charles Schwab & Co., Inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "N/A",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "N/A",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted to emphasize Schwab's achievements and rankings in the industry, particularly in innovation and customer service.",
+  "analyst_notes": "The analyst should verify the accuracy of the rankings and the specific achievements mentioned.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.9
+}

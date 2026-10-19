@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are delivering on our purpose to help make financial lives better through our focus on responsible growth.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are delivering on our purpose to help make financial lives better through our focus on responsible growth.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We have to grow within our risk framework.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We have to grow within our risk framework.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our commitment to responsible growth is resolute, and has four tenets.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We have to grow within our risk framework.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We have to grow within our risk framework.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We have to grow within our risk framework.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language used to describe the company's commitment to responsible growth and its four tenets has been maintained, with a focus on the importance of growth and risk management.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives the company is taking to achieve responsible growth and the four tenets mentioned.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.0
+}

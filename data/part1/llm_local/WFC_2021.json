@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now emphasizes specific values like respect, innovation, and sustainability, while keeping the same overall structure and tone.",
+  "analyst_notes": "The page's content remains consistent with Wells Fargo's 2020 values, but with a focus on specific areas of responsibility.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

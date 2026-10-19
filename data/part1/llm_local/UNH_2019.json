@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "UnitedHealth Group serves clients and consumers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "UnitedHealth Group invests more than $3.5 billion in technology and innovation",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "UnitedHealth Group invests more than $3.5 billion in technology and innovation",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "UnitedHealth Group invests more than $3.5 billion in technology and innovation",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "UnitedHealth Group invests more than $3.5 billion in technology and innovation",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "UnitedHealth Group invests more than $3.5 billion in technology and innovation, and processes approximately 1.1 trillion transactions annually.",
+  "analyst_notes": "The page's focus on UnitedHealth Group's investment in technology and innovation has been emphasized, but no core values have been added or removed.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.5
+}

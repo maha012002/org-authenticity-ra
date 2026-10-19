@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We see ourselves as a global, off-price, value retailer and our mission is to deliver great value to our customers through the combination of brand, fashion, price, and quality.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We believe that we operate one of the most flexible business models in the world and that year after year, our great flexibility has enabled us to succeed through various economic and retail environments.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We offer a rapidly changing assortment of brand name, designer and other high-quality merchandise at prices generally 20%-60% below department and specialty store regular prices on comparable merchandise, every day.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language used to describe our business model and our approach to delivering value to customers has been refined and expanded.",
+  "analyst_notes": "The company's mission and values remain consistent, but the language used to describe them has been updated to reflect current business practices and market conditions.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.0
+}

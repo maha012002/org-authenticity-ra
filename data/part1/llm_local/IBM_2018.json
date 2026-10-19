@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "This will be an era of man to the power of machine: not man versus machine, but man and machine.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We remain dedicated to leading the world into a more prosperous and progressive future; to creating a world that is fairer, more diverse, more tolerant, more just.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "In addition to technological change, this new age requires us to change how we do our work.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "IBM remains committed to its core values of innovation, customer focus, and collaboration, while adding a forward-looking statement about the era of man and machine.",
+  "analyst_notes": "The company's commitment to diversity and inclusion has not changed, but the tone has shifted to emphasize the importance of technological change and the future of work.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.3
+}

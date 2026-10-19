@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis remained consistent with the previous year's description.",
+  "analyst_notes": "Ensure the current page's content aligns with the updated codebook themes provided.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.6
+}

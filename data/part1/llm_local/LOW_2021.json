@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "The people we serve are at the heart of everything we do. Our associates have deep home improvement experience and training, and can give you the expert advice you need to do your project right.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Every aspect of our business and strategy is rooted in that mission.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Every aspect of our business and strategy is rooted in that mission.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Double-check Lowe's's commitment to customer service and the impact of its mission on its business strategy.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

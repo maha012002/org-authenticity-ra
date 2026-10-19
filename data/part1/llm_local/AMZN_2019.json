@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Invent and Simplify, Learn and Be Curious, Hire and Develop the Best, Insist on the Highest Standards, Think Big, Bias for Action, Frugality.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Hire and Develop the Best, Insist on the Highest Standards, Think Big, Bias for Action, Frugality.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Earn Trust, Deliver Results.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Sentences ADDED: They are externally aware, look for new ideas from everywhere, and are not limited by \u201cnot invented here.",
+  "analyst_notes": "The added sentence clarifies the ",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.1
+}

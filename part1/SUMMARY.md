@@ -6,34 +6,40 @@ how stable are those statements from 2016 to 2024?
 
 ## Sample and data
 50 S&P 500 firms (10 per sector × Technology, Financials, Healthcare, Consumer
-Discretionary, Energy). For each firm-year I collected one Wayback Machine capture of a
-candidate About/values URL, preferring the archive closest to July 1. Multiple seed URLs
-per firm (priority order) let the series follow redesigns. Missing years stay missing.
+Discretionary, Energy). One Wayback capture per firm-year, closest to July 1, from a
+priority list of About/values URL seeds. Missing years stay missing.
 
-**Coverage in this run:** 417 of 450 company-years have a usable snapshot (93%).
+**Coverage:** 417 / 450 company-years have a usable snapshot (93%).
 
 ## Method
-1. **Collect** archived HTML via the Wayback CDX API; follow in-archive redirects when
-   needed; never fill gaps from neighbouring years.
-2. **Extract** main text (trafilatura, BeautifulSoup fallback).
-3. **Detect change** with Wayback digests and text similarity; flag `url_changed` when
-   the winning seed URL moves.
-4. **Code themes** with a shared 12-category dictionary (keyword cues → theme + evidence
-   snippet + salience 1–3), anchored in Guiso et al. (2015) and MIT SMR Culture 500,
-   plus ESG-era codes for Part 2/3 comparability.
+1. Collect archived HTML (CDX API; follow in-archive redirects; never forward-fill gaps).
+2. Extract main text (trafilatura / BeautifulSoup fallback).
+3. **Keyword baseline** (`code_themes.py`): digest + similarity change classes, plus
+   dictionary theme coding on the shared 12-code codebook.
+4. **Local LLM** (`analyze_llm.py`, Qwen 2.5 3B via Ollama): schema-constrained JSON for
+   values change, themes with evidence, linguistic shift. Identical digests reuse the
+   prior year’s coding. Unverified evidence quotes are dropped.
 
-## Main findings (operational)
-- Multi-seed URLs matter: firms such as J&J move Credo content across URLs; priority
-  search recovers a continuous series.
-- Some seeds are weak (Apple careers in later years) — those rows need caution.
-- Year-to-year About text is often stable; large text shifts frequently coincide with
-  URL changes (redesigns), which Part 4 quantifies.
+I used both on purpose: the LLM handles paraphrase; the keyword pass is transparent,
+feeds Part 2/3 with the same instrument, and gives a Cohen’s κ agreement report.
+
+## Agreement and hand-check
+From `data/part1/llm_vs_lexicon_agreement.json` (416 coded pages):
+- **Mean κ across themes = 0.23** (best: purpose_mission 0.45; weakest: shareholder_value 0.07).
+- Lexicon marks more pages with themes than the LLM (29 vs 90 zero-theme pages).
+- On a random hand-check of **20 pages** (`handcheck_20.json`), **87%** of kept theme
+  evidence strings appeared in the page text (68/78).
+
+## Operational findings
+- Multi-seed URLs matter (e.g. J&J Credo path changes).
+- Some seeds are weak (Apple careers) — treat those rows cautiously.
+- Large text shifts often coincide with `url_changed` (redesigns); Part 4 quantifies this.
 
 ## Deliverable
-`data/part1/part1_stated_values.csv` — 450 rows with cleaned text, change class,
-theme salience columns (`theme__*`), provenance (seed URL, Wayback URL), and notes.
+`data/part1/part1_stated_values.csv` (LLM + lexicon columns), plus
+`llm_vs_lexicon_agreement.json` and `llm_local/` caches.
 
 ## Limitations
-Dictionary coding misses paraphrase and can hit boilerplate; archive shells yield short
-or empty text; one July snapshot can miss intra-year churn. These are acceptable for a
-proof of concept and are documented for later hardening.
+Archive shells, single July snapshot, and imperfect LLM–lexicon agreement. Part 3’s
+authenticity index deliberately uses the **keyword** theme vectors on both sides so the
+comparison stays apples-to-apples.

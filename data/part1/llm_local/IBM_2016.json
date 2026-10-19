@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Cognitive computing takes on medical images, aiding clinicians.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "2014 performance",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone is more focused on the company's achievements and innovations, with less emphasis on specific product mentions.",
+  "analyst_notes": "IBM's focus on innovation and respect for employees is consistent, but the emphasis on performance metrics has increased.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

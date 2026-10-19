@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "this is the unwavering dedication to quality",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "responsibly",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "ever-cleaner energy",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our greatest resource is our people. Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past. Together, we\u2019ll take on the future.",
+  "analyst_notes": "The tone has shifted to emphasize Chevron's commitment to innovation and addressing future challenges.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.0
+}

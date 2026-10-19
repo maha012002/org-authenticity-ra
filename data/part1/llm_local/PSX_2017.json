@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to building capability, pursuing excellence and doing the right thing.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented people making responsible choices to adapt and explore the opportunities the changing market brings.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are reshaping the company\u2019s portfolio by investing capital in higher-valued businesses. We continuously test our capital allocation decisions through a range of economic and market scenarios.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our employees, suppliers, and partners share this vision to provide energy in ways that improve lives. Our hard work, and team work, keeps energy flowing.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our company\u2019s name Phillips 66 reflects our rich history, strong brand recognition and value from being one of the leading fuel brand names in the United States for almost 130 years. Phillips 66 has had great moments that demonstrate its vision and values, and we\u2019ve never been more excited about the future.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone is more forward-looking and focused on the company's future potential and its commitment to its values.",
+  "analyst_notes": "The analyst notes should double-check the company's financial performance and the specific strategies outlined for the future.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.5
+}

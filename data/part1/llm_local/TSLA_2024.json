@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page maintains its core messaging about Tesla's mission and values, with no significant tone or emphasis shifts.",
+  "analyst_notes": "The analyst should verify the exact number of employees and the CO2e reduction figures for 2023.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

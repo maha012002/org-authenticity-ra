@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to organize the world\u00e2s information and make it universally accessible and useful.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Make life easier with a little help from our products",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "From the garage to the Googleplex",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our mission statement has been expanded to include a focus on accessibility and usefulness.",
+  "analyst_notes": "The page has added a new product-focused sentence without changing the core values expressed.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.8
+}

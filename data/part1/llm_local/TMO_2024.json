@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "pharma services solutions",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "End-to-end pharma services solutions",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now emphasizes the end-to-end nature of their pharmaceutical services solutions, replacing previous mentions of Thermo Fisher Scientific's commitment to science and choice and convenience.",
+  "analyst_notes": "The analyst should verify the specific pharma services solutions offered and their impact on the company's sustainability efforts.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

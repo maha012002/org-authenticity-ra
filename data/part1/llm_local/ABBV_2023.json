@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We are driven by our compassion for people, commitment to innovation and inclusion, service to the community and uncompromising integrity.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Every solution starts with the patient\u2019s perspective, because transformative medicines only matter when they are safe, effective and accessible to everyone who needs them.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are making significant advancements with a robust pipeline of potential new medicines as we look to find the treatments of tomorrow.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are driven by our compassion for people, commitment to innovation and inclusion, service to the community and uncompromising integrity.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis have shifted slightly to focus more on the company's commitment to innovation and its impact on patients.",
+  "analyst_notes": "The analyst should verify the specific advancements and treatments AbbVie is looking to find in the future.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.7
+}

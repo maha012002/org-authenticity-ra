@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Innovating, working to do things better tomorrow than we do today",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing our waste impact, advancing the industry on sustainable and humane sourcing",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "giving help to those most in need via RMHC, investing in all the people our success rests on",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Identical archive capture to prior year; prior-year coding reused.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "reused_identical",
+  "_seconds": 6.8
+}

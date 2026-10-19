@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "living out our values of safety, honor and commitment",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Improving Lives",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are enhancing our portfolio by capturing growth opportunities in Midstream and Chemicals",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "environmental stewardship",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "financial strength, disciplined capital allocation, dividend growth and share repurchases",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language has shifted to emphasize the company's current strategies and the importance of innovation and growth, while maintaining the core values.",
+  "analyst_notes": "The analyst should verify the accuracy of the company's current strategies and the specific growth opportunities mentioned in the 'Strategy' section.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.8
+}

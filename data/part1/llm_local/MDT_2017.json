@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Read Our Mission Statement",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page now emphasizes Medtronic's mission and purpose, and mentions sustainability, but no new values are introduced or removed.",
+  "n_unverified_dropped": 4,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

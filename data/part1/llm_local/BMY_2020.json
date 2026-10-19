@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We combine the agility of a biotech with the reach and resources of an established pharmaceutical company to create a global leading biopharma company powered by talented individuals who drive scientific innovation.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We work every day to transform patients\u2019 lives through science.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We combine the agility of a biotech with the reach and resources of an established pharmaceutical company to create a global leading biopharma company powered by talented individuals who drive scientific innovation.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We have the brightest people in the industry and believe that their diverse experiences and perspectives help to bring out our best ideas, drive innovation and achieve transformative business results.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We aspire to be at the center of a vibrant healthcare innovation ecosystem, where academic research centers, biotech and biopharma companies all contribute to continued scientific advancement.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "As global citizens, we work sustainably and responsibly to create a positive impact in the communities where we live and work.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We promote health equity globally and strive to increase access to life-saving medicines for populations disproportionately affected by serious diseases and conditions.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "We are focused on helping millions of patients around the world in disease areas such as oncology, cardiovascular, immunoscience and fibrosis. We are proud of the advancements we have made in oncology, hematology, immunology and cardiovascular disease, and we are dedicated to helping patients prevail over serious diseases through our diverse and promising pipeline and new scientific platforms.",
+  "analyst_notes": "The analyst should verify the accuracy of the company's achievements and the specific disease areas mentioned.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.4
+}

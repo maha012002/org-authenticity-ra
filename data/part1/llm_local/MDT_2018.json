@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Read Our Mission Statement",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now includes a direct link to 'Read Our Mission Statement', which was not present in the 2017 version.",
+  "analyst_notes": "The page's content has been updated to include a direct link to the mission statement, but the core values expressed remain the same.",
+  "n_unverified_dropped": 4,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We celebrate our people, ideas and experiences, creating a culture where all team members are appreciated, valued and able to reach their full potential.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are a health and well-being company made up of team members around the world helping to build a modern, high-performing health system.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are a health and well-being company made up of team members around the world helping to build a modern, high-performing health system.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are a health and well-being company made up of team members around the world helping to build a modern, high-performing health system.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Mission: Helping People Live Healthier Lives and Helping Make the Health System Work Better for Everyone",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are a health and well-being company made up of team members around the world helping to build a modern, high-performing health system.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are a health and well-being company made up of team members around the world helping to build a modern, high-performing health system.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We are a health and well-being company made up of team members around the world helping to build a modern, high-performing health system.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's core themes and values remain consistent, with minor rephrasing and additions to existing themes.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.8
+}

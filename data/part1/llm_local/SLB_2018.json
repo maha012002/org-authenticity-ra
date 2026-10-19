@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page's tone and emphasis on corporate values and the company's mission remain consistent with the previous year's content.",
+  "analyst_notes": "The analyst should verify the accuracy of the financial figures and the current employee and geographic data provided.",
+  "n_unverified_dropped": 12,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.8
+}

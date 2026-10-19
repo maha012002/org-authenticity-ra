@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "powerfully back its customers, colleagues and communities",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone is more focused on the company's commitment to diversity and inclusion, and the language is more inclusive and welcoming.",
+  "analyst_notes": "The page now emphasizes diversity and inclusion, which may require further research to verify the company's current stance and actions.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.7
+}

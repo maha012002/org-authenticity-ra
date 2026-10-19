@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "approximately 7,400 outlets carry Valero's brand names",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page has been updated to include more detailed information about Valero's operations and assets, but no core values have been added or removed.",
+  "analyst_notes": "The analyst should verify the accuracy of the financial figures and the geographical distribution of Valero's operations.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.6
+}

@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Find a store, Visit, Sales Support, Contact Apple Support, Find Authorized Resellers",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page structure remains largely unchanged, focusing on contact information and job opportunities.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.9
+}

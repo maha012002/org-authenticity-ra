@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Responsible Lending",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Responsible Lending",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Responsible Lending",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "No new values are introduced or removed; the focus remains on responsible lending and community impact.",
+  "analyst_notes": "The page content on Responsible Lending has not changed, but the emphasis is on the company's commitment to financial success and community investment.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.0
+}

@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Giving people the power to build community and bring the world closer together",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "At Meta, we\u2019re building innovative new ways to help people feel closer to each other, and the makeup of our company reflects the diverse perspectives of the people who use our technologies.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Giving people the power to build community and bring the world closer together",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Our business model is ads so our services can be free.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "At Meta, we\u2019re building innovative new ways to help people feel closer to each other, and the makeup of our company reflects the diverse perspectives of the people who use our technologies.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Our principles are what we stand for. They are beliefs we hold deeply and make tradeoffs to pursue.",
+  "analyst_notes": "The page's tone has shifted slightly towards a more inclusive and community-focused mission statement.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.6
+}

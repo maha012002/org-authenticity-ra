@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Preservation of our natural resources also represents one of our key commitments.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Pursuing our Mission also means we are working to provide patient access to health care.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have remained consistent with previous years, focusing on innovation, customer focus, and sustainability commitments.",
+  "analyst_notes": "Ensure the company's financial performance data is up-to-date and consistent with recent reports.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.3
+}

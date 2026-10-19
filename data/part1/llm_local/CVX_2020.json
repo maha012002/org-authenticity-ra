@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "This unwavering dedication to quality drives our company culture and will keep us ahead for years to come.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "To provide this energy, we believe in the power of human ingenuity to lead us to a brighter future.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our greatest resource is our people. Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "This unwavering dedication to quality drives our company culture and will keep us ahead for years to come.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "To provide this energy, we believe in the power of human ingenuity to lead us to a brighter future.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We\u2019re leaders in energy because we value responsibility, trust and integrity.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Our values remain focused on integrity, customer focus, innovation, respect for people, and community and social impact, with a slight shift towards emphasizing the power of human ingenuity and collaboration.",
+  "analyst_notes": "The tone has shifted slightly towards a more optimistic and forward-looking perspective on energy and innovation, but the core values and commitments have not changed significantly.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.1
+}

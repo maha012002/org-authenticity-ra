@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Whether our customers are accelerating life sciences research, solving complex analytical challenges, improving patient diagnostics and therapies or increasing productivity in their laboratories, we are here to support them.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are here to support them.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are here to support them.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Mission is to enable our customers to make the world healthier, cleaner and safer.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis have shifted slightly to focus more on the company's mission and support for customers.",
+  "analyst_notes": "Ensure that the company's mission and the support for customers are accurately reflected in the current mission statement.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.4
+}

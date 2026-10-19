@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language around innovation and customer focus has been slightly rephrased, but the core values remain the same.",
+  "analyst_notes": "The page's tone has shifted slightly towards more emphasis on innovation and customer focus, but the core values remain unchanged.",
+  "n_unverified_dropped": 7,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}

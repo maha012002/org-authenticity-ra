@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We fuse technology and leading medical science to create never-before-seen solutions.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We take insights gleaned from data to make substantial improvements in care, tailoring therapies in real time.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "OUR MISSION: Alleviate pain. Restore health. Extend life.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's tone remains consistent, but the content is updated with new insights and solutions.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

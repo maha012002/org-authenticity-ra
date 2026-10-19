@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Get answers to all your support, sales, and partner questions.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now includes a brief mention of customer support, which was not present in the 2021 version.",
+  "analyst_notes": "The page content has been updated to include customer support information, which may reflect changes in customer needs or company strategy.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 9.6
+}

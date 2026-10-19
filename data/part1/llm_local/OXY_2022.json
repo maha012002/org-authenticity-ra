@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We unlock potential by reaching for the impossible and achieving it.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing our carbon footprint and helping others do the same.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We dare to do what others won't. We will lead the industry by reaching for the impossible, then achieving it.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We produce energy and essential products to sustain and improve life on our planet.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are busy developing the big ideas and broad solutions we will need to achieve net zero. Every day, we get closer.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We will lead the industry by reaching for the impossible, then achieving it. We do this by having the right assets in the hands of remarkable people driven by passion to outperform.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We will lead the industry by reaching for the impossible, then achieving it. We do this by having the right assets in the hands of remarkable people driven by passion to outperform.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone remains ambitious and focused on industry leadership, with a continued emphasis on environmental responsibility and the company's mission.",
+  "analyst_notes": "The analyst should verify the company's progress towards its stated environmental goals and the specific measures taken to achieve them.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.4
+}

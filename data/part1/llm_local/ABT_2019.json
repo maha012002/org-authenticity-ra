@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "LIFE-CHANGING TECHNOLOGY",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "LIFE-CHANGING TECHNOLOGY",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "LIFE-CHANGING TECHNOLOGY",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Sentences ADDED: LIFE-CHANGING TECHNOLOGY, From removing the regular pain of fingersticks as people manage their diabetes to connecting patients to doctors with real-time information monitoring their hearts, from easing chronic pain and movement disorders to testing half the world\u2019s blood donations to ensure a healthy supply, our purpose is to make the world a better place by bringing life-changing health technologies to the people who need them. That\u2019s our commitment to helping you live your best life.",
+  "analyst_notes": "The page now explicitly states Abbott's commitment to making life better through technology and its impact on people's lives.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

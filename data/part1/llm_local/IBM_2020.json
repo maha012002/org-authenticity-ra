@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "IBMers believe in progress\u2014that the application of intelligence, reason and science can improve business, society and the human condition",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone is more focused on the company's people and their impact, rather than specific products or services.",
+  "analyst_notes": "The page's content has shifted to emphasize the company's people and their contributions, which may reflect a change in corporate messaging or a focus on IBM's human capital.",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.8
+}

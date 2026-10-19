@@ -1,0 +1,95 @@
+{
+  "n_llm_coded": 416,
+  "n_reused_identical": 10,
+  "zero_theme_pages": {
+    "llm": 90,
+    "lexicon": 29
+  },
+  "unverified_themes_dropped_total": 723,
+  "mean_kappa_across_themes": 0.226,
+  "per_theme": {
+    "integrity": {
+      "llm_prevalence": 0.13,
+      "lexicon_prevalence": 0.346,
+      "kappa": 0.352
+    },
+    "customer": {
+      "llm_prevalence": 0.522,
+      "lexicon_prevalence": 0.599,
+      "kappa": 0.176
+    },
+    "innovation": {
+      "llm_prevalence": 0.57,
+      "lexicon_prevalence": 0.543,
+      "kappa": 0.246
+    },
+    "collaboration": {
+      "llm_prevalence": 0.147,
+      "lexicon_prevalence": 0.209,
+      "kappa": 0.102
+    },
+    "respect_people": {
+      "llm_prevalence": 0.447,
+      "lexicon_prevalence": 0.514,
+      "kappa": 0.204
+    },
+    "diversity_inclusion": {
+      "llm_prevalence": 0.053,
+      "lexicon_prevalence": 0.303,
+      "kappa": 0.198
+    },
+    "performance_execution": {
+      "llm_prevalence": 0.135,
+      "lexicon_prevalence": 0.529,
+      "kappa": 0.114
+    },
+    "environment_sustainability": {
+      "llm_prevalence": 0.389,
+      "lexicon_prevalence": 0.476,
+      "kappa": 0.32
+    },
+    "community_social_impact": {
+      "llm_prevalence": 0.26,
+      "lexicon_prevalence": 0.303,
+      "kappa": 0.229
+    },
+    "safety": {
+      "llm_prevalence": 0.026,
+      "lexicon_prevalence": 0.106,
+      "kappa": 0.26
+    },
+    "shareholder_value": {
+      "llm_prevalence": 0.103,
+      "lexicon_prevalence": 0.252,
+      "kappa": 0.066
+    },
+    "purpose_mission": {
+      "llm_prevalence": 0.349,
+      "lexicon_prevalence": 0.385,
+      "kappa": 0.447
+    }
+  },
+  "deterministic_change_vs_llm_values_change": {
+    "no_prior_snapshot": {
+      "no_prior": 52
+    },
+    "minor_edit": {
+      "substantive": 10,
+      "none": 51,
+      "minor": 18
+    },
+    "substantive_change": {
+      "substantive": 17,
+      "minor": 52,
+      "none": 70
+    },
+    "no_substantive_change": {
+      "none": 131,
+      "substantive": 1,
+      "minor": 4
+    },
+    "identical": {
+      "none": 10
+    }
+  }
+}

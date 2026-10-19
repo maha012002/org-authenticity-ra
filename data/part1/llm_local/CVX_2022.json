@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "this unwavering dedication to quality drives our company culture and will keep us ahead for years to come",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "reliable, affordable and ever-cleaner energy",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Access to energy helps improve lives by driving human progress and enabling the benefits of modern society",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our greatest resource is our people. Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past. Together, we\u2019ll take on the future.",
+  "analyst_notes": "The company's focus on environmental stewardship and climate change is not explicitly stated, but implied in the discussion of cleaner energy.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

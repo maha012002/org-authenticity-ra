@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Take what you find here and make it better and better.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We make medicines that help people live longer, healthier, more active lives.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We make medicines that help people live longer, healthier, more active lives. We will make a significant contribution to humanity by improving global health in the 21st century.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis remained focused on the company's mission and values, with a slight shift towards a more aspirational and global vision.",
+  "analyst_notes": "The analyst should verify the consistency of the values and mission statements over time.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.6
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "our purpose is to make the world a better place by bringing life-changing health technologies to the people who need them",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "connecting patients to doctors with real-time information monitoring their hearts",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "From removing the regular pain of fingersticks as people manage their diabetes to connecting patients to doctors",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page emphasizes the company's mission and the impact of its products on patients' lives, with no significant changes in language or emphasis from previous years.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

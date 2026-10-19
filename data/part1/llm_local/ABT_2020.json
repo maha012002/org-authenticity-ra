@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "purpose is to make the world a better place by bringing life-changing health technologies to the people who need them",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "LIFE-CHANGING TECHNOLOGY",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We all have our own unique idea of what it means to live fully, but there\u2019s one thing we share: We each want to live the best life we can.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's tone remains consistent, but the content has been slightly reorganized and expanded.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

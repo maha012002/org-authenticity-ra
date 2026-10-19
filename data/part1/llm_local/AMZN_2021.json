@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Amazon strives to be Earth\u2019s most customer-centric company, Earth\u2019s best employer, and Earth\u2019s safest place to work.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Amazon\u2019s decision-making process that asks employees to consider whether an action is a one-way door\u2014consequential and nearly irreversible\u2014or a two-way door, easy to change course and go back.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Amazon\u2019s \u201cDay 1\u201d mentality is our approach of doing everything with the energy and entrepreneurial spirit of a new organization on its first day.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis on customer-centricity, employer, and safety have been reinforced, while the mention of the 14 principles has been removed.",
+  "analyst_notes": "The analyst should verify the specific products and services pioneered by Amazon and the exact wording of the leadership principles.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.0
+}

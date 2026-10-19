@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We're focusing on eliminating it by 2020.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Pfizer Vaccines - A Local Approach to Improving Global Health",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Ending Trachoma",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Pfizer Vaccines - A Local Approach to Improving Global Health",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Pfizer Vaccines - A Local Approach to Improving Global Health",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The focus on Trachoma and the emphasis on sustainability and global health improvements are new additions.",
+  "analyst_notes": "The page content has shifted to focus more on specific health initiatives and sustainability goals, which may require further investigation into the specific programs and their impact.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.6
+}

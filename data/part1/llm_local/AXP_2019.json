@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We Deliver for Our Customers\nWe\u2019re driven by our commitment to deliver exceptional products, services and experiences to our customers.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We deliver an unparalleled standard of excellence in everything we do, staying focused on the biggest opportunities to be meaningful to our customers.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are a diverse and inclusive company, and serve diverse customers. We believe we are a better company when each of us feels included, valued, and able to trust colleagues who respect each of us for who we are and what we contribute to our collective success.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We aim to make a difference in the communities where we work and live. Our commitment to corporate social responsibility makes an impact by strengthening our connections.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis on customer focus and excellence have been maintained, with a slight shift towards emphasizing diversity and inclusion.",
+  "analyst_notes": "A researcher should verify the specific actions and initiatives taken to support customer experience and diversity and inclusion.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.2
+}

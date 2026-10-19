@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "serving millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "a leading global financial services firm with assets of $2.6 trillion.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We have a presence in over 100 markets.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's content remains largely unchanged, focusing on the company's size and market presence.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.9
+}

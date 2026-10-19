@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Join us as we explore what it means to live fully \u2013 both as individuals and as communities.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We all have our own unique idea of what it means to live fully, but there\u2019s one thing we share: We each want to live the best life we can.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "ABBOTT IS IN THE BUSINESS OF LIFE.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language shifts from a more formal, corporate tone to a more personal, aspirational tone, emphasizing the company\u2019s mission and values in a more direct and engaging way.",
+  "analyst_notes": "The page\u2019s content has been restructured to focus more on the company\u2019s mission and values, with a shift in tone towards a more aspirational and personal approach.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

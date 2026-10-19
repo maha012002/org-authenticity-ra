@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "TAPS \u00e2 the first automated trade processing system, first computer model for financial analysts.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "joint effort by the firm and its employees to raise $60 million to build Morgan Stanley Children\u00e2s Hospital at New York-Presbyterian Hospital, to employee-led relief efforts following the September 11 terrorist attacks.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "launching the Investing with Impact platform and the Morgan Stanley Institute for Sustainable Investing",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now emphasizes the firm's commitment to sustainability and social impact, reflecting a shift in values and priorities.",
+  "analyst_notes": "Researchers should verify the specific initiatives and partnerships mentioned in the 'Investing with Impact' and 'Morgan Stanley Institute for Sustainable Investing' platforms.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.7
+}

@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "value of 'responsibility, trust and integrity'",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone is more focused on Chevron's role in providing reliable, affordable, and cleaner energy, with a stronger emphasis on their responsibility and integrity.",
+  "analyst_notes": "The page's content has shifted to emphasize Chevron's role in providing energy and their commitment to responsibility and integrity, without changing the core values expressed.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.5
+}

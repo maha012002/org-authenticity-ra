@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "legacy of integrity",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted to emphasize the company's legacy and current values, with a focus on integrity, collaboration, and respect.",
+  "analyst_notes": "Ensure the historical context and current leadership focus on these values are accurately represented.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.9
+}

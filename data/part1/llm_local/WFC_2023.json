@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Responsible Lending",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Responsible Lending",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Responsible Lending",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "No new values are introduced or removed, but the focus on responsible lending emphasizes the company's commitment to ethical practices and sustainability.",
+  "analyst_notes": "The page's content remains consistent with previous years, focusing on financial performance and corporate governance without introducing new values or themes.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.9
+}

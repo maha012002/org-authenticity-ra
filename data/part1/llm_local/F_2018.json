@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "community_social_impact",
+      "evidence": "Community service is an important part of Ford\u2019s heritage and always has been.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our global brand promise is called Go Further \u2013 we go further so you can.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page content has shifted focus to emphasize environmental sustainability, community service, and the company's brand promise, while maintaining the core values of Ford.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

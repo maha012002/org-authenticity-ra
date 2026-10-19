@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "The people we serve are at the heart of everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "To deliver on our mission and drive market share acceleration, we launched our Total Home Strategy.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our associates have deep home improvement experience and training.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We designed our business to be there when you need us most.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We launched our Total Home Strategy.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We designed our business to be there when you need us most.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Sentences ADDED: Together, deliver the right home improvement products, with the best service and value, across every channel and community we serve.",
+  "analyst_notes": "No significant changes in values-related wording, but minor rewording and addition of new areas of focus.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.7
+}

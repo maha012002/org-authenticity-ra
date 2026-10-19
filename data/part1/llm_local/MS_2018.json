@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Laying The Foundation, Caring for Children, Rebuilding Countries, Stronger Starts, Increased Capabilities, Going Public, Increased Capabilities, Global Impact, Community Commitment, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Rebuilding Countries, Stronger Starts, Increased Capabilities, Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Caring for Children, Stronger Starts, Increased Capabilities, Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Rebuilding Countries, Increased Capabilities, Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Caring for Children, Stronger Starts, Increased Capabilities, Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Increased Capabilities, Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page details historical milestones and philanthropic efforts, with no significant changes in values-related language.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.4
+}

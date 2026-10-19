@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Access to energy underpins human comfort, mobility, economic prosperity and social progress.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "An industry leader in almost every aspect of the energy and chemical manufacturing businesses, we operate facilities or market products in most of the world\u2019s countries, explore for oil and natural gas on six continents, and research and develop next-generation technologies to help meet the dual challenge of fueling global economies while addressing the risks of climate change.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "An industry leader in almost every aspect of the energy and chemical manufacturing businesses, we operate facilities or market products in most of the world\u2019s countries, explore for oil and natural gas on six continents, and research and develop next-generation technologies to help meet the dual challenge of fueling global economies while addressing the risks of climate change.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language has shifted to emphasize the company's role in addressing climate change and its global impact, while also maintaining a focus on its industry leadership and resource inventory.",
+  "analyst_notes": "The analyst should verify the company's current stance on climate change and its efforts to address it, as this is a significant shift from its previous emphasis on industry leadership and resource inventory.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.7
+}

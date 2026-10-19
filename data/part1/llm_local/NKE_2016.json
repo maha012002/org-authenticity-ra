@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "creating products, services and experiences for today\u2019s athlete while solving problems for the next generation.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainable innovation is a catalyst for revolutionizing the way we do business and an opportunity that's been integrated across our business in policies, processes and products.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "NIKE, Inc. fosters a culture of invention. We create products, services and experiences for today\u2019s athlete while solving problems for the next generation.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have shifted towards sustainability and innovation as core values.",
+  "analyst_notes": "Ensure to verify the integration of sustainability across all business policies and processes as a significant change from previous years.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.6
+}

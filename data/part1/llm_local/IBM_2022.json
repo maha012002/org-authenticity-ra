@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We recognize these eight new Fellows for their outstanding and sustained technical achievements and leadership in engineering, programming, services, science, and technology.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "IBM punch cards become the industry standard for the next 50 years, holding nearly all of the world\u2019s known information and enabling large-scale projects like the US Census.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "With 50 billion transistors on a fingernail-sized chip, the most dense to date, this innovation holds the potential for greener data centers and safer autonomous vehicles.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Sentences added about the 2021 Class of IBM Fellows and the potential of the 50 billion transistor chip for greener data centers and safer autonomous vehicles.",
+  "analyst_notes": "IBM's recent investments in quantum computing and AI are significant, but the company's core values of customer focus and innovation remain central.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.8
+}

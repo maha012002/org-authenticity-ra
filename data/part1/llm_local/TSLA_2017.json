@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Tesla\u2019s products would be cars without compromise. Each new generation would be increasingly affordable, helping the company work towards its mission: to accelerate the world\u2019s transition to sustainable energy.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Tesla\u2019s engineers first designed a powertrain for a sports car built around an AC induction motor, patented in 1888 by Nikola Tesla, the inventor who inspired the company\u2019s name.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Tesla\u2019s vehicles are produced at its factory in Fremont, California, previously home to New United Motor Manufacturing Inc., a joint venture between Toyota and General Motors.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The focus on the company's mission and the mention of the Tesla Factory have been maintained, with some rephrasing of the mission statement.",
+  "analyst_notes": "The analyst should verify the accuracy of the Supercharger network's capabilities and the timeline for the gigafactory production.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.8
+}

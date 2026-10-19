@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "For the latest information about Target's response to the coronavirus, please visit our coronavirus information hub",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "44 owned brands unique to Target",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Verify the accuracy of the 2020 revenue figures and the 2021 coronavirus information hub.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.8
+}

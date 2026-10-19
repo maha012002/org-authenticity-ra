@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Committed to being carbon free by 2030",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The tone has shifted towards more specific commitments and goals, such as the commitment to being carbon free by 2030.",
+  "analyst_notes": "Double-check the specific actions taken to support diversity, equity, and inclusion, as these were removed from the current page.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

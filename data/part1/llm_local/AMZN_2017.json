@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Invent and Simplify, Learn and Be Curious, Hire and Develop the Best, Insist on the Highest Standards, Think Big, Bias for Action, Frugality.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Hire and Develop the Best, Earn Trust.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Learn and Be Curious, Insist on the Highest Standards, Deliver Results.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis remain consistent with the 2016 version, with no significant changes in wording or values.",
+  "analyst_notes": "The analyst should verify that the Leadership Principles remain unchanged from the 2016 version.",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.6
+}

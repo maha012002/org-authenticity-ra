@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Find out all about Microsoft\u00e2company facts, news, how to contact us, and more.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Innovating from the ocean floor to Mars",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Caring for our communities",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Building a sustainable future",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Our mission is to empower every person and every organization on the planet to achieve more. We believe in what people make possible.",
+  "analyst_notes": "The page now includes a new section on community investment and sustainability, reflecting changes in Microsoft's values and priorities.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

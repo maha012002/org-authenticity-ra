@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "redefined modern computer graphics, revolutionized parallel computing",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "GPU deep learning",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "More recent achievements are highlighted, emphasizing the impact of GPU technology in AI and computing.",
+  "analyst_notes": "The page focuses on NVIDIA's technological advancements rather than its values or mission, which may require additional research to understand its corporate stance.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.7
+}

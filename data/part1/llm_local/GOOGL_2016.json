@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone has shifted towards a more customer-centric approach, with a focus on innovation and respect for employees.",
+  "analyst_notes": "The company's mission statement has remained consistent, but the emphasis on user experience and innovation has increased.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.5
+}

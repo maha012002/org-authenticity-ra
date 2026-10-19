@@ -1,0 +1,63 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "a set of core values that define who we are and how we run our business and restaurants",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We do it through our purpose, to feed and foster communities",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We do it through our growth pillars which focus on integral areas of our business",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to make delicious feel-good moments easy for everyone",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are using our competitive advantages to further strengthen our brand",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We do it through our growth pillars which focus on integral areas of our business",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We do it through our growth pillars which focus on integral areas of our business",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We do it through our growth pillars which focus on integral areas of our business",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We do it through our growth pillars which focus on integral areas of our business",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We do it through our growth pillars which focus on integral areas of our business",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis remain consistent with the previous year's values statement, with a focus on the company's mission and growth pillars.",
+  "analyst_notes": "The analyst should verify the accuracy of the growth pillars and their focus areas.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.1
+}

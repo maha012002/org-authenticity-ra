@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We always strive for new heights and excellence, both in our performance and how we represent the Brand.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We want to continue to build on the momentum that has been a feature of our recent growth.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are committed to using our scale for good: good for people, for our industry, and for the planet.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are committed to using our scale for good: good for people, for our industry, and for the planet.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to make delicious feel-good moments easy for everyone.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis on innovation, community, and sustainability have been slightly rephrased and expanded.",
+  "analyst_notes": "The analyst should verify the specific commitments and actions related to the values mentioned in the updated text.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 12.6
+}

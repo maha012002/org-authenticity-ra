@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Guiding Principles",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Advancing the Future of Energy",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language around Valero's commitment to innovation and sustainability has been reinforced, while the emphasis on operations excellence and long-term value has been maintained.",
+  "analyst_notes": "The page's content remains largely unchanged, with the addition of new principles and a focus on sustainability and employee care.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

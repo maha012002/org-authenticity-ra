@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We combine the agility of a biotech with the reach and resources of an established pharmaceutical company to create a global leading biopharma company powered by talented individuals who drive scientific innovation.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are dedicated to helping patients prevail over serious diseases through our diverse and promising pipeline and new scientific platforms.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We combine the agility of a biotech with the reach and resources of an established pharmaceutical company to create a global leading biopharma company powered by talented individuals who drive scientific innovation.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are proud of the advancements we have made in oncology, hematology, immunology and cardiovascular disease, and we are dedicated to helping patients prevail over serious diseases through our diverse and promising pipeline and new scientific platforms.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We promote health equity globally and strive to increase access to life-saving medicines for populations disproportionately affected by serious diseases and conditions.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We conduct our global business with the utmost integrity and transparency.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We are a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our shared values are central to who we are, what we do and how we do it. Passion, innovation, urgency, accountability, inclusion and integrity ground our work and unite our community.",
+  "analyst_notes": "The tone and emphasis on patient-centric care and scientific innovation have been maintained, while the mission statement has been updated to reflect the company's current focus on patient outcomes.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.2
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Improving the lives of two people every second.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Guided by our Mission, embedded in our business, personified by our employees, and multiplied by our partners.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Sentences ADDED: From humble beginnings to improving the lives of two people every second. Guided by our Mission, embedded in our business, personified by our employees, and multiplied by our partners.",
+  "analyst_notes": "No significant changes in core values or mission statements.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.4
+}

@@ -82,8 +82,11 @@ python part4/extra_analysis.py
 | `data/part4/*` | COVID, redesign, ESG-in-pay, cheap-talk ranking |
 
 ## Use of AI tools
-I used an AI assistant (Claude) to help scaffold and debug the pipeline code and to review this
-repository before submission. The research design choices (codebook, page-selection rules,
-document source, index definition and Part 4 question), the review of outputs, and the
-interpretation in the summaries are my own. Separately, Part 1 uses a local open-weight LLM as a
-research instrument, as described above.
+I used Cursor (with an AI coding assistant) to help write and debug pipeline scripts, fix
+environment issues (SSL, SEC CIK overrides, Ollama setup), and draft repository docs. I also
+pulled an instructor-provided git bundle that added the local-LLM Part 1 step and Part 3
+validity checks. I ran the full local LLM coding pass on my laptop, reviewed agreement and
+validity outputs, hand-checked a sample of ~20 LLM-labeled pages, and edited the Part 1 / Part 3
+summaries so the interpretation (including the website-driven sector ranking and placebo
+result) is in my own words. Separately, Part 1 uses a **local open-weight LLM (Qwen 2.5 via
+Ollama)** as a research instrument for theme coding—not as a substitute for my write-up.

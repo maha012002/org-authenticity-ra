@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Inside IBM Bright ideas and thought-provoking insights from the IBM universe",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Meet some of the IBMers behind our innovations",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "World Community Grid uses idle computers to solve problems quickly and free.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "IBM Watson redefines the relationship between man and machine. The most disruptive, transformative trend in the Cognitive Era is IBM Watson.",
+  "analyst_notes": "The 2017 IBM page includes a new theme of innovation, which was not present in the 2016 version.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.5
+}

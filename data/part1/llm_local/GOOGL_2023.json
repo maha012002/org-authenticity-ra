@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Committed to being carbon free by 2030",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Latest products news",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "Helping people with information in critical moments",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Committed to being carbon free by 2030",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Latest products news",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "No significant changes in language or emphasis regarding core values.",
+  "analyst_notes": "The page's content has been updated to include a commitment to carbon neutrality, but no core values have been added or removed.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

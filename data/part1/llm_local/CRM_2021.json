@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We believe everyone can be a Trailblazer, and we\u00e2re building the technology to make it happen.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "The Fourth Industrial Revolution is changing the way people work, using robotics, AI, the Internet of Things, and more.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We have a history of helping companies, and the people behind them, grow.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are the world\u00e2s fourth-largest software company.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are building the technology to make it happen.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are the world\u00e2s fourth-largest software company.",
+      "salience": 1
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We are the world\u00e2s fourth-largest software company.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our success depends upon our customers\u00e2 success. Every day, more than 150,000 companies are increasing employee productivity, team collaboration, customer loyalty, and, most importantly, sales revenues using the world\u00e2s #1 CRM platform.",
+  "analyst_notes": "The company's success metrics have shifted from customer focus to internal performance metrics.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.8
+}

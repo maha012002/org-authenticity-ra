@@ -1,0 +1,68 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented people making responsible choices to adapt and explore the opportunities the changing market brings.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented people making responsible choices to adapt and explore the opportunities the changing market brings.",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "We Are the Makers and Movers",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented people making responsible choices to adapt and explore the opportunities the changing market brings.",
+      "salience": 1
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "You can learn more about our history at the Phillips 66 and Conoco museum websites.",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "By maintaining strong operating excellence, we protect each other, contribute to the well-being of the communities that support us, deliver quality products to customers and enhance shareholder value.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "You can learn more about our history at the Phillips 66 and Conoco museum websites.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "You can learn more about our history at the Phillips 66 and Conoco museum websites.",
+      "salience": 1
+    },
+    {
+      "code": "safety",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented people making responsible choices to adapt and explore the opportunities the changing market brings.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "By maintaining strong operating excellence, we protect each other, contribute to the well-being of the communities that support us, deliver quality products to customers and enhance shareholder value.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our vision is to provide energy and improve lives, and we back that up with core company values of safety, honor and commitment.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis have shifted slightly to emphasize the company's core values and vision, while maintaining the same core messaging about the company's history and future.",
+  "analyst_notes": "A researcher should verify the accuracy of the history information provided and the current status of the company's businesses and values.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 13.8
+}

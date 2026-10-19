@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We believe technology must constantly evolve to make more things possible and all things easier, smarter, and more connected than ever before.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are investing $300 million in our Diversity in Technology Initiative to achieve full representation of women and under-represented minorities at Intel by 2020, through funding, training, hiring, and retention.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now emphasizes Intel's commitment to diversity and inclusion, and its belief in the transformative power of technology.",
+  "analyst_notes": "The analyst should verify Intel's specific diversity and inclusion initiatives and their progress towards the 2020 goal.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

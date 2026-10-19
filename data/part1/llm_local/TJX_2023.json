@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We do this by offering a rapidly changing assortment of quality, fashionable, brand name, and designer merchandise at prices generally 20% to 60% below full-price retailers\u2019 (including department, specialty, and major online retailers) regular prices on comparable merchandise, every day.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our business model has been built to have tremendous flexibility and adapt with the times. Over our more than four decades as a Company, we have maintained an unwavering focus on executing our off-price business model which has generally allowed us to deliver steady sales and earnings growth through many retail and economic environments across different geographies.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to making a positive, sustainable impact on the world in which we live and conduct business.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are committed to making a positive, sustainable impact on the world in which we live and conduct business.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Double-check TJX's financial performance and stock market performance for the fiscal year ending January 28, 2023, to confirm the company's stated confidence in its future outlook.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.0
+}

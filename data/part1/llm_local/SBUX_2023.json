@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to the highest standards of quality and service, embracing our heritage while innovating to create new experiences to savor.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are committed to the highest standards of quality and service, embracing our heritage while innovating to create new experiences to savor.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "As it has been from the beginning, our purpose goes far beyond profit. We believe Starbucks can, and should, have a positive impact on the communities we serve.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Mission: With every cup, with every conversation, with every community - we nurture the limitless possibilities of human connection.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's emphasis on quality, service, and community impact remains consistent, with a focus on the company's mission and purpose.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.9
+}

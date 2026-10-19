@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "The people we serve are at the heart of everything we do. Our associates have deep home improvement experience and training, and can give you the expert advice you need to do your project right.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our associates have deep home improvement experience and training, and can give you the expert advice you need to do your project right.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We designed our business to be there when you need us most.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Sentences ADDED: Associates in the United States. To deliver on our mission and drive market share acceleration, we launched our Total Home Strategy.",
+  "analyst_notes": "No significant changes in values-related wording, but the Total Home Strategy was launched in 2023.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

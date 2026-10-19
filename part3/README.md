@@ -2,7 +2,7 @@
 
 ## Goal
 Quantify, for each company-year with both an About snapshot and a DEF 14A, how closely
-**stated** theme salience matches **lived** theme salience.
+**stated** theme salience matches **lived** theme salience (keyword vectors on both sides).
 
 ## Definition
 Let \(s\) and \(\ell\) be 12-dimensional salience vectors (0–3) from Parts 1 and 2.
@@ -16,6 +16,7 @@ Let \(s\) and \(\ell\) be 12-dimensional salience vectors (0–3) from Parts 1 a
 | `authenticity_index` | `alignment_cosine − 0.5 × cheap_talk_score` |
 
 Firm-level means average over years where both sides exist. Sector summaries average firms.
+`validity_checks.py` adds distribution stats, a wrong-firm placebo, and known-groups gaps.
 
 ## Why this form
 Pure alignment rewards firms that are quiet on both sides. Subtracting a cheap-talk
@@ -26,9 +27,17 @@ cheap-talk are also reported so a reader can reweight.
 ## Run
 ```bash
 python part3/authenticity_index.py
+python part3/validity_checks.py
 ```
 
 ## Outputs
 - `data/part3/authenticity_company_year.csv`
 - `data/part3/authenticity_firm.csv`
 - `data/part3/sector_summary.csv`
+- `data/part3/validity_report.json`
+
+## With more time
+Count a lived theme only when a firm’s proxy **stresses it more than other firms’
+proxies that same year** (e.g. relative salience or TF–IDF-style rarity across the cross
+section). That would cut through the current problem that ~95% of proxies hit 10+ themes
+and would make the lived side more discriminative for authenticity rankings.

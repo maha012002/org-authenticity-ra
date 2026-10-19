@@ -1,0 +1,63 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Ethics and integrity are the foundation of our brand and the guiding principles for all we do.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Halliburton serves major, national and independent oil and natural gas companies throughout the world.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We combine technology, services and execution expertise to assist our customers with hydrocarbons location, geological data management, drilling and formation evaluation, well construction and completion, and production optimization throughout the life of their asset.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are focused on our own personal safety as well as the safety of others.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We value diversity and equality. It makes us stronger, more innovative, and better positioned for success. We are committed to inclusion across race, gender, nationality, religion, identity, experience, and any other unique attribute.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Our execution culture focuses on continuous improvement.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our strategy for sustainability serves as the cornerstone of our operations and our future.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Enhancing the economic and social well-being of the communities where we live and operate is among our most enduring principles.",
+      "salience": 2
+    },
+    {
+      "code": "safety",
+      "evidence": "We are focused on our own personal safety as well as the safety of others.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We believe the quality of our service defines who we are.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis on values remain consistent, with some rephrasing and additional context provided.",
+  "analyst_notes": "Ensure the company's commitment to diversity and inclusion is reflected in recent diversity and inclusion reports and initiatives.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.1
+}

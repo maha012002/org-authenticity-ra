@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We are individuals and teams around the world working to change the face of health care.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are individuals and teams around the world working to change the face of health care.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are individuals and teams around the world working to change the face of health care.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "At UnitedHealth Group, we celebrate our people, ideas and experiences \u2014 creating a culture where all team members are appreciated, valued and able to contribute to their full potential.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Mission & Values",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We Are On A Journey to Deliver Equitable Health Care For All.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We Are On A Journey to Deliver Equitable Health Care For All.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We Are On A Journey to Deliver Equitable Health Care For All.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis remained consistent, with a focus on UnitedHealth Group's mission and values.",
+  "analyst_notes": "Ensure the health equity and community impact initiatives are accurately reflected in the current mission and values statements.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.0
+}

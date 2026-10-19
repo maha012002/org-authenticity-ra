@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments and individuals.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted from a broad overview of the firm's services to a more specific focus on the firm's commitment to diversity and inclusion.",
+  "analyst_notes": "The page now emphasizes the firm's commitment to diversity and inclusion, which may have been a recent focus area.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.5
+}

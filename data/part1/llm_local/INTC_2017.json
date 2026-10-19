@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "we do so much more. Intel invents at the boundaries of technology to make amazing experiences possible for business and society, and for every person on Earth.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "we create value for our stockholders, customers, and society.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "we create value for our stockholders, customers, and society.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "we create value for our stockholders, customers, and society.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "we create value for our stockholders, customers, and society.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We are investing $300 million in our Diversity in Technology Initiative to achieve full representation of women and under-represented minorities at Intel by 2020, through funding, training, hiring, and retention.",
+  "analyst_notes": "The company's focus on diversity and inclusion has been highlighted with a specific investment commitment.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.8
+}

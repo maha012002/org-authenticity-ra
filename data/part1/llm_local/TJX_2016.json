@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are very proud that 2015 marked the 20th consecutive year of consolidated comparable store sales increases!",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are convinced that tremendous opportunity remains to bring our values to more consumers in the U.S. and internationally. As we pursue our goals for global growth and gaining market share profitably, our key strengths give us great confidence. We see our commitment to our off-price value mission, flexible business model and extensive international experience and infrastructure as important differentiators between us and other major retailers and key advantages in our continuing successful growth.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We have dedicated nearly 40 years to cultivating our merchandising talent, improving our off-price buying processes, and building long-term, mutually beneficial relationships with our vendors.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are convinced that tremendous opportunity remains to bring our values to more consumers in the U.S. and internationally. As we pursue our goals for global growth and gaining market share profitably, our key strengths give us great confidence. We see our commitment to our off-price value mission, flexible business model and extensive international experience and infrastructure as important differentiators between us and other major retailers and key advantages in our continuing successful growth.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis remained focused on the company's growth and success, with a continued emphasis on the off-price value mission and global expansion.",
+  "analyst_notes": "The analyst notes should double-check the company's financial performance and the impact of the acquisition of Trade Secret in Australia.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.9
+}

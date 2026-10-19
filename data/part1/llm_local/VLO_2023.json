@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Guiding Principles",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page maintains its core values and structure, with no significant changes in wording or emphasis.",
+  "analyst_notes": "The analyst should verify the specific locations and subsidiaries of Valero's operations as they have changed.",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.6
+}

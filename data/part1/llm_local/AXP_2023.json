@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis have remained consistent with the previous year's content.",
+  "analyst_notes": "No significant changes in corporate values or messaging are indicated in the provided text.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.4
+}

@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Tesla Motors was founded in 2003 by a group of engineers in Silicon Valley who wanted to prove that electric cars could be better than gasoline-powered cars.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Tesla\u2019s engineers first designed a powertrain for a sports car built around an AC induction motor, patented in 1888 by Nikola Tesla.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Tesla\u2019s vehicles are produced at its factory in Fremont, California, previously home to New United Motor Manufacturing Inc.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Tesla\u2019s vehicles are produced at its factory in Fremont, California, previously home to New United Motor Manufacturing Inc.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Tesla is not just an automaker, but also a technology and design company with a focus on energy innovation.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have shifted towards the company's technological and environmental innovations, and its role as a technology and design company.",
+  "analyst_notes": "Tesla's focus on sustainability and its role as a technology company have become more prominent in the 2016 text.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.5
+}

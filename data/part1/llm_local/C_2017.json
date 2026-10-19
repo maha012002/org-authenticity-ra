@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We responsibly provide financial services that enable growth and economic progress",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We strive to create the best outcomes for our clients and customers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "with financial ingenuity that leads to solutions that are simple, creative and responsible",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone has shifted towards a more customer-centric and responsible approach, emphasizing the company's commitment to enabling growth and economic progress.",
+  "analyst_notes": "Ensure the current mission statement accurately reflects the company's values and actions as described in the codebook.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

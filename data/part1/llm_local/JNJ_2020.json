@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We believe our first responsibility is to the patients, doctors and nurses, to mothers and fathers and all others who use our products and services.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We must provide an inclusive work environment where each person must be considered as an individual. We must respect their diversity and dignity and recognize their merit.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We must help people be healthier by supporting better access and care in more places around the world. We must be good citizens \u2014 support good works and charities, better health and education, and bear our fair share of taxes.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Business must make a sound profit. We must experiment with new ideas. Research must be carried on, innovative programs developed, investments made for the future and mistakes paid for. New equipment must be purchased, new facilities provided and new products launched. Reserves must be created to provide for adverse times. When we operate according to these principles, the stockholders should realize a fair return.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's content remains consistent with the previous year's, focusing on customer service, employee respect, environmental responsibility, and shareholder value.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.3
+}

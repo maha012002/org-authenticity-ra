@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "producing oil and natural gas and getting them to market",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovative, collaborative efforts",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "producing oil and natural gas and getting them to market",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "efficient and effective exploration and production",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "producing oil and natural gas and getting them to market",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "producing oil and natural gas and getting them to market",
+      "salience": 1
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "financial strength",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our technical capabilities, asset quality and scale, and financial strength are unmatched among independent exploration and production companies and uniquely position us to compete around the world.",
+  "analyst_notes": "No significant changes in values-related wording, but the tone emphasizes the company's technical capabilities and financial strength.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.8
+}

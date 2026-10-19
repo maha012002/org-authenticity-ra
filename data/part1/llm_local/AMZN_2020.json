@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our mission is to be Earth\u2019s most customer-centric company.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are honored to be recognized for the work we do on behalf of our customers, employees, and communities every day.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We hope being clear about our positions is helpful.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are honored to be recognized for the work we do on behalf of our customers, employees, and communities every day.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to be Earth\u2019s most customer-centric company.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We hope being clear about our positions is helpful.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted to be more explicit about the company's mission and values, with a focus on customer-centricity and innovation.",
+  "analyst_notes": "The analyst should verify the accuracy of the leadership principles and their application within the company.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.4
+}

@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "We are honored to be recognized for the work we do on behalf of our customers, employees, and communities every day.",
+  "analyst_notes": "Double-check the specific initiatives and programs Amazon supports for employees and small businesses.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

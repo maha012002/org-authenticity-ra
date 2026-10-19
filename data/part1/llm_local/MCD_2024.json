@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to make delicious feel-good moments easy for everyone. The backbone of our Brand is, and always has been, a commitment to a set of core values that define who we are and how we run our business and restaurants.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We do it through our purpose, to feed and foster communities. We do it through our growth pillars, which focus on integral areas of our business. We do it through our leadership, with a team that will move our brand forward.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the company's commitment to its core values and its role in the community, while also highlighting its growth strategy and leadership.",
+  "analyst_notes": "The analyst should verify the accuracy of the company's growth strategy and leadership values as presented.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.7
+}

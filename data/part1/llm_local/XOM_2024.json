@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Fueling the world safely and responsibly",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are constantly seeking solutions to meet society\u2019s evolving needs \u2013 something ExxonMobil has been doing for more than 140 years.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "The company's directors, officers and employees are expected to observe the highest standards of integrity in conducting business.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We continue to evolve to meet growing global demand for oil, natural gas and refined products and aim to play a leading role in the energy transition.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We continue to evolve to meet growing global demand for oil, natural gas and refined products and aim to play a leading role in the energy transition.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Exxon Mobil Corporation is committed to being the world's premier petroleum and chemical manufacturing company.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the company's commitment to evolving to meet growing global demand for oil, natural gas and refined products and aims to play a leading role in the energy transition.",
+  "analyst_notes": "The analyst should verify the company's evolving strategy and the specific measures taken to meet these goals.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}

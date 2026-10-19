@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "430,000+ Customers worldwide",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "leading-edge capabilities in software as a service, platform as a service, infrastructure as a service, and data as a service",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "US$37.7B FY17 GAAP revenue",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Sentences added about Oracle's global reach and services, and a subscription option was introduced.",
+  "analyst_notes": "Verify the accuracy of the revenue figures and the number of customers.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "UnitedHealthcare provides health care coverage and benefits services.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are committed to introducing innovative approaches, products and services.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "UnitedHealth Group invests more than $3.3 billion in technology and innovation.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The focus on innovation and investment in technology has increased, while the emphasis on UnitedHealth Group's role in the health care environment remains consistent.",
+  "analyst_notes": "The specific investments in technology and innovation should be cross-referenced with recent financial reports for accuracy.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

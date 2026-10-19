@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "discovering new ways to make life better",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language has shifted to focus more on the company's mission and the positive impact on human health.",
+  "analyst_notes": "The Abbott's mission statement has been updated, but no core values have been added or removed.",
+  "n_unverified_dropped": 5,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

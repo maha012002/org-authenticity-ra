@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We help millions of people invest to build savings that serve them throughout their lives. We make investing easier and more affordable. We advance sustainable investing. And we contribute to a more inclusive and resilient economy that benefits more people.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are challenging ourselves and the industry by asking big questions.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We help millions of people invest to build savings that serve them throughout their lives. We make investing easier and more affordable. We advance sustainable investing.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are challenging ourselves and the industry by asking big questions.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help more and more people experience financial well-being. Together with our clients, we\u2019re contributing to a more equitable and resilient world \u2013 today and for generations to come.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are challenging ourselves and the industry by asking big questions.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are challenging ourselves and the industry by asking big questions.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are challenging ourselves and the industry by asking big questions.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Our purpose is to help more and more people experience financial well-being. Together with our clients, we\u2019re contributing to a more equitable and resilient world \u2013 today and for generations to come.",
+  "analyst_notes": "The page's tone has shifted slightly towards a more aspirational and inclusive language, maintaining the core values but with a stronger emphasis on the company's purpose and impact.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.2
+}

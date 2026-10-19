@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing our carbon footprint",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our skilled workforce is comprised of individuals drawn from a broad cross section of the global communities we serve.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We know a diverse workforce and an inclusive culture matters to our clients.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now emphasizes the firm's commitment to reducing its carbon footprint and the importance of a diverse and inclusive workforce.",
+  "analyst_notes": "The page's content has shifted to focus more on sustainability and workforce diversity, with no significant changes in values or language from the previous year.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

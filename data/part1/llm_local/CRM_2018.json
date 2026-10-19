@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "The Fourth Industrial Revolution is changing the way people work, using robotics, AI, the Internet of Things, and more.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "By making these innovations easier and more accessible, we're helping create a future with greater opportunity and equality for all.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "In Hawaiian culture, \u00e2Ohana\u00e2 means family; it's the tie that binds people together. Our Ohana is built on four core values that inspire us to work together every day toward improving the world.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Ohana is built on four core values that inspire us to work together every day toward improving the world.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Today, we're creating a whole new economy that's helping millions of Salesforce users improve their lives, too.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Trailblazers don't fear change, we embrace it. We harness new technologies to entirely transform our companies, our careers, and hopefully, our world.",
+  "analyst_notes": "Verify the accuracy of the number of companies using Salesforce's platform and the current status of the company's market position.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.3
+}

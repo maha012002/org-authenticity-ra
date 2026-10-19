@@ -1,0 +1,63 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We aren\u2019t merely creating products. We\u2019re creating something magical for the person who uses it.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our goal is to leave the planet better than we found it.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We\u2019re creating something magical for the person who uses it.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The tone is more aspirational and focused on the impact of Apple's products and the experience they provide, rather than the company's internal practices or values.",
+  "analyst_notes": "Ensure that the new values are accurately reflected in the company's internal practices and communications.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.8
+}

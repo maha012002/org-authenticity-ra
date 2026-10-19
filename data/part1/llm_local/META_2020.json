@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Hiring people with different backgrounds and points of view helps us make better decisions, build better products and create better experiences for everyone.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our products empower more than 3 billion people around the world to share ideas, offer support and make a difference.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Our products empower more than 3 billion people around the world to share ideas, offer support and make a difference.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "16 data centers globally\nTo be supported by 100% renewable energy",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our products empower more than 3 billion people around the world to share ideas, offer support and make a difference.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now emphasizes the global reach and impact of the company's products, reflecting a shift in focus from internal workforce diversity to external product reach.",
+  "analyst_notes": "The analyst should verify the exact number of employees and data centers mentioned in the current year's text.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.8
+}

@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We demonstrate our commitment to patients and population health by increasing access to health care through far-reaching policies, programs and partnerships.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We demonstrate our commitment to patients and population health by increasing access to health care through far-reaching policies, programs and partnerships.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are at the forefront of research to prevent and treat diseases that threaten people and animals \u2013 including cancer, infectious diseases, such as HIV and Ebola, and emerging animal diseases.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We\u2019ve built a culture that embraces scientific excellence, operates with the highest standards of integrity, expands access to our products and employs a diverse workforce that values collaboration.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We demonstrate our commitment to patients and population health by increasing access to health care through far-reaching policies, programs and partnerships.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to save and improve lives around the world.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis on corporate responsibility and the importance of our mission have been reinforced.",
+  "analyst_notes": "The analyst should verify the specific commitments and programs related to patient and population health.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.4
+}

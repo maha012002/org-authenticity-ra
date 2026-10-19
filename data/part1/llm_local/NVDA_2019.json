@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "redefined modern computer graphics, revolutionized parallel computing",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "More recently, GPU deep learning ignited modern AI",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "More recently, GPU deep learning ignited modern AI",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The focus shifted from the historical growth and market impact to the current role of GPUs in AI.",
+  "analyst_notes": "The role of GPUs in AI should be verified as a significant development.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.7
+}

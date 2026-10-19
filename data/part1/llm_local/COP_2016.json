@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "producing oil and natural gas and getting them to market",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovative, collaborative efforts",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone has shifted to emphasize the company's commitment to innovation and collaboration in the face of producing oil and natural gas.",
+  "analyst_notes": "The company's focus on innovation and collaboration has increased, while the emphasis on producing oil and natural gas remains central.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.9
+}

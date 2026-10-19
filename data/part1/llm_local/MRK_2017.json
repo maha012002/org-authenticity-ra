@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Ethics and transparency at Merck are cornerstones of our corporate reputation.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are committed to improving health and well-being around the world.",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are determined to transform breakthrough science into novel therapeutic and vaccine options.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are a global healthcare company with a 125-year history of working to make a difference.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "gallons of water saved over the past 6 years",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Learn more about what we're doing to help improve health around the world.",
+      "salience": 1
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "$6.8 billion (excludes restructuring and merger related expenses)",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our rich history of discovery and innovation began more than 125 years ago and continues today. Through the years, our researchers have helped to find new ways to treat and prevent illness in people and animals around the world. We've done great things in the past. Today, we're doing great things for the future.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis have shifted slightly towards a more forward-looking and mission-driven perspective, while still maintaining the core values.",
+  "analyst_notes": "Double-check the specific contributions and achievements mentioned in the history section for accuracy and relevance.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.6
+}

@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Hiring people with different backgrounds and points of view helps us make better decisions, build better products and create better experiences for everyone.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "At Facebook, we are constantly iterating, solving problems and working together to connect people all over the world.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Our products empower more than 3 billion people around the world to share ideas, offer support and make a difference.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "To be supported by 100% renewable energy",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our principles are what we stand for. They are beliefs we hold deeply and make tradeoffs to pursue.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page has added new information about the number of businesses using Facebook and the number of data centers, but no significant changes in core values or mission statements.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.4
+}

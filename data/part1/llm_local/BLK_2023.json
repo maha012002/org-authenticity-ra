@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We are challenging ourselves and the industry by asking big questions.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We help millions of people invest to build savings that serve them throughout their lives. We make investing easier and more affordable.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are challenging ourselves and the industry by asking big questions. How can we contribute to an effective transition to a net zero economy?",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help more and more people experience financial well-being. Together with our clients, we\u2019re contributing to a more equitable and resilient world \u2013 today and for generations to come.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are challenging ourselves and the industry by asking big questions. How can we bring the voices of individual shareholders to the companies they invest in? And how can we help more people benefit from the long-term growth of capital markets?",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are challenging ourselves and the industry by asking big questions. How can we bring the voices of individual shareholders to the companies they invest in? And how can we help more people benefit from the long-term growth of capital markets?",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are challenging ourselves and the industry by asking big questions. How can we bring the voices of individual shareholders to the companies they invest in? And how can we help more people benefit from the long-term growth of capital markets?",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The tone is more focused on the company's role in addressing global challenges and the impact of its work, with a stronger emphasis on the company's purpose and the challenges it faces in achieving its goals.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives the company is taking to address climate change and promote sustainability.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.9
+}

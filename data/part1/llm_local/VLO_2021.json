@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Guiding Principles",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Leadership",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Leadership",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Leadership",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Leadership",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Leadership",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Story",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "No significant changes in values-related wording or emphasis.",
+  "analyst_notes": "Ensure that the current page's content accurately reflects the company's values and practices as of 2021.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

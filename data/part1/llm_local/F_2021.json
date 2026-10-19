@@ -1,0 +1,63 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We value service to each other and the world as much as to our customers.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "With the people of Ford around the world, our leadership is committed to serving all of our stakeholder groups.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The tone has shifted towards a more aspirational and inclusive language, emphasizing the company's purpose and commitment to creating a better world.",
+  "analyst_notes": "A researcher should double-check the specific contributions and progress Ford has made towards its stated purpose and values since 2020.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.6
+}

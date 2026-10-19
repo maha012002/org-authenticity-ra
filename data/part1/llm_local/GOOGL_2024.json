@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "carbon free by 2030",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now includes more specific details about the company's commitments and initiatives, such as the Pixel 8 lineup and the AI Principles Progress Report.",
+  "analyst_notes": "The page now includes more specific details about the company's initiatives, which may require further verification of their current status and impact.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.5
+}

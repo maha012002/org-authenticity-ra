@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We are proud of our long tradition of integrity, honesty and respect.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "A talent-driven company is by definition a diverse and inclusive one. Though we aim to do better still, we're proud of the workplace we've created.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "JPMorgan Chase & Co. is the name of the holding company and the firm serves its customers and clients under its Chase and JPMorgan brands.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Sentences ADDED: Please update your browser.",
+  "analyst_notes": "No significant changes in values-related wording, but tone has shifted with the addition of a browser update reminder.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.5
+}

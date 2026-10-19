@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Valero subsidiaries employ approximately 10,000 people, and assets include 15 petroleum refineries with a combined throughput capacity of approximately 3 million barrels per day, 11 ethanol plants with a combined production capacity of 1.4 billion gallons per year, and a 50-megawatt wind farm.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Valero subsidiaries employ approximately 10,000 people, and assets include 15 petroleum refineries with a combined throughput capacity of approximately 3 million barrels per day, 11 ethanol plants with a combined production capacity of 1.4 billion gallons per year, and a 50-megawatt wind farm.",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Valero subsidiaries employ approximately 10,000 people, and assets include 15 petroleum refineries with a combined throughput capacity of approximately 3 million barrels per day, 11 ethanol plants with a combined production capacity of 1.4 billion gallons per year, and a 50-megawatt wind farm.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "Verify the number of employees and the specific capacities of Valero's assets.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.2
+}

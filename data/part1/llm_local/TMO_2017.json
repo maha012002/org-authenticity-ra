@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Devoted to Science and Finding Answers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics and increase laboratory productivity.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics and increase laboratory productivity.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics and increase laboratory productivity.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We help our customers accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics and increase laboratory productivity.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to enable our customers to make the world healthier, cleaner and safer.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The mission statement and customer focus remain unchanged, but the page now emphasizes the company's role in accelerating scientific research and improving diagnostics.",
+  "analyst_notes": "The company's revenue and employee count have increased, but no specific details about these changes are provided in the current page.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.2
+}

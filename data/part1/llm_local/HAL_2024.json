@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "values that achieve more",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Employees that form a talented, global team",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are leveraging our world-class technical expertise, resources, and versatile capabilities to lead the transition to a sustainable energy future.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Strengthening the economic and social well-being of the communities where we operate is among our most valued principles.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now emphasizes the company's commitment to sustainability and community impact, reflecting a shift in focus from previous years.",
+  "analyst_notes": "Researchers should verify the specific actions and initiatives the company has taken to achieve its sustainability goals and community impact objectives.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.1
+}

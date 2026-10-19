@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Advancing Diversity in Technology",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Experience Intel\u00c2\u00ae Innovation",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Intel is emphasizing its commitment to diversity and inclusion in technology, and its commitment to innovation.",
+  "analyst_notes": "The page now focuses more on Intel's diversity initiatives and innovation, which may reflect a shift in corporate priorities.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.9
+}

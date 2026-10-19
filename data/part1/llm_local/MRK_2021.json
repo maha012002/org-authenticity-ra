@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We demonstrate our commitment to patients and population health by increasing access to health care through far-reaching policies, programs and partnerships.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are pushing the boundaries in research where we can make the greatest difference, now and in the future.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are determined to find solutions for the most serious chronic health challenges, such as cardiovascular disease and diabetes.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are pushing the boundaries in research where we can make the greatest difference, now and in the future.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We believe corporate responsibility is about our health, social, environmental and economic impact on people and communities around the world.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The analyst should verify the accuracy of the 2020 research and development investment and philanthropy figures provided.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.1
+}

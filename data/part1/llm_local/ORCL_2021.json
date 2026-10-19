@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Oracle acquires Sun Microsystems, cementing its strategy to engineer hardware and software together. Becomes the steward of Java.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Oracle becomes a publicly traded company on the NASDAQ exchange.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Oracle is helping government agencies and the medical community better understand and combat the coronavirus.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now includes a mention of the company's efforts to combat the coronavirus, reflecting current societal concerns.",
+  "analyst_notes": "Researchers should verify the impact of Oracle's coronavirus-related initiatives and the company's stance on sustainability.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

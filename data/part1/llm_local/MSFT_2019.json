@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "When designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to empower every person and organization on the planet to achieve more.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "We\u00e2re moved and inspired by many things. Microsoft Story Labs features in-depth interviews, features, and stories with those that are on the forefront of innovation.",
+  "analyst_notes": "Ensure the new mission statement aligns with the company's previous values and purpose.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.5
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "staying connected with friends and family, to discover what's going on in the world, and to share and express what matters to them.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "The phrase \u201cthis journey is 1% finished\u201d is posted on our walls, reminding us that we\u2019ve only begun to fulfill our mission to bring the world closer together.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone remains consistent, but the emphasis on community and connection is reinforced with the phrase 'this journey is 1% finished'.",
+  "analyst_notes": "The company's mission and values remain unchanged, but the emphasis on community and connection is highlighted more explicitly.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.1
+}

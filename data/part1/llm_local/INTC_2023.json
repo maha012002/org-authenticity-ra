@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Intel\u2019s more than 121,000 employees are shaping the future with computing and connectivity technologies.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Inspired by Moore\u2019s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers\u2019 greatest challenges.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We create world-changing technology that improves the life of every person on the planet.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Intel\u2019s longstanding commitment to corporate responsibility and sustainability\u2014built on a strong foundation of transparency, governance, and ethics\u2014is deeply integrated throughout all aspects of our business.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Intel\u2019s longstanding commitment to corporate responsibility and sustainability\u2014built on a strong foundation of transparency, governance, and ethics\u2014is deeply integrated throughout all aspects of our business.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page focuses on Intel's technological advancements and customer-centric approach without significantly altering its core values messaging.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 10.6
+}

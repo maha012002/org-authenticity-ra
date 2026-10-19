@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "operating responsibly, executing with excellence, applying innovative technologies and capturing new opportunities for profitable growth.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "operating responsibly",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "operating responsibly, executing with excellence, applying innovative technologies and capturing new opportunities for profitable growth.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "applying innovative technologies and capturing new opportunities for profitable growth.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "operating responsibly, executing with excellence, applying innovative technologies and capturing new opportunities for profitable growth.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "operating responsibly, executing with excellence, applying innovative technologies and capturing new opportunities for profitable growth.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our board of directors and corporate officers are committed to getting results the right way.",
+  "analyst_notes": "The board's commitment to getting results the right way has been restated, indicating a potential shift in emphasis on leadership and accountability.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.9
+}

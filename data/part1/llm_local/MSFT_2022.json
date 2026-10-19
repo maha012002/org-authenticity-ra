@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainability By the Numbers",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Microsoft AI",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Updated the 'Sustainability By the Numbers' section to reflect Microsoft's commitment to carbon negativity by 2030.",
+  "analyst_notes": "Ensure the accuracy of Microsoft's sustainability goals and initiatives as they relate to carbon negativity by 2030.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

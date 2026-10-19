@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We build bridges between companies and customers.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We innovate together.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Everyone deserves equal opportunities.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "What brings us together guides us forward.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.",
+  "analyst_notes": "The analyst should verify the specific initiatives and programs Salesforce has implemented to support stakeholder capitalism.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.0
+}

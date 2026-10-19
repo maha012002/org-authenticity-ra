@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone is more focused on the company's history and current role in the industry, with less emphasis on the future direction and innovation.",
+  "analyst_notes": "The page has been updated to reflect the company's current global operations and production figures, but the core values and mission remain unchanged.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

@@ -1,0 +1,58 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We Respect People",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We Stand for Inclusion",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We Support Our Communities",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "We Deliver an unparalleled standard of excellence in everything we do",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We Back Our Customers",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We Deliver an unparalleled standard of excellence in everything we do",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We Win As a Team",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Mission",
+      "salience": 3
+    },
+    {
+      "code": "integrity",
+      "evidence": "We Do What\u2019s Right",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted to emphasize the company's commitment to excellence and inclusivity, with a focus on the importance of trust and respect.",
+  "analyst_notes": "The analyst should verify if the company's commitment to diversity and inclusion has been consistently reinforced and if the tone of the page has remained consistent with previous years.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.5
+}

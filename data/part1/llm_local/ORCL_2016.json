@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "420,000+ Customers worldwide",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "US$38.2B FY15 GAAP revenue",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "130,000+ Employees around the globe",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The page emphasizes financial performance and global reach over specific values.",
+  "analyst_notes": "Verify the accuracy of the number of employees and the revenue figures.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.7
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Intel is at the forefront of developing new semiconductor technologies, products, and solutions as building blocks for an increasingly smart and connected world across a broad spectrum of markets.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Purpose: We create world-changing technology that improves the life of every person on the planet.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The analyst should verify the specific commitments and initiatives related to health and safety and the company's commitment to innovation and its mission.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 9.0
+}

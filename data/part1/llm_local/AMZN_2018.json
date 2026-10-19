@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Invent and Simplify, Learn and Be Curious, Hire and Develop the Best, Insist on the Highest Standards, Think Big, Bias for Action, Frugality.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Hire and Develop the Best, Earn Trust.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Deliver Results.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Frugality.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Earn Trust.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis on specific leadership principles have been refined and reinforced, with a focus on the importance of delivering high quality products and services.",
+  "analyst_notes": "The analyst should verify if the Leadership Principles have been updated or if the changes are merely reworded.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.9
+}

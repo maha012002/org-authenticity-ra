@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language around innovation and customer focus has been reinforced, while environmental sustainability is mentioned for the first time.",
+  "analyst_notes": "The company's explicit purpose/mission statements have not changed, but the emphasis on innovation and customer focus has increased.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.8
+}

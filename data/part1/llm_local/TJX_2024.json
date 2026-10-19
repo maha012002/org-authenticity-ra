@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We do this by offering a rapidly changing assortment of quality, fashionable, brand name, and designer merchandise at prices generally 20% to 60% below full-price retailers\u2019 (including department, specialty, and major online retailers) regular prices on comparable merchandise, every day.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis have shifted slightly towards describing the flexibility and adaptability of the business model, while still maintaining the focus on customer value and innovation.",
+  "analyst_notes": "Double-check the specific changes in the number of stores and the geographical expansion mentioned in the updated text.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.8
+}

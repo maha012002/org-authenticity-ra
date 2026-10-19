@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We live in an increasingly complex world. Companies these days are either born global or are going global at record speed. Business and geopolitics are forging an entirely new dynamic and consumers now expect financial services to be a seamless part of their digital lives.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Citi is a bank that\u2019s uniquely positioned for this moment. Through our vast global network and our on-the-ground expertise, we can connect the dots, anticipate change and empathize the needs of our clients and customers in ways that other banks simply cannot.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We believe in playing a leading role in solving increasingly interconnected societal challenges.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We believe in playing a leading role in solving increasingly interconnected societal challenges.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "While the mission statement remains unchanged, the text now includes more context about the current business environment and Citi's unique positioning.",
+  "analyst_notes": "The analyst should verify the accuracy of the financial figures provided for the global network and client base.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}

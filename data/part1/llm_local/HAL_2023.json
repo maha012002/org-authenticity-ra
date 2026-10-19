@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Ethics and integrity are the foundation of our brand and the guiding principles for all we do.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We work together with customers and understand that everyone has a role in providing the best solution.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are resourceful. We are innovative and strive to apply the right technology and solution every time.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We value diversity and equality. It makes us stronger, more innovative, and better positioned for success.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Continuous improvement is built into all facets of our business, from R&D, to team building, delivering sustainable solutions, and meeting the needs of our customers, shareholders, and global communities.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Enhancing the economic and social well-being of the communities where we live and operate is among our most enduring principles.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our values guide us in everything we do, underpinning how we relate to each other and everyone with whom we interact.",
+  "analyst_notes": "Verify the accuracy of the 2020 OTC Winner selection for Xaminer\u00ae Magnetic Resonance (XMR\u2122) service.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.9
+}

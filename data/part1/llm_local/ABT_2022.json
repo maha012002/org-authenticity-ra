@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "LIFE-CHANGING TECHNOLOGY",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "LIFE-CHANGING TECHNOLOGY",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language has remained consistent in emphasizing the company's commitment to improving people's lives through technology and care.",
+  "analyst_notes": "The page's content has not changed significantly from 2021, maintaining Abbott's core values and mission statement.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page's values remain consistent with the 2019 version, with some minor rephrasing and additional context.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives mentioned under each value to ensure they align with the company's stated commitment.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.7
+}

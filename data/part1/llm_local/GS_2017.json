@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis on diversity and inclusion have been maintained, while the focus on awards and recognition has been reduced.",
+  "analyst_notes": "Verify the specific awards and categories mentioned in the current year's page.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.7
+}

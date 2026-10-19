@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We're passionate about our work and intensely focused on performing at the highest levels. To get there, we strive to out-think and out-work competitors and find the best balance of risk and return across all investment styles on behalf of our clients.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We\u2019ve created world-class capabilities around our clients\u2019 greatest needs, with a comprehensive range of products and services across asset classes, geographies and investment strategies.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Responsibility is at the heart of our business\u2014responsibility to our clients and by extension to the communities in which we live and work.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone has remained focused on client-centric service and corporate responsibility, with no significant shift in emphasis.",
+  "analyst_notes": "The company's commitment to transparency and responsible investment has been consistent over the years.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

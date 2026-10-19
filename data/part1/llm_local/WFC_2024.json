@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Find out why Wells Fargo is a top U.S. employer.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Responsible Lending",
+      "salience": 2
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now focuses more on the company's commitment to responsible lending and environmental stewardship.",
+  "analyst_notes": "No significant changes in values or mission statements were made, but the emphasis on environmental responsibility is notable.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

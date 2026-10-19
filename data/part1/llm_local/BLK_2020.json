@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now explicitly states the company's purpose and mission, and emphasizes its commitment to sustainability and social responsibility.",
+  "analyst_notes": "Researchers should verify the specific actions and initiatives BlackRock has taken to achieve its stated sustainability goals.",
+  "n_unverified_dropped": 8,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.0
+}

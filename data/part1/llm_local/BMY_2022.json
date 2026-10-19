@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We are a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We believe that their diverse experiences and perspectives help to bring out our best ideas, drive innovation and achieve transformative business results.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We combine the agility of a biotech with the reach and resources of an established pharmaceutical company to create a global leading biopharma company powered by talented individuals who drive scientific innovation.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We work together for patients \u2013 patients are at the center of everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We work every day to transform patients\u2019 lives through science.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We conduct our global business with the utmost integrity and transparency.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We support programs, initiatives and organizations that help improve health, expand research opportunities, promote and expand STEM education and deliver basic human services to our communities.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We are dedicated to helping patients prevail over serious diseases through our diverse and promising pipeline and new scientific platforms.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our shared values are central to who we are, what we do and how we do it. Passion, innovation, urgency, accountability, inclusion and integrity ground our work and unite our community.",
+  "analyst_notes": "The tone and emphasis on shared values and patient-centric focus have been maintained.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.3
+}

@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity and Transparency Building Trust",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Gene Therapy Breakthroughs become treatments, Medicinal Sciences The next generation of science, Precision Medicine Developing tailored medicines, mRNA Technology Unleashing the next wave of scientific innovations",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Diversity, equity, inclusion, belonging, representation",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Community investment, philanthropy, social responsibility, societal purpose",
+      "salience": 3
+    },
+    {
+      "code": "safety",
+      "evidence": "Workplace/product/patient safety, health and safety culture",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "No significant changes in values-related language or emphasis.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 10.3
+}

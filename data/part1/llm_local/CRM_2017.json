@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have shifted towards a more customer-centric and innovative focus, with a stronger emphasis on values and sustainability.",
+  "analyst_notes": "The analyst should verify the specific innovations and customer success stories highlighted in the current year's page.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.6
+}

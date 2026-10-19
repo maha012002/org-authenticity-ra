@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u2014 our customers, employees, partners, communities, the planet, and society as a whole. And we lead by example, spearheading initiatives in philanthropy, racial equality and justice, climate action and advocacy, and the ethical and humane use of technology.",
+  "analyst_notes": "Ensure the 1-1-1 model and Pledge 1% movement are accurately represented in the updated values statement.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.3
+}

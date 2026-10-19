@@ -1,0 +1,63 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are delivering on our purpose to help make financial lives better through our focus on responsible growth.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our commitment to responsible growth is resolute, and has four tenets.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We have to grow \u2014 no excuses.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We have to grow within our risk framework.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "And, our growth must be sustainable, which has three elements: driving operational excellence, being a great place to work for our teammates and sharing our success with our communities.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "And, our growth must be sustainable, which has three elements: driving operational excellence, being a great place to work for our teammates and sharing our success with our communities.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our company, what would you like the power to do?",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We have to grow \u2014 no excuses.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We have to grow within our risk framework.",
+      "salience": 2
+    },
+    {
+      "code": "integrity",
+      "evidence": "We have to grow \u2014 no excuses.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone is more focused on the company's purpose and the need for responsible growth, with a stronger emphasis on the company's mission and the need for growth within a risk framework.",
+  "analyst_notes": "The analyst should verify the specific elements of responsible growth and the company's commitment to them.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.3
+}

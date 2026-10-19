@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "\u201cPut the client first.\u201d",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Innovation that matters \u00e2 for our company and for the world",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Trust and personal responsibility in all relationships",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now explicitly states the company\u2019s dedication to client success and innovation, replacing previous mentions with new, more direct statements.",
+  "analyst_notes": "Ensure the IBM Fellows list includes the most recent additions and that the company\u2019s commitment to diversity and inclusion is still prominently featured.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 8.7
+}

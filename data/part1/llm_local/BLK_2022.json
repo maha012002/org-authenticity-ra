@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We help millions of people invest to build savings that serve them throughout their lives. We make investing easier and more affordable. We advance sustainable investing. And we contribute to a more inclusive and resilient economy that benefits more people.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are challenging ourselves and the industry by asking big questions. Like how can we contribute to an effective transition to a net zero economy? How can we bring the voices of individual shareholders to the companies they invest in? And how can we help more people benefit from the long-term growth of capital markets?",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are one of the world\u2019s leading providers of investment, advisory and risk management solutions. We are a fiduciary to our clients. We\u2019re investing for the future on behalf of our clients, inspiring our employees, and supporting our local communities.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to help more and more people experience financial well-being. Together with our clients, we\u2019re contributing to a more equitable and resilient world \u2013 today and for generations to come.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone is more focused on the company's impact on society and the challenges it faces, while still maintaining its commitment to innovation and collaboration.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives related to the company's commitment to sustainability and diversity and inclusion.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.6
+}

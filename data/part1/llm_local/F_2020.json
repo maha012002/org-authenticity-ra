@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We are once again working to revolutionize mobility, fueled by new challenges and creating solutions to build a better world for everyone.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are proud of our contributions \u2013 yesterday, today and tomorrow.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are proud of our contributions \u2013 yesterday, today and tomorrow.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are once again working to revolutionize mobility, fueled by new challenges and creating solutions to build a better world for everyone.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are proud of our contributions \u2013 yesterday, today and tomorrow.",
+      "salience": 2
+    },
+    {
+      "code": "customer",
+      "evidence": "We are proud of our contributions \u2013 yesterday, today and tomorrow.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "We are proud of our contributions \u2013 yesterday, today and tomorrow.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We are proud of our contributions \u2013 yesterday, today and tomorrow.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted to emphasize the company's commitment to making a positive impact on the world and its communities, while maintaining the same core values.",
+  "analyst_notes": "The analyst should verify the specific contributions mentioned in the 'contributions' context, as they are not detailed in the provided text.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.9
+}

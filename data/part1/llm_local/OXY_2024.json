@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We are busy developing the big ideas and broad solutions we will need to achieve net zero.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing our carbon footprint and helping others do the same.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We dare to do what others won't. We will lead the industry by reaching for the impossible, then achieving it.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Our experienced teams, located in the United States, Middle East and Africa, are committed to safe and efficient operations and products, and to reducing our carbon footprint and helping others do the same.",
+  "analyst_notes": "The analyst should verify the specific actions and commitments related to reducing carbon footprint and promoting sustainability.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have shifted towards more detailed descriptions of the company's values and services, with a stronger focus on innovation and customer focus.",
+  "analyst_notes": "Double-check the specific focus areas and metrics for the company's commitment to diversity and inclusion.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.0
+}

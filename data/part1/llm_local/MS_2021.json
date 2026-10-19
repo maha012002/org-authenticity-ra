@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Reducing our Carbon Footprint",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We know a diverse workforce and an inclusive culture matters to our clients.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We support the diverse communities where our employees live and work.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the importance of sustainability, diversity, and community impact, reflecting a continued focus on these values.",
+  "analyst_notes": "The page's content remains consistent with previous years, focusing on Morgan Stanley's commitment to sustainability, diversity, and community engagement.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.2
+}

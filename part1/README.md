@@ -11,10 +11,46 @@ language (Part 2).
    (2016–2024), closest to July 1, preferring HTTP 200 HTML.
 2. **`extract_text.py`** — Strip navigation, chrome, cookie banners, and the Wayback
    toolbar. Primary extractor: trafilatura; BeautifulSoup fallback for thin/JS pages.
-3. **`code_themes.py`** — (a) Deterministic change detection (archive digest + text
-   similarity; `url_changed` if the seed URL moved). (b) Dictionary coding of themes
-   against `config/theme_codebook.json`, with a short evidence snippet per theme.
-4. **`build_dataset.py`** — One row per company-year (all 450), including gaps.
+3. **`code_themes.py`** — Deterministic change detection (archive digest + text similarity;
+   `url_changed` if the seed URL moved) **and** a transparent **keyword baseline** over the
+   12-theme codebook (cue → evidence snippet → salience 1–3).
+4. **`analyze_llm.py`** — Local open-weight LLM (Qwen 2.5 3B via Ollama) judges values
+   change, codes themes with quoted evidence (schema-constrained JSON; unverified quotes
+   dropped), and notes linguistic shifts. Cached under `data/part1/llm_local/`.
+5. **`build_dataset.py`** — One row per company-year (all 450), including gaps. LLM columns
+   are merged after the LLM pass.
+
+## Why a local LLM *and* a keyword baseline
+I wanted a coder that can catch paraphrase (“we exist to…” ≈ purpose/mission) without
+paying for a commercial API. A small local model (Qwen 2.5 via Ollama) does that on my
+laptop, with temperature 0, a fixed seed, and JSON schema so invented codebook codes are
+impossible. The keyword dictionary stays as the **transparent baseline**: every cue is
+auditable, Part 2 uses the same instrument for lived values, and Part 3’s authenticity
+index therefore compares like with like. Agreement between the two methods
+(`data/part1/llm_vs_lexicon_agreement.json`) is the validity check on the LLM pass—not a
+replacement for hand review.
+
+## LLM vs keyword agreement (this run)
+From `llm_vs_lexicon_agreement.json` after coding 416 usable pages (10 identical digests
+reused):
+
+| Metric | Value |
+| --- | ---: |
+| Mean Cohen’s κ across themes | **0.23** |
+| Themes dropped for unverified evidence | 723 |
+| Zero-theme pages (LLM / lexicon) | 90 / 29 |
+
+Highest κ: purpose_mission (0.45), integrity (0.35), environment_sustainability (0.32).  
+Lowest κ: shareholder_value (0.07), collaboration (0.10), performance_execution (0.11).  
+Fair-to-slight agreement overall is expected: the lexicon over-fires on boilerplate words
+(e.g. “performance,” “diversity”), while the LLM is stricter and drops themes whose
+quoted evidence is not found on the page.
+
+## Hand-check (~20 pages)
+I sampled 20 LLM-coded snapshots (`data/part1/handcheck_20.json`). Across 78 themes the
+model kept, **68/78 (87%)** had evidence substrings that appear in the cleaned page text;
+10 did not (paraphrase slips past the substring check, or short pages). One sampled page
+had zero themes. Weak seeds (e.g. Apple careers) still need human judgment on `page_type`.
 
 ## Page-identification criteria
 - A page qualifies if it is the company’s own statement of who it is / what it values:
@@ -22,39 +58,20 @@ language (Part 2).
 - Candidates are tried in priority order each year; the first clean archive wins so the
   series can follow redesigns. `url_changed` marks a URL switch so a redesign is not
   automatically treated as a values rewrite.
-- Rule-based `page_type` marks weak pages (`not_usable` if extracted text &lt; 300 chars;
-  `values_or_mission` vs `general_about` from cue words). Rows with careers/homepage
-  seeds need hand review.
-- **Seed notes after the run:** Apple later years can land on `apple.com/careers` (weak
-  for stated values). J&amp;J correctly follows Credo URL moves
-  (`about-jnj` → `credo` → `our-credo`).
+- **Seed notes:** Apple later years can land on `apple.com/careers` (weak for stated
+  values). J&J correctly follows Credo URL moves (`about-jnj` → `credo` → `our-credo`).
 
 ## Missing snapshots and redirects
 - Prefer HTTP 200 + HTML closest to July 1.
 - If only redirects exist that year, follow the chain inside the archive (max 5 hops,
   must stay on web.archive.org) → status `redirect_followed`.
-- Otherwise `missing`. No borrowing from neighbouring years. Change detection only
-  compares consecutive years that both exist.
+- Otherwise `missing`. No borrowing from neighbouring years.
 
 ## Theme categories
-Codebook: `config/theme_codebook.json` (12 codes).
-
-| Group | Codes | Anchor |
-| --- | --- | --- |
-| Classic culture | integrity, customer, innovation, collaboration, respect_people, performance_execution | Guiso et al. (2015); MIT SMR Culture 500 |
-| ESG-era / comparison | diversity_inclusion, environment_sustainability, community_social_impact, safety, shareholder_value, purpose_mission | Needed so Parts 1 and 2 share one vocabulary |
-
-Kept all 12 after reading MSFT/JNJ and spot-checking others. Did not merge DEI into
-“respect” — that would hide a distinct ESG-era signal.
-
-## Coding method (dictionary)
-For each cleaned About page, scan for conservative keyword cues per code (see
-`LEXICON` in `code_themes.py`). If any cue hits, assign the theme with:
-- **evidence** = short snippet around the first cue  
-- **salience** = 1–3 from how often cues appear  
-
-This is transparent and reproducible. It can miss paraphrases and can over-match
-boilerplate; that tradeoff is intentional for a scalable POC.
+Codebook: `config/theme_codebook.json` (12 codes). Classic culture codes follow Guiso et
+al. (2015) / MIT SMR Culture 500; ESG-era codes (DEI, environment, community, safety,
+shareholder, purpose) exist so Parts 1–3 share one vocabulary. Kept all 12 after reading
+MSFT/JNJ and spot-checking others.
 
 ## Assumptions
 - Mid-year (July 1) is a neutral sampling date within each calendar year.
@@ -64,9 +81,10 @@ boilerplate; that tradeoff is intentional for a scalable POC.
 ## Known limitations
 - Archive coverage is uneven; JS-rendered pages may archive as empty shells.
 - One snapshot per year can miss a mid-year rewrite and back.
-- Dictionary coding is keyword-based (precision over recall).
-- Weak seeds (e.g. Apple careers) should be fixed before scaling to all 500 firms.
+- Small local models still invent or paraphrase quotes; the verifier drops many of them
+  (723 drops this run), which can leave thin theme sets.
+- Keyword baseline over-matches boilerplate; LLM under-matches some clear cues.
 
 ## With more time
-Fix weak seeds; hand-validate ~20 rows against the codebook; parse more About URL
-variants; extend `companies.csv` / seeds to the full S&P 500.
+Fix weak seeds (Apple careers); expand the hand-check beyond 20 pages; try a larger local
+model (e.g. qwen2.5:7b) if GPU memory allows; extend seeds to all S&P 500.

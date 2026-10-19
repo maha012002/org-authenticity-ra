@@ -1,0 +1,73 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Marathon Petroleum's marketing system includes branded locations across the United States, including Marathon branded outlets.",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "In practice, the concept of creating shared value involves assessing all the potential ways that our actions impact others both inside and outside our operational fence lines.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "MPC is guided by a strategic, passionate team devoted to employees, shareholders and consumers.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "MPC is guided by a strategic, passionate team devoted to employees, shareholders and consumers.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "MPC is guided by a strategic, passionate team devoted to employees, shareholders and consumers.",
+      "salience": 1
+    },
+    {
+      "code": "safety",
+      "evidence": "MPC has long-established core values associated with safety and environmental stewardship, integrity, respect, inclusion, and collaboration.",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "MPC is guided by a strategic, passionate team devoted to employees, shareholders and consumers.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "MPC is guided by a strategic, passionate team devoted to employees, shareholders and consumers.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now explicitly outlines the concept of 'creating shared value' and its importance to the company, reflecting a more detailed and strategic approach to its core values.",
+  "analyst_notes": "Researchers should verify the specific actions and initiatives the company has taken to align with its stated values of 'creating shared value'.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.6
+}

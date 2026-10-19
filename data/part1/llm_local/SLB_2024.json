@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Ethics and Compliance SLB\u2019s Board of Directors oversees our processes for maintaining integrity with regard to SLB\u2019s financial statements, internal controls, public disclosures, and compliance with laws and ethics.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are facing the world\u2019s greatest balancing act\u2014how to simultaneously reduce emissions while meeting the world\u2019s growing energy demands.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "For the past century, SLB has continuously set the benchmark for innovation, proven by our long-held and continuing track record of solutions, industry firsts, and new industry standards.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "These talented people are the core that drives our purpose and integrity, which fuels our belief that everyone should have the opportunity to reach their greatest potential.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "Indeed, our diversity makes us stronger.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are SLB, a global technology company driving energy innovation for a balanced planet.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are facing the world\u2019s greatest balancing act\u2014how to simultaneously reduce emissions while meeting the world\u2019s growing energy demands.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are SLB, a global technology company driving energy innovation for a balanced planet.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page maintains the same core values and messaging from the previous year, with some rephrasing and additional context.",
+  "analyst_notes": "The analyst should verify the specific actions and commitments related to each value, such as the Ethics and Compliance program and the commitment to safety and security.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.2
+}

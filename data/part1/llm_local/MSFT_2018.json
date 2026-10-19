@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Innovating from the ocean floor module We\u00e2re supporting more than 1,000 researchers at Microsoft labs around the world to achieve scientific breakthroughs.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We believe technology is a force for social and economic inclusion, and we\u00e2re working to ensure that everyone has access to the opportunities it creates.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Our goals are to minimize the impact of our operations and products, and to foster responsible environmental leadership.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to empower every person and every organization on the planet to achieve more.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "We believe technology is a force for social and economic inclusion, and we\u00e2re working to ensure that everyone has access to the opportunities it creates.",
+  "analyst_notes": "The page now includes specific commitments to technology inclusion and sustainability, which were not present in the 2017 version.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.9
+}

@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page tone remains consistent, but the number of countries of operations is updated from 17 to 15.",
+  "analyst_notes": "The number of employees has increased from 10,400 to 10,300, which may indicate a slight reduction in workforce.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.8
+}

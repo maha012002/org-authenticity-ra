@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We unlock potential by reaching for the impossible and achieving it.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "reducing our carbon footprint and helping others do the same.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "We dare to do what others won't. We will lead the industry by reaching for the impossible, then achieving it.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We produce energy and essential products to sustain and improve life on our planet.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our experienced teams, located in the United States, Middle East, Africa and Latin America, are committed to safe and efficient operations and products, and to reducing our carbon footprint and helping others do the same.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are busy developing the big ideas and broad solutions we will need to achieve net zero. Every day, we get closer. And we won\u2019t stop until we\u2019re there.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We produce energy and essential products to sustain and improve life on our planet.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are busy developing the big ideas and broad solutions we will need to achieve net zero. Every day, we get closer. And we won\u2019t stop until we\u2019re there.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone has shifted from a focus on the company's history and current operations to a more forward-looking and ambitious vision for the future, emphasizing the company's commitment to innovation and sustainability.",
+  "analyst_notes": "The analyst should verify the company's progress towards its stated goals and the specific technologies or solutions it is developing for a low-carbon future.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.3
+}

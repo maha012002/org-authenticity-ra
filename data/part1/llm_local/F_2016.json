@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "sustainability strategy goes beyond reducing CO\u2082 emissions",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovation is at the core of our company",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "people serving people",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have shifted towards a more comprehensive and positive outlook on sustainability, innovation, and the company's commitment to its people.",
+  "analyst_notes": "The analyst should verify the specific actions and goals related to sustainability and innovation mentioned in the 2016 report.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.7
+}

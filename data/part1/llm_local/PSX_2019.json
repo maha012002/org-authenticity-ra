@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We are committed to safety, reliability and environmental stewardship while protecting shareholder value",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "From the laboratory to pilot plants, in-house research and development at Phillips 66 drives new ideas toward commercialization",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our employees, suppliers, and partners share this vision to provide energy in ways that improve lives",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented people making responsible choices to adapt and explore the opportunities the changing market brings",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are committed to safety, reliability and environmental stewardship while protecting shareholder value",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Our company\u2019s name Phillips 66 reflects our rich history, strong brand recognition and value from being one of the leading fuel brand names in the United States for more than 140 years",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "By maintaining strong operating excellence, we are committed to safety, reliability and environmental stewardship while protecting shareholder value",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our vision is to provide energy and improve lives, and we back that up with core company values of safety, honor and commitment",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The analyst notes that no significant changes were made to the values expressed in the 2019 page compared to the 2018 page.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 13.8
+}

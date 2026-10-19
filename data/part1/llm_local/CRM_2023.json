@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We\u00e2re Salesforce, the Customer Company. You could say we've always been the customer company. From the day we opened our doors, focus on our customers drove our every decision. It fueled our growth and powered our customers' success. We develop the technology, the partnerships, and the communities that help companies connect with customers. So that every company can become a customer company.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We innovate together. We lead boldly to address the climate emergency.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Equality Everyone deserves equal opportunities. Sustainability We lead boldly to address the climate emergency.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We lead boldly to address the climate emergency.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "VALUES IN ACTION We believe business is the greatest platform for change. We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "VALUES IN ACTION We believe business is the greatest platform for change. We are passionate proponents of stakeholder capitalism, committed to doing well by all our stakeholders \u00e2 our customers, employees, partners, communities, the planet, and society as a whole.",
+  "analyst_notes": "Double-check the specific language used for the company's values and how they are framed in 2023 compared to 2022.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.7
+}

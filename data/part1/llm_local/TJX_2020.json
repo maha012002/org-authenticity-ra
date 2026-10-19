@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We do this by offering an ever-changing assortment of quality, fashionable, brand name, and designer merchandise at prices generally 20% to 60% below full-price retailers\u2019 (including department, specialty, and major online retailers) regular prices on comparable merchandise, every day.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Historically, our strong financial returns and cash generation allowed us to simultaneously invest in the growth of the business and return cash to shareholders.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We believe that we operate one of the most flexible business models in the world. Our stores have no walls between departments, which enables us to expand and contract merchandise categories to respond to market trends and changing customer preferences.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Historically, our flexible business model, decades of off-price experience, and global sourcing and buying power have been major advantages.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We believe that these characteristics of our business will continue to be our winning retail formula in the future.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "A researcher should verify the accuracy of the financial figures and the specific advantages attributed to the business model.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}

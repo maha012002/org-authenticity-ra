@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We create world-changing technology that improves the life of every person on the planet.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We believe that data is dramatically shaping the future of all humankind. Intel is working relentlessly to unleash the potential of data, leading to more capable and efficient networks, and pervasive AI across smart devices.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our values\u2014Customer First, Fearless Innovation, Results Driven, One Intel, Inclusion, Quality and Integrity\u2014guide how we make decisions, treat each other, serve our customers to achieve their goals and shape technology as a force for good.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are applying our reach, scale, and resources to deliver on bold goals. And we\u2019re not doing it alone: we work with our customers and galvanize the industry for even greater impact.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are applying our reach, scale, and resources to deliver on bold goals. And we\u2019re not doing it alone: we work with our customers and galvanize the industry for even greater impact.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to create technology that enriches the lives of every person on earth.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Our values\u2014Customer First, Fearless Innovation, Results Driven, One Intel, Inclusion, Quality and Integrity\u2014guide how we make decisions, treat each other, serve our customers to achieve their goals and shape technology as a force for good.",
+  "analyst_notes": "Verify the impact of Intel's global impact initiatives and the specific goals outlined in the 2030 strategy.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.7
+}

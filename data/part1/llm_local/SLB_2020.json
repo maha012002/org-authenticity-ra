@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "The future of oil and gas is digital.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Join us at our three-day Schlumberger Online Conference beginning June 29.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our story begins with what it truly means to be a technology innovator.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We supply the industry\u2019s most comprehensive range of products and services, from exploration through production, and integrated pore-to-pipeline solutions that optimize hydrocarbon recovery to deliver reservoir performance sustainably.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We supply the industry\u2019s most comprehensive range of products and services, from exploration through production, and integrated pore-to-pipeline solutions that optimize hydrocarbon recovery to deliver reservoir performance sustainably.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We supply the industry\u2019s most comprehensive range of products and services, from exploration through production, and integrated pore-to-pipeline solutions that optimize hydrocarbon recovery to deliver reservoir performance sustainably.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The page now emphasizes the digital future of oil and gas and the company's role in the industry, shifting from a focus on Schlumberger's history and products to a forward-looking statement about the company's role in the industry's future.",
+  "analyst_notes": "The analyst should verify the company's commitment to sustainability and the specific nature of their solutions to optimize hydrocarbon recovery.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}

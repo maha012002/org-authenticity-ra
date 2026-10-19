@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "\"Health for All\u201d is at the core of our company\u2019s purpose.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We stand with these scientists who work tirelessly in their pursuit of treatments that save and extend lives.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We advance breakthroughs that change patients\u2019 lives by ensuring they have access to quality healthcare services and Pfizer\u2019s medicines and vaccines.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone has shifted to emphasize the company's commitment to advancing medical care and improving patient outcomes, with a focus on the work of scientists and the elimination of Trachoma.",
+  "analyst_notes": "The analyst should verify the specific programs and initiatives mentioned in the purpose and commitment to Trachoma elimination.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.6
+}

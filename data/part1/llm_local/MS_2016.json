@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Caring for Children",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "develops TAPS \u2013 the first automated trade processing system",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "launching the Investing with Impact platform and the Morgan Stanley Institute for Sustainable Investing",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have shifted towards sustainability and community impact initiatives.",
+  "analyst_notes": "The analyst should verify the specific contributions and partnerships formed during the decade.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

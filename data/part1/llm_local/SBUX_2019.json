@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Acting with courage, challenging the status quo and finding new ways to grow our company and each other.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone is more aspirational, emphasizing the company's role in nurturing the human spirit.",
+  "analyst_notes": "The mission statement has been updated, but the core values remain unchanged.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.1
+}

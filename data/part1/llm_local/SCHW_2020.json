@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are champions of investors and those who serve them.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We're confident our approach can help people take ownership of their financial futures.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We always try to look at the world through our clients' eyes.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is to champion every client's goals with passion and integrity.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Verify the accuracy of the company's total assets and the specific dates for the financial metrics provided.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 9.0
+}

@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "Our values & standards are set forth in Merck's Code of Conduct.",
+  "analyst_notes": "Double-check the changes in 2019, particularly the addition of new values and the emphasis on the Code of Conduct.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.0
+}

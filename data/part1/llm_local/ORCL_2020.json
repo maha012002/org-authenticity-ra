@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "CEO Larry Ellison introduces a product strategy for delivering Oracle software via the internet.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Oracle becomes a publicly traded company on the NASDAQ exchange.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now includes more historical context and less emphasis on current products and services.",
+  "analyst_notes": "The analyst should verify the accuracy of the historical information provided.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.5
+}

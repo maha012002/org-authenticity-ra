@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "\"Whether they are improving life for patients, protecting our global climate or keeping people safe, our customers look to Thermo Fisher Scientific for innovative solutions.\"",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "\"Our genomic solutions are trusted to address a variety of basic, commercial and clinical research applications in fields such as cancer diagnostics, human identification testing and animal health, as well as inherited and infectious disease.\"",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "\"The Fisher Scientific channel offers customers convenient access to a complete portfolio of laboratory equipment, chemicals, supplies and services used in scientific research, healthcare, safety, and education markets.\"",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "\"Whether they are improving life for patients, protecting our global climate or keeping people safe, our customers look to Thermo Fisher Scientific for innovative solutions.\" - This sentence emphasizes the company's commitment to its customers and the impact of its solutions, shifting the focus from product offerings to customer impact.",
+  "analyst_notes": "The analyst should verify the specific applications and research areas covered by Thermo Fisher's genomic solutions.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.6
+}

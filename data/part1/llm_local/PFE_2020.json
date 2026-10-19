@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose is grounded in our commitment to fund programs that provide public benefit, advance medical care and improve patient outcomes.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We stand with these scientists who work tirelessly in their pursuit of treatments that save and extend lives.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We stand with these scientists who work tirelessly in their pursuit of treatments that save and extend lives.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Trachoma is an infectious eye disease that causes great pain, corneal ulcers and irreversible blindness. We're focusing on eliminating it by 2020.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The page now includes a focus on reducing healthcare disparities in Latino communities, and mentions the founding of the organization by a breast cancer survivor.",
+  "analyst_notes": "The analyst should verify the specific focus on reducing healthcare disparities and the founding story of the organization.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.3
+}

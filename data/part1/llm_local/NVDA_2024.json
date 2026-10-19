@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "NVIDIA is the Engine of AI. NVIDIA engineers the most advanced chips, systems, and software for the AI factories of the future.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Accelerated computing and AI have fully arrived. The acceleration of deep learning ignited the Big Bang of AI. Now, generative AI is a new computing platform, like the PC, internet, and mobile-cloud.",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "NVIDIA is the Engine of AI. NVIDIA engineers the most advanced chips, systems, and software for the AI factories of the future.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Accelerated computing and AI have fully arrived. The acceleration of deep learning ignited the Big Bang of AI. Now, generative AI is a new computing platform, like the PC, internet, and mobile-cloud.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "NVIDIA is the Engine of AI. NVIDIA engineers the most advanced chips, systems, and software for the AI factories of the future.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis have shifted towards highlighting NVIDIA's role as the engine of AI and its contributions to various industries and the metaverse.",
+  "analyst_notes": "The analyst should verify the accuracy of the claims about the impact of NVIDIA's work on the metaverse and the number of companies using the NVIDIA AI platform.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.2
+}

@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "As energy powers society's progress, our innovations accelerate this progress.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are the world\u2019s leading provider of technology for reservoir characterization, drilling, production, and processing to a global energy industry.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "It takes a combination of engineering disciplines, along with computer science, geophysics, and metallurgy.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are the world\u2019s leading provider of technology for reservoir characterization, drilling, production, and processing to a global energy industry.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our story begins with what it truly means to be a technology innovator.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page has been updated to emphasize the company's role in accelerating energy progress and its commitment to social and environmental stewardship.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.7
+}

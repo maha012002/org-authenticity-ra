@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "producing oil and natural gas and getting them to market",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "innovative, collaborative efforts yield products that improve quality of life globally",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "producing oil and natural gas and getting them to market takes ingenuity, technology and investment",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "producing oil and natural gas and getting them to market takes ingenuity, technology and investment",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our technical capabilities, asset quality and scale, and financial strength are unmatched among independent exploration and production companies and uniquely position us to compete around the world.",
+  "analyst_notes": "The company's focus on innovation and collaboration is highlighted, but the mention of environmental sustainability is brief and not repeated from the 2017 version.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.0
+}

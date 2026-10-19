@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Our global network allows us to move the equivalent of Germany\u2019s GDP each day across borders, currencies and asset classes.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We believe in playing a leading role in solving increasingly interconnected societal challenges.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We have set expectations for how we must act to bring our mission to life.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We believe in playing a leading role in solving increasingly interconnected societal challenges.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Our mission statement and our commitment to ESG have been highlighted, emphasizing our role in societal challenges and our commitment to sustainability.",
+  "analyst_notes": "The mission statement has been restated to include a focus on societal challenges, which may indicate a shift in emphasis from previous years.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.7
+}

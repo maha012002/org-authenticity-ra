@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now emphasizes the company's purpose and mission, and includes a focus on environmental sustainability.",
+  "analyst_notes": "Double-check the company's recent sustainability reports and any new mission statements for updates.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

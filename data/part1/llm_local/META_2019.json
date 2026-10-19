@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Hiring people with different backgrounds and points of view helps us make better decisions, build better products and create better experiences for everyone.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Give people the power to build community and bring the world closer together. We\u2019re committed to building technologies that enable the best of what people can do together.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Our products empower more than 2 billion people around the world to share ideas, offer support and make a difference.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "To be supported by 100% renewable energy",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We work to make technology accessible to everyone, and our business model is ads so our services can be free.",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our mission is to give people the power to build community and bring the world closer together.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone is more aspirational and the language is more aspirational, emphasizing the company's mission and the power of its products to connect people.",
+  "analyst_notes": "The analyst should verify the accuracy of the renewable energy commitment and the specific numbers for daily active and monthly users.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.8
+}

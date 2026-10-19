@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Home",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Board of Directors",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "High Return Organic Growth",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page structure has remained largely unchanged, but the emphasis on sustainability and community investment is highlighted.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.0
+}

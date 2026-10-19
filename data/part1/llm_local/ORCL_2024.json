@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "CEO Larry Ellison introduces a product strategy for delivering Oracle software via the internet.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Oracle becomes a publicly traded company on the NASDAQ exchange.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Oracle is helping government agencies and the medical community better understand and combat the coronavirus.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Build and deploy integrated, mostly automated healthcare information systems and processes.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page has shifted focus from historical milestones to current initiatives and impacts, maintaining the core values but changing the emphasis.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.4
+}

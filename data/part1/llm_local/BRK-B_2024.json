@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "\u00ac-\u00a8uTw",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "\u00ac-\u00a8uTw",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "\u00ac-\u00a8uTw",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted slightly towards more direct communication and customer engagement, with a focus on providing a way to submit comments.",
+  "analyst_notes": "The page content has been heavily edited and contains no values-related changes. The linguistic shift towards more direct communication should be noted.",
+  "n_unverified_dropped": 8,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 11.4
+}

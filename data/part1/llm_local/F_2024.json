@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We value service to each other and the world as much as to our customers.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Having played our part in everything from the birth of the middle class to the recent global pandemic, we serve the world with integrity and competence.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted to emphasize the company's role in society and its commitment to a better world.",
+  "analyst_notes": "The company's purpose statement has been updated, but no other values have changed.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.9
+}

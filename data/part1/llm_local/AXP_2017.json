@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "American Express Card Members",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Amex Express Checkout Rolls Out to New Merchant Partners",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "A heritage built on service and sustained by innovation",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "The tone has shifted from product-focused to more about the company's heritage and values.",
+  "analyst_notes": "The company's focus on innovation and service has been emphasized, indicating a shift in their corporate narrative.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.9
+}

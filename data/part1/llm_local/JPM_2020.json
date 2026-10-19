@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We are proud of our long tradition of integrity, honesty and respect.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "JPMorgan Chase & Co. is the name of the holding company and the firm serves its customers and clients under its Chase and JPMorgan brands.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone is more focused on internal values and workplace culture, with less emphasis on external market presence and services.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives the company has taken to support diversity and inclusion.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.5
+}

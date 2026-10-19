@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We are here for one purpose, to help build a better world, where every person is free to move and pursue their dreams.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "As an organization, Ford believes everyone should have the freedom to move and pursue their dreams, and seeks to create a culture of belonging for every employee.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We value service to each other and the world as much as to our customers.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language used to describe Ford's purpose and the culture has remained consistent, but the emphasis on creating a culture of belonging for employees has been highlighted.",
+  "analyst_notes": "The analyst should verify Ford's commitment to diversity, equity, and inclusion as part of its mission and culture.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

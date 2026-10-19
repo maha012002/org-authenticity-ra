@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "We Dare To Design The Future Of Sport",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "A love of sport unites us. Learn more about Nike's global team.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "The World Is Our Community",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Protecting the Future of Sport",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We believe in the power of sport to move the world. Learn how Nike makes an impact in local communities.",
+      "salience": 1
+    }
+  ],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page emphasizes the company's commitment to social impact and sustainability, while maintaining its focus on innovation and community involvement.",
+  "analyst_notes": "Nike's core values remain consistent, but the emphasis on social impact and sustainability has increased.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.2
+}

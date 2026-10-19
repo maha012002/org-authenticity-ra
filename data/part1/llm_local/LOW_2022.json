@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "The people we serve are at the heart of everything we do.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "To deliver on our mission and drive market share acceleration, we have launched our Total Home Strategy.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Every aspect of our business and strategy is rooted in that mission.",
+      "salience": 2
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Building upon our strong foundation, we will focus on five key areas: Pro, Online, Installation Services, Localization and Assortment.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "Sentences ADDED: 'Together, we deliver the right home improvement products, with the best service and value, across every channel and community we serve.'",
+  "analyst_notes": "The Total Home Strategy and its focus areas have been introduced, but the core values remain unchanged.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.7
+}

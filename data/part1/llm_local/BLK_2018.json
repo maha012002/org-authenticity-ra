@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We aim to be a responsible corporate citizen and to take into account environmental, social and governance issues",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We have world-class capabilities designed for our clients\u2019 greatest needs, with a comprehensive range of products and services",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Our clients come from every corner of the globe. They are governments, companies, foundations, and millions of individuals",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We aim to be a responsible corporate citizen and to take into account environmental, social and governance issues",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our singular focus",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "As a fiduciary for our clients and as public company, our focus is long-term sustainability",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our singular focus: We're passionate about our work and intensely focused on performing at the highest levels.",
+  "analyst_notes": "The page's focus on long-term sustainability and corporate responsibility has been emphasized.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.2
+}

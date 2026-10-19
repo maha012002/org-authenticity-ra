@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "We responsibly provide financial services that enable growth and economic progress",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We responsibly provide financial services that enable growth and economic progress",
+      "salience": 1
+    },
+    {
+      "code": "innovation",
+      "evidence": "Our distinct global network of people, data and relationships creates a mindset that allows Citi to spot opportunities, manage risks and connect dots for our clients in ways that others simply cannot.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone is more focused on the company's mission and the unique value proposition to clients, with a shift away from a broad product list.",
+  "analyst_notes": "Ensure the company's mission statement is accurately reflected in all communications.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

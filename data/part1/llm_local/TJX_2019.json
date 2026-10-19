@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are the largest off-price retailer of apparel and home fashions worldwide and our mission is to deliver great value to our customers every day.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We see ourselves as leaders in innovation, constantly testing new ideas, seeking the right categories, current fashions and top brands, and leveraging information from our worldwide buying presence.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We believe that we operate one of the most flexible business models in the world and that year after year, our great flexibility has enabled us to succeed through various economic and retail environments.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The language used to describe our business model and our approach to innovation has been slightly rephrased, but the core values remain the same.",
+  "analyst_notes": "A researcher should verify the accuracy of the financial figures and the specific details of our business model and innovation strategies.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.8
+}

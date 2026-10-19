@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We are committed to being the premier, research-intensive biopharmaceutical company and are dedicated to providing leading innovations and solutions for today and the future.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are determined to transform breakthrough science into novel therapeutic and vaccine options.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our values & standards are set forth in Merck's Code of Conduct.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "gallons of water saved over the past 6 years",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are determined to transform breakthrough science into novel therapeutic and vaccine options.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our company is known as Merck in the United States and Canada. Everywhere else, we are known as MSD. Our Board of Directors & Executive Committee",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The analyst should verify the accuracy of the 2017 revenue and R&D expense figures provided.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.5
+}

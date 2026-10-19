@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "values_or_mission",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The page now includes more specific examples and initiatives related to the values, such as the Racial Equity and Justice Initiative and Supplier Responsibility.",
+  "analyst_notes": "Ensure that the initiatives and examples provided are accurate and up-to-date.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.4
+}

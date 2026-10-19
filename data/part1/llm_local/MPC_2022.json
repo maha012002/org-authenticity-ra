@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "All of these corporate values are vital to our financial performance and to our corporate image and reputation.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "All of these corporate values are vital to our financial performance and to our corporate image and reputation.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "All of these corporate values are vital to our financial performance and to our corporate image and reputation.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone remains consistent, but the emphasis on shared value and stakeholder accountability is highlighted.",
+  "analyst_notes": "Double-check the company's commitment to creating shared value and stakeholder accountability.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

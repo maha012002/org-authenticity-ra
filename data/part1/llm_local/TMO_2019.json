@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "serving science, with revenues of more than $24 billion and approximately 70,000 employees globally.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "accelerate life sciences research, solve complex analytical challenges, improve patient diagnostics, deliver medicines to market and increase laboratory productivity.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The mission statement and product focus remain unchanged, but the company's global reach and financial performance are highlighted.",
+  "analyst_notes": "The company's global presence and financial performance have increased, but the core values and mission remain consistent.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.9
+}

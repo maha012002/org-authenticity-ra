@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "LIFE-CHANGING TECHNOLOGY",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The language has remained consistent in expressing the company's core values and purpose.",
+  "analyst_notes": "The Abbott Laboratories website has not changed its values-related content or emphasis from 2022.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.1
+}

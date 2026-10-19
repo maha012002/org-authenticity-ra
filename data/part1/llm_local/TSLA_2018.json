@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "purpose_mission",
+      "evidence": "Tesla\u2019s mission is to accelerate the world\u2019s transition to sustainable energy.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Tesla was founded in 2003 by a group of engineers who wanted to prove that people didn\u2019t need to compromise to drive electric \u2013 that electric vehicles can be better, quicker and more fun to drive than gasoline cars.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Tesla\u2019s mission is to accelerate the world\u2019s transition to sustainable energy.",
+      "salience": 1
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Tesla\u2019s vehicles are produced at its factory in Fremont, California, where the vast majority of the vehicle\u2019s components are also made.",
+      "salience": 1
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Tesla was founded in 2003 by a group of engineers who wanted to prove that people didn\u2019t need to compromise to drive electric \u2013 that electric vehicles can be better, quicker and more fun to drive than gasoline cars.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "A significant portion of the text is historical context and product details, not directly related to values or mission statements.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.9
+}

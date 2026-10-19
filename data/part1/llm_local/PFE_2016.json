@@ -1,0 +1,12 @@
+{
+  "themes": [],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "The tone and emphasis have remained consistent, with a focus on innovation, customer focus, and respect for people.",
+  "analyst_notes": "The analyst should verify the specific initiatives and programs related to environmental sustainability and community impact.",
+  "n_unverified_dropped": 6,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.3
+}

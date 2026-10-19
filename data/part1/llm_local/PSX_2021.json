@@ -1,0 +1,73 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We do this while living out our values of safety, honor and commitment; improving lives by providing access to the energy which is essential to a high standard of living and health throughout the world.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are excited about the future of energy. Our advantaged and nimble company is full of seasoned leadership and talented teams making responsible choices to adapt and explore the opportunities the changing market brings.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are enhancing our portfolio by capturing growth opportunities in Midstream and Chemicals.",
+      "salience": 2
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our employees, suppliers and partners share this vision to provide energy and improve lives.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases.",
+      "salience": 2
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are enhancing our portfolio by capturing growth opportunities in Midstream and Chemicals.",
+      "salience": 1
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases.",
+      "salience": 1
+    },
+    {
+      "code": "safety",
+      "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases.",
+      "salience": 2
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "We are committed to financial strength, disciplined capital allocation, dividend growth and share repurchases.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our vision is to provide energy and improve lives, and we back that up with core company values of safety, honor and commitment.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "The tone and emphasis have shifted slightly to emphasize the company's commitment to financial strength, disciplined capital allocation, dividend growth, and share repurchases.",
+  "analyst_notes": "A researcher should double-check the company's recent capital allocation strategies and financial performance metrics.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 15.5
+}

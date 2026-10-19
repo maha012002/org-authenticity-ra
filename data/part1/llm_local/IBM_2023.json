@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "Creators, partners and clients putting technology to work in the real world",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Brings together the world\u2019s leading platform and infrastructure partners who add critical value to solutions",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Brings together the world\u2019s leading platform and infrastructure partners who add critical value to solutions",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "In 2021, we furthered our tradition of leadership in sustainability, announcing a goal of net-zero greenhouse gas emissions by 2030 across all the countries in which we operate",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our clients\u2019 systems support modern society. In making them faster, more productive, and more secure, we don\u2019t just make business work better. We make the world work better",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's tone remains consistent, with no significant rewording or reframing of values.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.4
+}

@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "environment_sustainability",
+      "evidence": "Sustainability is at the core of the Company\u2019s long-term success, and it is embedded throughout our business.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "With more than 40,000 employees, representing 140 nationalities in more than 80 countries, the company helps its customers maximize value throughout the lifecycle of the reservoir \u2013 from locating hydrocarbons and managing geological data, to drilling and formation evaluation, well construction and completion, and optimizing production throughout the life of the asset.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted to emphasize the company's global presence and its services to the energy industry.",
+  "analyst_notes": "The company's sustainability focus is highlighted, but the specific mention of environmental stewardship is not present in the 2019 version.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.7
+}

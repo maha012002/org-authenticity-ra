@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "performance_execution",
+      "evidence": "reliable, affordable and ever-cleaner energy",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "ever-cleaner energy",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "that\u2019s why we\u2019re constantly working to provide reliable, affordable and ever-cleaner energy for the millions around the world that rely on us",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Our greatest resource is our people. Their ingenuity, creativity and collaboration have met the complex challenges of energy\u2019s past. Together, we\u2019ll take on the future.",
+  "analyst_notes": "The company's focus on environmental sustainability and community impact has been maintained, but the language around innovation and results has been emphasized.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.3
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Built on Principle",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "A talent-driven company is by definition a diverse and inclusive one.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Our Talent, Supporting Our Communities",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has remained consistent, but the emphasis on diversity and inclusion has been highlighted.",
+  "analyst_notes": "Ensure the company's commitment to diversity and inclusion is reflected in recent actions and initiatives.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 4.8
+}

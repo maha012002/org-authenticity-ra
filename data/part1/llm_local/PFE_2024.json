@@ -1,0 +1,18 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "Integrity and Transparency Building Trust",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "No significant changes in values or mission statements.",
+  "n_unverified_dropped": 4,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 9.3
+}

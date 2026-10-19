@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "The Fourth Industrial Revolution is changing the way people work, using robotics, AI, the Internet of Things, and more.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We\u00e2re helping create a future with greater opportunity and equality for all.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Our Ohana, a Hawaiian word for intentional family, is guided by four core values that serve as the foundation for our decisions, actions, and communication.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our Ohana, a Hawaiian word for intentional family, is guided by four core values that serve as the foundation for our decisions, actions, and communication.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "substantive",
+  "linguistic_shift": "In 1999, we pioneered CRM software in the cloud, helping 150,000+ companies run their business smarter. Today, we're creating a whole new economy that's helping millions of Salesforce users improve their lives, too.",
+  "analyst_notes": "The core values have been clearly stated and reinforced, with new information about the company's impact and the economy it's creating.",
+  "n_unverified_dropped": 3,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.2
+}

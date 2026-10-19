@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "We hold ourselves to the highest standards of ethics and integrity.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We\u2019re at the forefront of research to deliver innovative health solutions that advance the prevention and treatment of diseases in people and animals.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We recognize the importance of embedding a culture of inclusion and belonging at every level of our company.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We recognize the importance of embedding a culture of inclusion and belonging at every level of our company.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We work hard to bring you the medications and vaccines that help fight some of the world's most serious health concerns.",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We strive to provide equal opportunity for all",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We strive to provide equal opportunity for all",
+      "salience": 1
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose: We use the power of leading-edge science to save and improve lives around the world",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone and emphasis on values remain consistent with previous years, with a focus on integrity, innovation, and inclusion.",
+  "analyst_notes": "The analyst should verify the specific actions and initiatives the company has taken to support its stated values, particularly in the areas of diversity, equity, and inclusion.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.3
+}

@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "living out our values of safety, honor and commitment",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We are a diversified energy manufacturing and logistics company with unique businesses in Refining, Midstream, Chemicals and Marketing and Specialties",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "From the laboratory to pilot plants, in-house research and development at Phillips 66 drives new ideas toward commercialization",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Our employees, suppliers, and partners share this vision to provide energy in ways that improve lives",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Our history dates to 1875 through our many predecessor-in-interest companies, including Conoco Inc. and Phillips Petroleum Company (PPCo)",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our vision is to provide energy and improve lives, and we back that up with core company values of safety, honor and commitment",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page has added historical context and employee count, but the core values and mission remain unchanged.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": true,
+  "_status": "coded",
+  "_seconds": 10.9
+}

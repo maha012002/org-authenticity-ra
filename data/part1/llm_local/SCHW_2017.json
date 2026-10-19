@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Charles Schwab was awarded \"Highest in Investor Satisfaction with Full Service Brokerage Firms, Two Years in a Row\" by J.D.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Charles Schwab was awarded \"Highest in Investor Satisfaction with Full Service Brokerage Firms, Two Years in a Row\" by J.D.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "Charles Schwab & Co., Inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Charles Schwab & Co., Inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce.",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Charles Schwab & Co., Inc. is an equal opportunity and affirmative action employer committed to diversifying its workforce.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's content has remained largely unchanged, focusing on recent awards and rankings without introducing new values or themes.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.6
+}

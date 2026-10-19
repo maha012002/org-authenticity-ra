@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "People use Facebook to stay connected with friends and family, to discover what\u2019s going on in the world, and to share and express what matters to them.",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "We encourage people to be bold. Our open culture keeps everyone informed and allows people to move around and solve the problems they care about most. We work in small teams and move fast to develop new products, constantly iterating and improving.",
+      "salience": 2
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We work in small teams and move fast to develop new products, constantly iterating and improving.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "no_prior",
+  "linguistic_shift": "",
+  "analyst_notes": "The tone emphasizes the company's mission and culture over specific product features.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 6.1
+}

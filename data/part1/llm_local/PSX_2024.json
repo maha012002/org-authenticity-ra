@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "safety",
+      "evidence": "We continue to explore and develop a variety of renewable fuels and resources.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We invest in technology to become more efficient and position ourselves to capitalize on emerging opportunities as the energy market transforms.",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Our corporate giving and employee volunteerism programs promote economic, social and environmental efforts in the communities in which we live and work.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page's content remains consistent with the core values of Phillips 66 as of 2023.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.3
+}

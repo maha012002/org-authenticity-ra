@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "Emerging technologies are disrupting old paradigms and unleashing new opportunities.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Oracle is the #1 provider of business software, with a broad portfolio of solutions for companies of all sizes.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "Oracle is again revolutionizing how data is managed.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "Sentences ADDED: Emerging technologies are disrupting old paradigms and unleashing new opportunities. Oracle has embedded innovative technologies in every aspect of our cloud, enabling companies to reimagine their businesses, processes, and experiences.",
+  "analyst_notes": "The page's tone has shifted to emphasize Oracle's technological leadership and innovation, which may require further investigation to understand the implications for the company's strategy and market position.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.8
+}

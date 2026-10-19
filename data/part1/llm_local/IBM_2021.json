@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "integrity",
+      "evidence": "IBMers believe in progress\u2014that the application of intelligence, reason and science can improve business, society and the human condition",
+      "salience": 2
+    },
+    {
+      "code": "innovation",
+      "evidence": "At IBM Research, we invent things that matter. We are a community of thinkers. We make a lasting impact on our industry and the world.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "IBM is your trusted partner for your journey to cloud, integrating leading technology and IBM\u2019s advanced R&D labs to transform your business into a digital enterprise",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "IBM Research pioneers the most promising and disruptive technologies in hybrid cloud, AI and quantum computing",
+      "salience": 1
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "IBM works with the government on the US Social Security Act of 1935, tabulating employment records for 26 million Americans \u2014 the largest accounting project of its time.",
+      "salience": 1
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Review the recent advancements in IBM's AI and quantum computing research for the most current impact on the company's mission and values.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 9.0
+}

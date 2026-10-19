@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "We are committed to and continue to prioritize pay equity for all employees. Fair and equitable compensation practices within a pay-for-performance framework support our culture and are critical to achieving our mission.",
+      "salience": 3
+    },
+    {
+      "code": "diversity_inclusion",
+      "evidence": "We are committed to building an innovative culture where diversity is celebrated, equity is realized and inclusion is embraced. We join together as individuals \u2013 forming a team as diverse as the people we serve \u2013 in meeting our responsibility to improve the health system and building the health workforce with a diverse pipeline of talent.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "Identical archive capture to prior year; prior-year coding reused.",
+  "n_unverified_dropped": 1,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "reused_identical",
+  "_seconds": 6.7
+}

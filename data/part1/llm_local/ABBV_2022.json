@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "code": "innovation",
+      "evidence": "And it requires a continued investment in innovation to address the known and unknown challenges of tomorrow.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "We target diseases with significant unmet need where we can improve the standard of care with innovative new therapies.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We care deeply for patients and customers, their families, our employees, and our communities.",
+      "salience": 3
+    },
+    {
+      "code": "performance_execution",
+      "evidence": "We target diseases with significant unmet need where we can improve the standard of care with innovative new therapies.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We care deeply for patients and customers, their families, our employees, and our communities.",
+      "salience": 2
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "We care deeply for patients and customers, their families, our employees, and our communities.",
+      "salience": 3
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our commitment to health doesn\u2019t stop with our medicines.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "We care deeply for patients and customers, their families, our employees, and our communities. We strive to always do the right thing, pursuing the highest standards in quality, compliance, safety, and performance.",
+  "analyst_notes": "The tone of the page has shifted to emphasize the company's commitment to its stakeholders and the importance of ethical conduct.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}

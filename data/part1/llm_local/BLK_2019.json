@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "code": "collaboration",
+      "evidence": "We are One BlackRock",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are innovators",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "We are One BlackRock",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "minor",
+  "linguistic_shift": "We are One BlackRock, and we are proud of our long history of innovation, driving continuous change to help investors achieve their goals.",
+  "analyst_notes": "The tone of the page has shifted to emphasize the company's collaborative culture and its history of innovation.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 5.0
+}

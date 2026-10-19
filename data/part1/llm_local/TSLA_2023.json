@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We\u2019re building a world powered by solar energy, running on batteries and transported by electric vehicles. Explore the most recent impact of our products, people and supply chain.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Using a first-principles approach, we solve some of the world\u2019s biggest problems.",
+      "salience": 3
+    },
+    {
+      "code": "collaboration",
+      "evidence": "Headquartered in Texas, we operate six huge, vertically integrated factories across three continents. With over 100,000 employees, our teams design, build, sell and service our products in-house.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We\u2019re building a world powered by solar energy, running on batteries and transported by electric vehicles.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone has shifted from a focus on specific products and services to a broader discussion of the company's mission and impact.",
+  "analyst_notes": "A researcher should verify the accuracy of the company's claims regarding the impact of its products and the number of employees.",
+  "n_unverified_dropped": 2,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.1
+}

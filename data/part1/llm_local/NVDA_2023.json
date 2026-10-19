@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Together, we continue to drive advances in AI, HPC, gaming, creative design, autonomous vehicles, and robotics.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We\u2019re delivering AI breakthroughs in a variety of applications to the world\u2019s largest enterprises.",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Today, more than 35,000 companies are building on the NVIDIA AI platform.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We\u2019re even creating a digital twin of our planet\u2014called Earth-2\u2014to help predict climate change decades in advance.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "The mission is boss. Everyone has a voice. And we\u2019ve built a culture where people can do their life's work.",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The tone remains focused on innovation and impact, with a slight shift towards emphasizing the company's mission and culture.",
+  "analyst_notes": "A researcher should verify the specific applications of AI and the impact on climate change mentioned in the text.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 10.6
+}

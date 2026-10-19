@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "code": "customer",
+      "evidence": "We want to be their performance partner of choice.",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "We are industry leaders because of our exceptional and talented people. They are the core that drives our purpose and integrity, which fuel our belief that everyone should have the opportunity to reach their greatest potential. Ever-evolving and constantly innovating, we transcend every cultural and technological boundary set before us.",
+      "salience": 3
+    },
+    {
+      "code": "respect_people",
+      "evidence": "They are the core that drives our purpose and integrity, which fuel our belief that everyone should have the opportunity to reach their greatest potential.",
+      "salience": 3
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "We are leading the energy industry forward\u2014together.",
+      "salience": 2
+    },
+    {
+      "code": "purpose_mission",
+      "evidence": "Our purpose: Together, we create amazing technology that unlocks access to energy for the benefit of all.",
+      "salience": 3
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "",
+  "analyst_notes": "The page maintains its core themes and values without significant rewording or changes.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 7.3
+}

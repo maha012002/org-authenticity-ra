@@ -1,0 +1,43 @@
+{
+  "themes": [
+    {
+      "code": "respect_people",
+      "evidence": "Laying The Foundation, Caring for Children, Rebuilding Countries, Stronger Starts, Increased Capabilities, Going Public, Global Impact, Community Commitment, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "innovation",
+      "evidence": "Rebuilding Countries, Stronger Starts, Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "customer",
+      "evidence": "Caring for Children, Going Public, Community Commitment",
+      "salience": 2
+    },
+    {
+      "code": "environment_sustainability",
+      "evidence": "Rebuilding Countries, Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "community_social_impact",
+      "evidence": "Caring for Children, Going Public, Community Commitment, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 3
+    },
+    {
+      "code": "shareholder_value",
+      "evidence": "Going Public, Transitions and Strategic Alliances, Dedication to Sustainability",
+      "salience": 2
+    }
+  ],
+  "page_type": "not_usable",
+  "values_change_vs_prior": "none",
+  "linguistic_shift": "The focus shifts from internal reorganizations and capabilities to external commitments and sustainability initiatives.",
+  "analyst_notes": "The page now emphasizes the company's community and sustainability efforts, which were not as prominent in the 2016 version.",
+  "n_unverified_dropped": 0,
+  "_model": "qwen2.5:3b",
+  "_page_truncated": false,
+  "_status": "coded",
+  "_seconds": 8.2
+}
