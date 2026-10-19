@@ -47,9 +47,11 @@ python part1/code_themes.py          # keyword baseline + deterministic change d
 python part1/build_dataset.py        # -> data/part1/part1_stated_values.csv
 
 # Part 1 LLM step (free, local): install Ollama from https://ollama.com, then
-ollama pull qwen2.5:3b
+ollama pull qwen2.5:7b
 python part1/analyze_llm.py --limit 5   # timing test, prints an ETA
 python part1/analyze_llm.py             # full run (resumable); merges LLM columns + agreement report
+python part1/handcheck_sheet.py make    # human hand-check sheet (20 pages); fill it in, then:
+python part1/handcheck_sheet.py score   # -> data/part1/handcheck_results.json
 
 # Part 2
 python part2/fetch_proxy_statements.py --contact you@upenn.edu

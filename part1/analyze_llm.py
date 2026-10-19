@@ -21,11 +21,15 @@ Design choices (each documented again in part1/README.md):
     Themes whose evidence cannot be found are dropped and counted (n_unverified_dropped),
     because small models sometimes paraphrase or invent quotes.
   * temperature 0 and a fixed seed, so reruns give the same output; every response is cached
-    in data/part1/llm_local/, so the run is resumable after an interruption.
+    in a per-model folder, so the run is resumable and runs of different models can be compared
+    (model robustness: per-theme kappa between e.g. qwen2.5:3b and qwen2.5:7b).
+  * page_type is defined explicitly in the prompt; "not_usable" is reserved for pages with
+    essentially no readable company text (a 3B model otherwise applies it to most pages).
+  * linguistic_shift is forced empty when there is no prior-year snapshot to compare with.
 
 Setup (once):
   1. Install Ollama: https://ollama.com/download
-  2. ollama pull qwen2.5:3b          (about 2 GB; use qwen2.5:7b instead if you have a GPU)
+  2. ollama pull qwen2.5:7b          (about 4.7 GB; qwen2.5:3b is faster but clearly weaker here)
 Usage:
   python part1/analyze_llm.py --check            # is Ollama running and the model available?
   python part1/analyze_llm.py --limit 5          # timing test: codes 5 snapshots, prints an ETA
@@ -34,9 +38,9 @@ Usage:
 Run AFTER part1/build_dataset.py; re-run --merge-only if you rebuild the dataset.
 
 Outputs:
-  data/part1/llm_local/<ticker>_<year>.json      raw model output per snapshot (cache)
+  data/part1/llm_local_<model>/<ticker>_<year>.json   raw model output per snapshot (one cache per model)
   data/part1/part1_stated_values.csv             LLM columns merged in (see merge_into_dataset)
-  data/part1/llm_vs_lexicon_agreement.json       per-theme kappa + change-detection crosstab
+  data/part1/llm_vs_lexicon_agreement.json       per-theme kappa vs keywords and vs other models' runs
 """
 from __future__ import annotations
 
@@ -57,13 +61,10 @@ from common import CONFIG, DATA  # noqa: E402
 
 P1 = DATA / "part1"
 TEXT_DIR = P1 / "text"
-CACHE = P1 / "llm_local"
 DATASET = P1 / "part1_stated_values.csv"
 AGREEMENT = P1 / "llm_vs_lexicon_agreement.json"
-CACHE.mkdir(parents=True, exist_ok=True)
-
 OLLAMA = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
-DEFAULT_MODEL = os.environ.get("OLLAMA_MODEL", "qwen2.5:3b")
+DEFAULT_MODEL = os.environ.get("OLLAMA_MODEL", "qwen2.5:7b")
 MAX_PAGE_CHARS = 6000   # p90 page is ~4,300 chars; longer pages are mostly repeated menus
 MAX_DIFF_CHARS = 1500   # per side (added / removed sentences)
 PAGE_TYPES = ["values_or_mission", "general_about", "careers_or_culture", "homepage", "other", "not_usable"]
@@ -99,7 +100,8 @@ SYSTEM = (
     "You code corporate 'About Us' and values pages for an organizational-behavior study. "
     "Use only the text you are given. Be conservative: assign a theme only when the page clearly "
     "presents it as something the company values or prioritizes, not a passing product mention. "
-    "Evidence must be copied exactly from the CURRENT PAGE, at most 15 words. Answer in JSON only."
+    "Evidence must be copied exactly from the CURRENT PAGE, at most 15 words. Each quote supports "
+    "one theme only: choose the code whose definition fits that quote best. Answer in JSON only."
 )
 
 PROMPT = """CODEBOOK (code: definition)
@@ -117,7 +119,14 @@ CURRENT PAGE ({year}):
 Return JSON with:
 - themes: every codebook theme the page clearly expresses, each with exact evidence and salience
   (3 = central or repeated, 2 = clearly stated, 1 = brief mention)
-- page_type: what kind of page this is ("not_usable" if it is mostly navigation, an error page or empty)
+- page_type, using these definitions:
+    values_or_mission  = states the company's mission, purpose, values, credo or principles
+    general_about      = describes the company (what it does, history, facts) with little values language
+    careers_or_culture = mainly addressed to job seekers or about working at the company
+    homepage           = a site front page dominated by products, news or promotions
+    other              = a real page that fits none of the above
+    not_usable         = ONLY when there is essentially no readable company text (error page,
+                         cookie notice, or nothing but a list of menu links)
 - values_change_vs_prior: {change_instruction}
 - linguistic_shift: one or two sentences on how tone or emphasis shifted vs. the prior year, or "" if none
 - analyst_notes: one sentence on anything a researcher should double-check, or ""
@@ -125,6 +134,13 @@ Return JSON with:
 
 
 # --------------------------------------------------------------------------- helpers
+def cache_dir(model: str) -> Path:
+    """One cache folder per model, e.g. data/part1/llm_local_qwen2.5-7b."""
+    d = P1 / f"llm_local_{model.replace(':', '-').replace('/', '-')}"
+    d.mkdir(parents=True, exist_ok=True)
+    return d
+
+
 def norm(s: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]+", " ", s.lower())).strip()
 
@@ -217,8 +233,9 @@ def code_snapshot(model: str, row: dict, text: str, prior_text: str | None, prio
             dropped += 1
     out["themes"] = kept
     out["n_unverified_dropped"] = dropped
-    if prior_text is None:
-        out["values_change_vs_prior"] = "no_prior"   # enforce; the model cannot see a prior year
+    if prior_text is None:   # enforce: the model cannot see a prior year, so it cannot judge a shift
+        out["values_change_vs_prior"] = "no_prior"
+        out["linguistic_shift"] = ""
     out["_model"] = model
     out["_page_truncated"] = len(text) > MAX_PAGE_CHARS
     return out
@@ -240,6 +257,7 @@ def snapshot_rows() -> list[dict]:
 
 
 def run(model: str, limit: int | None, tickers: set | None) -> None:
+    CACHE = cache_dir(model)
     rows = snapshot_rows()
     if tickers:
         rows = [r for r in rows if r["ticker"] in tickers]
@@ -286,7 +304,7 @@ def run(model: str, limit: int | None, tickers: set | None) -> None:
 
 
 # --------------------------------------------------------------------------- merge + agreement
-def merge_into_dataset() -> None:
+def merge_into_dataset(model: str) -> None:
     """Put LLM output in the brief's required columns; keep keyword output under clear names.
 
     Renames (only when the dataset still has build_dataset.py's original columns):
@@ -299,6 +317,7 @@ def merge_into_dataset() -> None:
     theme__<code> salience columns stay keyword-based: Parts 3-4 compare them with Part 2's
     keyword salience, so both sides of the authenticity index use the same instrument.
     """
+    CACHE = cache_dir(model)
     rows = load_csv(DATASET)
     fields = list(rows[0].keys())
     renames = {"theme_categories": "lexicon_theme_categories", "llm_values_change": "rule_values_change",
@@ -339,8 +358,8 @@ def merge_into_dataset() -> None:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
         w.writerows(rows)
-    print(f"Merged LLM columns into {DATASET}")
-    agreement_report(rows)
+    print(f"Merged LLM columns from {CACHE.name} into {DATASET}")
+    agreement_report(rows, model)
 
 
 def kappa(a: list[bool], b: list[bool]) -> float | None:
@@ -353,7 +372,35 @@ def kappa(a: list[bool], b: list[bool]) -> float | None:
     return None if pe == 1 else round((po - pe) / (1 - pe), 3)
 
 
-def agreement_report(rows: list[dict]) -> None:
+def themes_by_stem(folder: Path) -> dict[str, set]:
+    out = {}
+    for f in folder.glob("*.json"):
+        out[f.stem] = {t["code"] for t in json.loads(f.read_text(encoding="utf-8")).get("themes", [])}
+    return out
+
+
+def model_robustness(model: str) -> dict:
+    """Per-theme kappa between this model's coding and every other model's cached run."""
+    mine = themes_by_stem(cache_dir(model))
+    result = {}
+    for other in sorted(P1.glob("llm_local_*")):
+        if other == cache_dir(model) or not other.is_dir():
+            continue
+        theirs = themes_by_stem(other)
+        shared = sorted(set(mine) & set(theirs))
+        if not shared:
+            continue
+        per = {c: kappa([c in mine[s] for s in shared], [c in theirs[s] for s in shared]) for c in CODES}
+        vals = [v for v in per.values() if v is not None]
+        result[other.name.replace("llm_local_", "")] = {
+            "n_shared_pages": len(shared),
+            "mean_kappa_across_themes": round(st.mean(vals), 3) if vals else None,
+            "per_theme_kappa": per,
+        }
+    return result
+
+
+def agreement_report(rows: list[dict], model: str) -> None:
     coded = [r for r in rows if r.get("llm_status") in ("coded", "reused_identical")]
     if not coded:
         print("No LLM-coded rows yet; skipping agreement report.")
@@ -370,7 +417,11 @@ def agreement_report(rows: list[dict]) -> None:
     for r in coded:
         crosstab.setdefault(r.get("changed_from_prior", ""), {}).setdefault(r["llm_values_change"], 0)
         crosstab[r.get("changed_from_prior", "")][r["llm_values_change"]] += 1
+    page_types: dict[str, int] = {}
+    for r in coded:
+        page_types[r["llm_page_type"]] = page_types.get(r["llm_page_type"], 0) + 1
     report = {
+        "model": model,
         "n_llm_coded": len(coded),
         "n_reused_identical": sum(r["llm_status"] == "reused_identical" for r in coded),
         "zero_theme_pages": {"llm": sum(not r["theme_categories"] for r in coded),
@@ -379,6 +430,8 @@ def agreement_report(rows: list[dict]) -> None:
         "mean_kappa_across_themes": round(st.mean(ks), 3) if ks else None,
         "per_theme": per_theme,
         "deterministic_change_vs_llm_values_change": crosstab,
+        "llm_page_type_counts": page_types,
+        "model_robustness_vs_other_runs": model_robustness(model),
     }
     AGREEMENT.write_text(json.dumps(report, indent=2), encoding="utf-8")
     print(json.dumps({k: v for k, v in report.items() if k != "per_theme"}, indent=2))
@@ -399,7 +452,7 @@ def main() -> None:
         if args.check:
             return
         run(args.model, args.limit, set(args.tickers) if args.tickers else None)
-    merge_into_dataset()
+    merge_into_dataset(args.model)
 
 
 if __name__ == "__main__":
