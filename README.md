@@ -7,14 +7,14 @@ Healthcare, Consumer Discretionary, Energy), **2016–2024**.
 the priorities that show up in their mandatory proxy statements (DEF 14A)? The gap between
 stated and lived values is the authenticity signal this pipeline measures.
 
-The Qualtrics intake survey is already completed separately. This repository is the
+The intake survey (Google Form) is already completed separately. This repository is the
 technical + written deliverable (code, data, decisions, and 1–2 page summaries per part).
 
 ## Layout
 ```
 config/            companies, About-page URL seeds, theme codebook
 common.py          shared paths, polite HTTP session (retries + rate limit)
-part1/             stated values: Wayback → text → dictionary coding → dataset
+part1/             stated values: Wayback → text → local-LLM analysis (+ keyword baseline) → dataset
 part2/             lived values: SEC DEF 14A → text mining
 part3/             authenticity index (stated vs lived)
 part4/             extra analyses (COVID shift, redesign check, ESG-in-pay, rankings)
@@ -24,11 +24,16 @@ DECISIONS.md       every judgment call and why
 ```
 
 ## Method in one paragraph
-For each firm-year we archive one About/values page (Wayback), clean the text, detect
-year-to-year change with digests + similarity, and score 12 value themes with a shared
-**keyword dictionary**. Independently we pull that year’s DEF 14A from EDGAR and score the
-same themes plus governance flags (e.g. ESG language near compensation). Part 3 compares
-the two theme profiles; Part 4 stress-tests the design.
+For each firm-year we archive one About/values page (Wayback), clean the text, and detect
+year-to-year change deterministically (archive digest + text similarity). A **local open-weight
+LLM** (Qwen 2.5 via Ollama, schema-constrained JSON, temperature 0) then judges whether the
+*values* content changed, codes 12 value themes with quoted evidence, and describes linguistic
+shifts. A **keyword dictionary** over the same 12 themes is kept as a transparent baseline, and
+the two methods' agreement is reported per theme (Cohen's kappa). Independently we pull that
+year’s DEF 14A from EDGAR and score the same themes with the same dictionary, plus governance
+flags (e.g. ESG language near compensation). Part 3 compares the two keyword theme profiles, so
+both sides use the same instrument, and tests the index with a placebo check; Part 4
+stress-tests the design.
 
 ## Run order
 ```bash
@@ -38,8 +43,13 @@ pip install -r requirements.txt
 # Part 1 (~1–2 h for Wayback collect)
 python part1/collect_snapshots.py --contact you@upenn.edu
 python part1/extract_text.py
-python part1/code_themes.py          # or: python part1/analyze_llm.py
+python part1/code_themes.py          # keyword baseline + deterministic change detection
 python part1/build_dataset.py        # -> data/part1/part1_stated_values.csv
+
+# Part 1 LLM step (free, local): install Ollama from https://ollama.com, then
+ollama pull qwen2.5:3b
+python part1/analyze_llm.py --limit 5   # timing test, prints an ETA
+python part1/analyze_llm.py             # full run (resumable); merges LLM columns + agreement report
 
 # Part 2
 python part2/fetch_proxy_statements.py --contact you@upenn.edu
@@ -47,22 +57,33 @@ python part2/mine_proxies.py         # -> data/part2/part2_lived_values.csv
 
 # Part 3 + 4
 python part3/authenticity_index.py
+python part3/validity_checks.py      # distribution, placebo test, known-groups check
 python part4/extra_analysis.py
 ```
 
 ## Status
-- [x] Part 1 collection, extraction, change detection, dictionary coding, dataset
+- [x] Part 1 collection, extraction, change detection, keyword baseline, dataset
+- [x] Part 1 local-LLM analysis + LLM-vs-keyword agreement report
 - [x] Part 2 collection + text mining
-- [x] Part 3 authenticity index
+- [x] Part 3 authenticity index + validity checks
 - [x] Part 4 extra analyses
 - [x] Written summaries (`part1`–`part4`/`SUMMARY.md`) and `DECISIONS.md`
-- [x] Qualtrics survey (completed outside this repo)
+- [x] Intake survey (Google Form, completed outside this repo)
 
 ## Key outputs
 | File | What it is |
 | --- | --- |
-| `data/part1/part1_stated_values.csv` | Stated themes, 450 company-years |
+| `data/part1/part1_stated_values.csv` | Stated themes (LLM + keyword baseline), 450 company-years |
+| `data/part1/llm_vs_lexicon_agreement.json` | Per-theme agreement between the LLM and keyword coding |
 | `data/part2/part2_lived_values.csv` | Lived themes + proxy flags |
 | `data/part3/authenticity_firm.csv` | Firm-level authenticity scores |
 | `data/part3/sector_summary.csv` | Sector rollup |
+| `data/part3/validity_report.json` | Distribution, placebo test, known-groups check |
 | `data/part4/*` | COVID, redesign, ESG-in-pay, cheap-talk ranking |
+
+## Use of AI tools
+I used an AI assistant (Claude) to help scaffold and debug the pipeline code and to review this
+repository before submission. The research design choices (codebook, page-selection rules,
+document source, index definition and Part 4 question), the review of outputs, and the
+interpretation in the summaries are my own. Separately, Part 1 uses a local open-weight LLM as a
+research instrument, as described above.

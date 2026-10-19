@@ -42,7 +42,7 @@ def main() -> None:
         for y in YEARS:
             m = manifest.get((t, y), {})
             stem = f"{t.replace('.', '-')}_{y}"
-            tpath, lpath = P1 / "text" / f"{stem}.txt", P1 / "llm" / f"{stem}.json"
+            tpath, lpath = P1 / "text" / f"{stem}.txt", P1 / "lexicon" / f"{stem}.json"
             text = tpath.read_text(encoding="utf-8") if tpath.exists() else ""
             llm = json.loads(lpath.read_text()) if lpath.exists() else {}
             ch = changes.get((t, y), {})

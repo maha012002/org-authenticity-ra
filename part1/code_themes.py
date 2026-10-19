@@ -13,9 +13,8 @@
 
 (c) page_type / values_change — rule-based from keywords and similarity.
 
-Caches: data/part1/llm/<ticker>_<year>.json  (folder name kept for continuity)
+Caches: data/part1/lexicon/<ticker>_<year>.json
 Usage:  python part1/code_themes.py [--tickers MSFT JNJ]
-        python part1/analyze_llm.py   # thin alias; same lexicon coder
 """
 from __future__ import annotations
 
@@ -32,7 +31,7 @@ from common import CONFIG, DATA  # noqa: E402
 
 P1 = DATA / "part1"
 TEXT_DIR = P1 / "text"
-CACHE_DIR = P1 / "llm"
+CACHE_DIR = P1 / "lexicon"
 CHANGES = P1 / "change_detection.csv"
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 

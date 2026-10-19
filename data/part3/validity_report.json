@@ -1,0 +1,41 @@
+{
+  "distribution": {
+    "n": 396,
+    "mean": 0.539,
+    "sd": 0.218,
+    "min": -0.25,
+    "p25": 0.422,
+    "median": 0.56,
+    "p75": 0.693,
+    "max": 1.0
+  },
+  "variance_share_between_firms": 0.567,
+  "firms_scored": 49,
+  "firms_not_scored": [
+    "AVGO"
+  ],
+  "themes_per_doc": {
+    "stated_mean": 4.73,
+    "lived_mean": 11.12,
+    "lived_share_hitting_all_12": 0.389,
+    "lived_share_hitting_10plus": 0.949
+  },
+  "placebo_test": {
+    "true_pair_mean": 0.539,
+    "placebo_mean": 0.509,
+    "placebo_sd_of_means": 0.005,
+    "difference": 0.03,
+    "one_sided_p": 0.005,
+    "n_permutations": 200
+  },
+  "known_groups_env_gap": {
+    "esg_in_pay": {
+      "n": 338,
+      "mean_abs_gap": 1.988
+    },
+    "no_esg_in_pay": {
+      "n": 54,
+      "mean_abs_gap": 2.185
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # Submission checklist
 
-Qualtrics survey: **already completed** (outside this repo).
+Intake survey (Google Form): **already completed** (outside this repo).
 
 ## What to turn in from this repository
 1. **Code + config** — runnable Part 1–4 pipeline (`README.md` has the run order).
@@ -15,8 +15,11 @@ Qualtrics survey: **already completed** (outside this repo).
    - `DECISIONS.md` (judgment log)
 
 ## Method used for theme coding
-**Dictionary / keyword coding** on a shared 12-theme codebook
-(`part1/code_themes.py`; `part1/analyze_llm.py` is a compatibility alias).
+- **Part 1 (required LLM pipeline):** local open-weight LLM via Ollama (`part1/analyze_llm.py`)
+  codes values change, themes with quoted evidence, and linguistic shifts.
+- **Keyword baseline:** shared 12-theme dictionary (`part1/code_themes.py`), also applied to
+  proxy statements in Part 2 so the Part 3 index compares like with like. Agreement between
+  the two Part 1 methods: `data/part1/llm_vs_lexicon_agreement.json`.
 
 ## Do not include
 - Secrets or private `.env` files  
